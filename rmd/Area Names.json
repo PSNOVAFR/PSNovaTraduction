@@ -1,0 +1,192 @@
+{
+"790001": {
+	"OriginalText": "銅の荒野 1",
+	"Text": "Désert de cuivre 1",
+	"Enabled": true
+},
+"790002": {
+	"OriginalText": "銅の荒野 2",
+	"Text": "Désert de cuivre 2",
+	"Enabled": true
+},
+"790003": {
+	"OriginalText": "銅の荒野 3",
+	"Text": "Désert de cuivre 3",
+	"Enabled": true
+},
+"790004": {
+	"OriginalText": "追加クエスト",
+	"Text": "Désert de cuivre 4",
+	"Enabled": true
+},
+"790005": {
+	"OriginalText": "バトル体験版２特別マップ",
+	"Text": "Carte spéciale: Bataille d'essai 2",
+	"Enabled": true
+},
+"790006": {
+	"OriginalText": "グラン水装 1",
+	"Text": "Grand marine wear 1",
+	"Enabled": true
+},
+"790007": {
+	"OriginalText": "グラン水装 2",
+	"Text": "Grand marine wear 2",
+	"Enabled": true
+},
+"790008": {
+	"OriginalText": "グラン水装 3",
+	"Text": "Grand marine wear 3",
+	"Enabled": true
+},
+"790009": {
+	"OriginalText": "炎の高地 1",
+	"Text": "Highland de Flammes 1",
+	"Enabled": true
+},
+"790010": {
+	"OriginalText": "炎の高地 2",
+	"Text": "Highland de Flammes 2",
+	"Enabled": true
+},
+"790011": {
+	"OriginalText": "炎の高地 3",
+	"Text": "Highland de Flammes 3",
+	"Enabled": true
+},
+"790012": {
+	"OriginalText": "炎の高地 4",
+	"Text": "Highland de Flammes 4",
+	"Enabled": true
+},
+"790013": {
+	"OriginalText": "古代都市 1",
+	"Text": "Ville ancienne 1",
+	"Enabled": true
+},
+"790014": {
+	"OriginalText": "古代都市 2",
+	"Text": "Ville ancienne 2",
+	"Enabled": true
+},
+"790015": {
+	"OriginalText": "大尖塔 1",
+	"Text": "Grande flèche 1",
+	"Enabled": true
+},
+"790016": {
+	"OriginalText": "大尖塔 2",
+	"Text": "Grande flèche 2",
+	"Enabled": true
+},
+"790017": {
+	"OriginalText": "ノヴァ内部",
+	"Text": "À l'intérieur de Nova",
+	"Enabled": true
+},
+"790018": {
+	"OriginalText": "？？？",
+	"Text": "???",
+	"Enabled": true
+},
+"790019": {
+	"OriginalText": "拠点",
+	"Text": "Base",
+	"Enabled": true
+},
+"790020": {
+	"OriginalText": "上層",
+	"Text": "Partie supérieure",
+	"Enabled": true
+},
+"790021": {
+	"OriginalText": "デルタ・ヴァリアント探索拠点",
+	"Text": "Base de recherche Delta Valiant",
+	"Enabled": true
+},
+"790022": {
+	"OriginalText": "下層",
+	"Text": "Partie inférieure",
+	"Enabled": true
+},
+"790023": {
+	"OriginalText": "ブリッジ",
+	"Text": "Pont",
+	"Enabled": true
+},
+"790024": {
+	"OriginalText": "コールドスリープルーム",
+	"Text": "Chambre froide",
+	"Enabled": true
+},
+"790025": {
+	"OriginalText": "マルチプレイルーム",
+	"Text": "Salle multijoueur",
+	"Enabled": true
+},
+"790026": {
+	"OriginalText": "トレーニングルーム",
+	"Text": "Salle de formation",
+	"Enabled": true
+},
+"790027": {
+	"OriginalText": "エリア1",
+	"Text": "Zone 1",
+	"Enabled": true
+},
+"790028": {
+	"OriginalText": "エリア2",
+	"Text": "Zone 2",
+	"Enabled": true
+},
+"790029": {
+	"OriginalText": "エリア3",
+	"Text": "Zone 3",
+	"Enabled": true
+},
+"790030": {
+	"OriginalText": "グラン水装 4",
+	"Text": "Grand marine wear 4",
+	"Enabled": true
+},
+"790031": {
+	"OriginalText": "？？",
+	"Text": "??",
+	"Enabled": true
+},
+"790032": {
+	"OriginalText": "銅の荒野",
+	"Text": "Désert de cuivre",
+	"Enabled": true
+},
+"790033": {
+	"OriginalText": "グラン水装",
+	"Text": "Grand marine wear",
+	"Enabled": true
+},
+"790034": {
+	"OriginalText": "炎の高地",
+	"Text": "Highland de Flammes",
+	"Enabled": true
+},
+"790035": {
+	"OriginalText": "大尖塔",
+	"Text": "Grande flèche",
+	"Enabled": true
+},
+"790036": {
+	"OriginalText": "古代都市",
+	"Text": "Ville ancienne",
+	"Enabled": true
+},
+"790037": {
+	"OriginalText": "ノヴァ内部",
+	"Text": "Nova Interior",
+	"Enabled": true
+},
+"790038": {
+	"OriginalText": "未知",
+	"Text": "Unknown",
+	"Enabled": true
+}
+}

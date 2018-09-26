@@ -1,0 +1,3927 @@
+{
+"240001": {
+	"OriginalText": "クラスカウンターＢ Lv.1",
+	"Text": "Compteur de classe B. Lv.1",
+	"Enabled": true
+},
+"240002": {
+	"OriginalText": "クラスカウンターＢ Lv.2",
+	"Text": "Compteur de classe B. Lv.2",
+	"Enabled": true
+},
+"240003": {
+	"OriginalText": "クラスカウンターＢ Lv.3",
+	"Text": "Compteur de classe B. Lv.3",
+	"Enabled": true
+},
+"240004": {
+	"OriginalText": "クラスカウンターＢ Lv.4",
+	"Text": "Compteur de classe B. Lv.4",
+	"Enabled": true
+},
+"240005": {
+	"OriginalText": "クラスカウンターＢ Lv.5",
+	"Text": "Compteur de classe B. Lv.5",
+	"Enabled": true
+},
+"240006": {
+	"OriginalText": "クラスカウンターＯ Lv.1",
+	"Text": "Compteur de classe O. Lv.1",
+	"Enabled": true
+},
+"240007": {
+	"OriginalText": "クラスカウンターＯ Lv.2",
+	"Text": "Compteur de classe O. Lv.2",
+	"Enabled": true
+},
+"240008": {
+	"OriginalText": "クラスカウンターＯ Lv.3",
+	"Text": "Compteur de classe O. Lv.3",
+	"Enabled": true
+},
+"240009": {
+	"OriginalText": "クラスカウンターＯ Lv.4",
+	"Text": "Compteur de classe O. Lv.4",
+	"Enabled": true
+},
+"240010": {
+	"OriginalText": "クラスカウンターＯ Lv.5",
+	"Text": "Compteur de classe O. Lv.5",
+	"Enabled": true
+},
+"240011": {
+	"OriginalText": "クラスカウンターＷ Lv.1",
+	"Text": "Compteur de classe W. Lv.1",
+	"Enabled": true
+},
+"240012": {
+	"OriginalText": "クラスカウンターＷ Lv.2",
+	"Text": "Compteur de classe W. Lv.2",
+	"Enabled": true
+},
+"240013": {
+	"OriginalText": "クラスカウンターＷ Lv.3",
+	"Text": "Compteur de classe W. Lv.3",
+	"Enabled": true
+},
+"240014": {
+	"OriginalText": "クラスカウンターＷ Lv.4",
+	"Text": "Compteur de classe W. Lv.4",
+	"Enabled": true
+},
+"240015": {
+	"OriginalText": "クラスカウンターＷ Lv.5",
+	"Text": "Compteur de classe W. Lv.5",
+	"Enabled": true
+},
+"240016": {
+	"OriginalText": "クラスカウンター Lv.1",
+	"Text": "Compteur de classe Lv.1",
+	"Enabled": true
+},
+"240017": {
+	"OriginalText": "クラスカウンター Lv.2",
+	"Text": "Compteur de classe Lv.2",
+	"Enabled": true
+},
+"240018": {
+	"OriginalText": "クラスカウンター Lv.3",
+	"Text": "Compteur de classe Lv.3",
+	"Enabled": true
+},
+"240019": {
+	"OriginalText": "クラスカウンター Lv.4",
+	"Text": "Compteur de classe Lv.4",
+	"Enabled": true
+},
+"240020": {
+	"OriginalText": "クラスカウンター Lv.5",
+	"Text": "Compteur de classe Lv.5",
+	"Enabled": true
+},
+"240021": {
+	"OriginalText": "ラボ",
+	"Text": "Laboratoire",
+	"Enabled": true
+},
+"240022": {
+	"OriginalText": "ラボ Lv.2",
+	"Text": "Laboratoire Lv.2",
+	"Enabled": true
+},
+"240023": {
+	"OriginalText": "ラボ Lv.3",
+	"Text": "Laboratoire Lv.3",
+	"Enabled": true
+},
+"240024": {
+	"OriginalText": "ラボ Lv.4",
+	"Text": "Laboratoire Lv.4",
+	"Enabled": true
+},
+"240025": {
+	"OriginalText": "ラボ Lv.5",
+	"Text": "Laboratoire Lv.5",
+	"Enabled": true
+},
+"240041": {
+	"OriginalText": "食堂Ｂ Lv.1",
+	"Text": "Salle à manger B. Lv.1",
+	"Enabled": true
+},
+"240042": {
+	"OriginalText": "食堂Ｂ Lv.2",
+	"Text": "Salle à manger B. Lv.2",
+	"Enabled": true
+},
+"240043": {
+	"OriginalText": "食堂Ｂ Lv.3",
+	"Text": "Salle à manger B. Lv.3",
+	"Enabled": true
+},
+"240044": {
+	"OriginalText": "食堂Ｂ Lv.4",
+	"Text": "Salle à manger B. Lv.4",
+	"Enabled": true
+},
+"240045": {
+	"OriginalText": "食堂Ｂ Lv.5",
+	"Text": "Salle à manger B. Lv.5",
+	"Enabled": true
+},
+"240046": {
+	"OriginalText": "食堂Ｏ Lv.1",
+	"Text": "Salle à manger O. Lv.1",
+	"Enabled": true
+},
+"240047": {
+	"OriginalText": "食堂Ｏ Lv.2",
+	"Text": "Salle à manger O. Lv.2",
+	"Enabled": true
+},
+"240048": {
+	"OriginalText": "食堂Ｏ Lv.3",
+	"Text": "Salle à manger O. Lv.3",
+	"Enabled": true
+},
+"240049": {
+	"OriginalText": "食堂Ｏ Lv.4",
+	"Text": "Salle à manger O. Lv.4",
+	"Enabled": true
+},
+"240050": {
+	"OriginalText": "食堂Ｏ Lv.5",
+	"Text": "Salle à manger O. Lv.5",
+	"Enabled": true
+},
+"240051": {
+	"OriginalText": "食堂Ｗ Lv.1",
+	"Text": "Salle à manger W. Lv.1",
+	"Enabled": true
+},
+"240052": {
+	"OriginalText": "食堂Ｗ Lv.2",
+	"Text": "Salle à manger W. Lv.2",
+	"Enabled": true
+},
+"240053": {
+	"OriginalText": "食堂Ｗ Lv.3",
+	"Text": "Salle à manger W. Lv.3",
+	"Enabled": true
+},
+"240054": {
+	"OriginalText": "食堂Ｗ Lv.4",
+	"Text": "Salle à manger W. Lv.4",
+	"Enabled": true
+},
+"240055": {
+	"OriginalText": "食堂Ｗ Lv.5",
+	"Text": "Salle à manger W. Lv.5",
+	"Enabled": true
+},
+"240056": {
+	"OriginalText": "食堂 Lv.1",
+	"Text": "Salle à manger Lv.1",
+	"Enabled": true
+},
+"240057": {
+	"OriginalText": "食堂 Lv.2",
+	"Text": "Salle à manger Lv.2",
+	"Enabled": true
+},
+"240058": {
+	"OriginalText": "食堂 Lv.3",
+	"Text": "Salle à manger Lv.3",
+	"Enabled": true
+},
+"240059": {
+	"OriginalText": "食堂 Lv.4",
+	"Text": "Salle à manger Lv.4",
+	"Enabled": true
+},
+"240060": {
+	"OriginalText": "食堂 Lv.5",
+	"Text": "Salle à manger Lv.5",
+	"Enabled": true
+},
+"240061": {
+	"OriginalText": "武器ショップＢ Lv.1",
+	"Text": "Magasin d'armes B. Lv.1",
+	"Enabled": true
+},
+"240062": {
+	"OriginalText": "武器ショップＢ Lv.2",
+	"Text": "Magasin d'armes B. Lv.2",
+	"Enabled": true
+},
+"240063": {
+	"OriginalText": "武器ショップＢ Lv.3",
+	"Text": "Magasin d'armes B. Lv.3",
+	"Enabled": true
+},
+"240064": {
+	"OriginalText": "武器ショップＢ Lv.4",
+	"Text": "Magasin d'armes B. Lv.4",
+	"Enabled": true
+},
+"240065": {
+	"OriginalText": "武器ショップＢ Lv.5",
+	"Text": "Magasin d'armes B. Lv.5",
+	"Enabled": true
+},
+"240066": {
+	"OriginalText": "武器ショップＯ Lv.1",
+	"Text": "Magasin d'armes O. Lv.1",
+	"Enabled": true
+},
+"240067": {
+	"OriginalText": "武器ショップＯ Lv.2",
+	"Text": "Magasin d'armes O. Lv.2",
+	"Enabled": true
+},
+"240068": {
+	"OriginalText": "武器ショップＯ Lv.3",
+	"Text": "Magasin d'armes O. Lv.3",
+	"Enabled": true
+},
+"240069": {
+	"OriginalText": "武器ショップＯ Lv.4",
+	"Text": "Magasin d'armes O. Lv.4",
+	"Enabled": true
+},
+"240070": {
+	"OriginalText": "武器ショップＯ Lv.5",
+	"Text": "Magasin d'armes O. Lv.5",
+	"Enabled": true
+},
+"240071": {
+	"OriginalText": "武器ショップＷ Lv.1",
+	"Text": "Magasin d'armes W. Lv.1",
+	"Enabled": true
+},
+"240072": {
+	"OriginalText": "武器ショップＷ Lv.2",
+	"Text": "Magasin d'armes W. Lv.2",
+	"Enabled": true
+},
+"240073": {
+	"OriginalText": "武器ショップＷ Lv.3",
+	"Text": "Magasin d'armes W. Lv.3",
+	"Enabled": true
+},
+"240074": {
+	"OriginalText": "武器ショップＷ Lv.4",
+	"Text": "Magasin d'armes W. Lv.4",
+	"Enabled": true
+},
+"240075": {
+	"OriginalText": "武器ショップＷ Lv.5",
+	"Text": "Magasin d'armes W. Lv.5",
+	"Enabled": true
+},
+"240076": {
+	"OriginalText": "武器ショップ Lv.1",
+	"Text": "Magasin d'armes Lv.1",
+	"Enabled": true
+},
+"240077": {
+	"OriginalText": "武器ショップ Lv.2",
+	"Text": "Magasin d'armes Lv.2",
+	"Enabled": true
+},
+"240078": {
+	"OriginalText": "武器ショップ Lv.3",
+	"Text": "Magasin d'armes Lv.3",
+	"Enabled": true
+},
+"240079": {
+	"OriginalText": "武器ショップ Lv.4",
+	"Text": "Magasin d'armes Lv.4",
+	"Enabled": true
+},
+"240080": {
+	"OriginalText": "武器ショップ Lv.5",
+	"Text": "Magasin d'armes Lv.5",
+	"Enabled": true
+},
+"240081": {
+	"OriginalText": "防具ショップＢ Lv.1",
+	"Text": "Magasin de Bouclier B. Lv.1",
+	"Enabled": true
+},
+"240082": {
+	"OriginalText": "防具ショップＢ Lv.2",
+	"Text": "Magasin de Bouclier B. Lv.2",
+	"Enabled": true
+},
+"240083": {
+	"OriginalText": "防具ショップＢ Lv.3",
+	"Text": "Magasin de Bouclier B. Lv.3",
+	"Enabled": true
+},
+"240084": {
+	"OriginalText": "防具ショップＢ Lv.4",
+	"Text": "Magasin de Bouclier B. Lv.4",
+	"Enabled": true
+},
+"240085": {
+	"OriginalText": "防具ショップＢ Lv.5",
+	"Text": "Magasin de Bouclier B. Lv.5",
+	"Enabled": true
+},
+"240086": {
+	"OriginalText": "防具ショップＯ Lv.1",
+	"Text": "Magasin de Bouclier O. Lv.1",
+	"Enabled": true
+},
+"240087": {
+	"OriginalText": "防具ショップＯ Lv.2",
+	"Text": "Magasin de Bouclier O. Lv.2",
+	"Enabled": true
+},
+"240088": {
+	"OriginalText": "防具ショップＯ Lv.3",
+	"Text": "Magasin de Bouclier O. Lv.3",
+	"Enabled": true
+},
+"240089": {
+	"OriginalText": "防具ショップＯ Lv.4",
+	"Text": "Magasin de Bouclier O. Lv.4",
+	"Enabled": true
+},
+"240090": {
+	"OriginalText": "防具ショップＯ Lv.5",
+	"Text": "Magasin de Bouclier O. Lv.5",
+	"Enabled": true
+},
+"240091": {
+	"OriginalText": "防具ショップＷ Lv.1",
+	"Text": "Magasin de Bouclier W. Lv.1",
+	"Enabled": true
+},
+"240092": {
+	"OriginalText": "防具ショップＷ Lv.2",
+	"Text": "Magasin de Bouclier W. Lv.2",
+	"Enabled": true
+},
+"240093": {
+	"OriginalText": "防具ショップＷ Lv.3",
+	"Text": "Magasin de Bouclier W. Lv.3",
+	"Enabled": true
+},
+"240094": {
+	"OriginalText": "防具ショップＷ Lv.4",
+	"Text": "Magasin de Bouclier W. Lv.4",
+	"Enabled": true
+},
+"240095": {
+	"OriginalText": "防具ショップＷ Lv.5",
+	"Text": "Magasin de Bouclier W. Lv.5",
+	"Enabled": true
+},
+"240096": {
+	"OriginalText": "防具ショップ Lv.1",
+	"Text": "Magasin de Bouclier Lv.1",
+	"Enabled": true
+},
+"240097": {
+	"OriginalText": "防具ショップ Lv.2",
+	"Text": "Magasin de Bouclier Lv.2",
+	"Enabled": true
+},
+"240098": {
+	"OriginalText": "防具ショップ Lv.3",
+	"Text": "Magasin de Bouclier Lv.3",
+	"Enabled": true
+},
+"240099": {
+	"OriginalText": "防具ショップ Lv.4",
+	"Text": "Magasin de Bouclier Lv.4",
+	"Enabled": true
+},
+"240100": {
+	"OriginalText": "防具ショップ Lv.5",
+	"Text": "Magasin de Bouclier Lv.5",
+	"Enabled": true
+},
+"240101": {
+	"OriginalText": "アイテムショップＢ Lv.1",
+	"Text": "Magasin d'Objet B. Lv.1",
+	"Enabled": true
+},
+"240102": {
+	"OriginalText": "アイテムショップＢ Lv.2",
+	"Text": "Magasin d'Objet B. Lv.2",
+	"Enabled": true
+},
+"240103": {
+	"OriginalText": "アイテムショップＢ Lv.3",
+	"Text": "Magasin d'Objet B. Lv.3",
+	"Enabled": true
+},
+"240104": {
+	"OriginalText": "アイテムショップＢ Lv.4",
+	"Text": "Magasin d'Objet B. Lv.4",
+	"Enabled": true
+},
+"240105": {
+	"OriginalText": "アイテムショップＢ Lv.5",
+	"Text": "Magasin d'Objet B. Lv.5",
+	"Enabled": true
+},
+"240106": {
+	"OriginalText": "アイテムショップＯ Lv.1",
+	"Text": "Magasin d'Objet O. Lv.1",
+	"Enabled": true
+},
+"240107": {
+	"OriginalText": "アイテムショップＯ Lv.2",
+	"Text": "Magasin d'Objet O. Lv.2",
+	"Enabled": true
+},
+"240108": {
+	"OriginalText": "アイテムショップＯ Lv.3",
+	"Text": "Magasin d'Objet O. Lv.3",
+	"Enabled": true
+},
+"240109": {
+	"OriginalText": "アイテムショップＯ Lv.4",
+	"Text": "Magasin d'Objet O. Lv.4",
+	"Enabled": true
+},
+"240110": {
+	"OriginalText": "アイテムショップＯ Lv.5",
+	"Text": "Magasin d'Objet O. Lv.5",
+	"Enabled": true
+},
+"240111": {
+	"OriginalText": "アイテムショップＷ Lv.1",
+	"Text": "Magasin d'Objet W. Lv.1",
+	"Enabled": true
+},
+"240112": {
+	"OriginalText": "アイテムショップＷ Lv.2",
+	"Text": "Magasin d'Objet W. Lv.2",
+	"Enabled": true
+},
+"240113": {
+	"OriginalText": "アイテムショップＷ Lv.3",
+	"Text": "Magasin d'Objet W. Lv.3",
+	"Enabled": true
+},
+"240114": {
+	"OriginalText": "アイテムショップＷ Lv.4",
+	"Text": "Magasin d'Objet W. Lv.4",
+	"Enabled": true
+},
+"240115": {
+	"OriginalText": "アイテムショップＷ Lv.5",
+	"Text": "Magasin d'Objet W. Lv.5",
+	"Enabled": true
+},
+"240116": {
+	"OriginalText": "アイテムショップ Lv.1",
+	"Text": "Magasin d'Objet Lv.1",
+	"Enabled": true
+},
+"240117": {
+	"OriginalText": "アイテムショップ Lv.2",
+	"Text": "Magasin d'Objet Lv.2",
+	"Enabled": true
+},
+"240118": {
+	"OriginalText": "アイテムショップ Lv.3",
+	"Text": "Magasin d'Objet Lv.3",
+	"Enabled": true
+},
+"240119": {
+	"OriginalText": "アイテムショップ Lv.4",
+	"Text": "Magasin d'Objet Lv.4",
+	"Enabled": true
+},
+"240120": {
+	"OriginalText": "アイテムショップ Lv.5",
+	"Text": "Magasin d'Objet Lv.5",
+	"Enabled": true
+},
+"240121": {
+	"OriginalText": "コスチュームＳＢ Lv.1",
+	"Text": "Magasin de costumes B. Lv.1",
+	"Enabled": true
+},
+"240122": {
+	"OriginalText": "コスチュームＳＢ Lv.2",
+	"Text": "Magasin de costumes B. Lv.2",
+	"Enabled": true
+},
+"240123": {
+	"OriginalText": "コスチュームＳＢ Lv.3",
+	"Text": "Magasin de costumes B. Lv.3",
+	"Enabled": true
+},
+"240124": {
+	"OriginalText": "コスチュームＳＢ Lv.4",
+	"Text": "Magasin de costumes B. Lv.4",
+	"Enabled": true
+},
+"240125": {
+	"OriginalText": "コスチュームＳＢ Lv.5",
+	"Text": "Magasin de costumes B. Lv.5",
+	"Enabled": true
+},
+"240126": {
+	"OriginalText": "コスチュームＳＯ Lv.1",
+	"Text": "Magasin de costumes O. Lv.1",
+	"Enabled": true
+},
+"240127": {
+	"OriginalText": "コスチュームＳＯ Lv.2",
+	"Text": "Magasin de costumes O. Lv.2",
+	"Enabled": true
+},
+"240128": {
+	"OriginalText": "コスチュームＳＯ Lv.3",
+	"Text": "Magasin de costumes O. Lv.3",
+	"Enabled": true
+},
+"240129": {
+	"OriginalText": "コスチュームＳＯ Lv.4",
+	"Text": "Magasin de costumes O. Lv.4",
+	"Enabled": true
+},
+"240130": {
+	"OriginalText": "コスチュームＳＯ Lv.5",
+	"Text": "Magasin de costumes O. Lv.5",
+	"Enabled": true
+},
+"240131": {
+	"OriginalText": "コスチュームＳＷ Lv.1",
+	"Text": "Magasin de costumes W. Lv.1",
+	"Enabled": true
+},
+"240132": {
+	"OriginalText": "コスチュームＳＷ Lv.2",
+	"Text": "Magasin de costumes W. Lv.2",
+	"Enabled": true
+},
+"240133": {
+	"OriginalText": "コスチュームＳＷ Lv.3",
+	"Text": "Magasin de costumes W. Lv.3",
+	"Enabled": true
+},
+"240134": {
+	"OriginalText": "コスチュームＳＷ Lv.4",
+	"Text": "Magasin de costumes W. Lv.4",
+	"Enabled": true
+},
+"240135": {
+	"OriginalText": "コスチュームＳＷ Lv.5",
+	"Text": "Magasin de costumes W. Lv.5",
+	"Enabled": true
+},
+"240136": {
+	"OriginalText": "コスチュームＳ Lv.1",
+	"Text": "Magasin de costumes Lv.1",
+	"Enabled": true
+},
+"240137": {
+	"OriginalText": "コスチュームＳ Lv.2",
+	"Text": "Magasin de costumes Lv.2",
+	"Enabled": true
+},
+"240138": {
+	"OriginalText": "コスチュームＳ Lv.3",
+	"Text": "Magasin de costumes Lv.3",
+	"Enabled": true
+},
+"240139": {
+	"OriginalText": "コスチュームＳ Lv.4",
+	"Text": "Magasin de costumes Lv.4",
+	"Enabled": true
+},
+"240140": {
+	"OriginalText": "コスチュームＳ Lv.5",
+	"Text": "Magasin de costumes Lv.5",
+	"Enabled": true
+},
+"240141": {
+	"OriginalText": "エステＢ Lv.1",
+	"Text": "Magasin de relooking B. Lv.1",
+	"Enabled": true
+},
+"240142": {
+	"OriginalText": "エステＢ Lv.2",
+	"Text": "Magasin de relooking B. Lv.2",
+	"Enabled": true
+},
+"240143": {
+	"OriginalText": "エステＢ Lv.3",
+	"Text": "Magasin de relooking B. Lv.3",
+	"Enabled": true
+},
+"240144": {
+	"OriginalText": "エステＢ Lv.4",
+	"Text": "Magasin de relooking B. Lv.4",
+	"Enabled": true
+},
+"240145": {
+	"OriginalText": "エステＢ Lv.5",
+	"Text": "Magasin de relooking B. Lv.5",
+	"Enabled": true
+},
+"240146": {
+	"OriginalText": "エステＯ Lv.1",
+	"Text": "Magasin de relooking O. Lv.1",
+	"Enabled": true
+},
+"240147": {
+	"OriginalText": "エステＯ Lv.2",
+	"Text": "Magasin de relooking O. Lv.2",
+	"Enabled": true
+},
+"240148": {
+	"OriginalText": "エステＯ Lv.3",
+	"Text": "Magasin de relooking O. Lv.3",
+	"Enabled": true
+},
+"240149": {
+	"OriginalText": "エステＯ Lv.4",
+	"Text": "Magasin de relooking O. Lv.4",
+	"Enabled": true
+},
+"240150": {
+	"OriginalText": "エステＯ Lv.5",
+	"Text": "Magasin de relooking O. Lv.5",
+	"Enabled": true
+},
+"240151": {
+	"OriginalText": "エステＷ Lv.1",
+	"Text": "Magasin de relooking W. Lv.1",
+	"Enabled": true
+},
+"240152": {
+	"OriginalText": "エステＷ Lv.2",
+	"Text": "Magasin de relooking W. Lv.2",
+	"Enabled": true
+},
+"240153": {
+	"OriginalText": "エステＷ Lv.3",
+	"Text": "Magasin de relooking W. Lv.3",
+	"Enabled": true
+},
+"240154": {
+	"OriginalText": "エステＷ Lv.4",
+	"Text": "Magasin de relooking W. Lv.4",
+	"Enabled": true
+},
+"240155": {
+	"OriginalText": "エステＷ Lv.5",
+	"Text": "Magasin de relooking W. Lv.5",
+	"Enabled": true
+},
+"240156": {
+	"OriginalText": "エステ Lv.1",
+	"Text": "Magasin de relooking Lv.1",
+	"Enabled": true
+},
+"240157": {
+	"OriginalText": "エステ Lv.2",
+	"Text": "Magasin de relooking Lv.2",
+	"Enabled": true
+},
+"240158": {
+	"OriginalText": "エステ Lv.3",
+	"Text": "Magasin de relooking Lv.3",
+	"Enabled": true
+},
+"240159": {
+	"OriginalText": "エステ Lv.4",
+	"Text": "Magasin de relooking Lv.4",
+	"Enabled": true
+},
+"240160": {
+	"OriginalText": "エステ Lv.5",
+	"Text": "Magasin de relooking Lv.5",
+	"Enabled": true
+},
+"240166": {
+	"OriginalText": "探索隊司令部 Lv.1",
+	"Text": "Search Team HQ Lv.1",
+	"Enabled": true
+},
+"240167": {
+	"OriginalText": "探索隊司令部 Lv.2",
+	"Text": "Search Team HQ Lv.2",
+	"Enabled": true
+},
+"240168": {
+	"OriginalText": "探索隊司令部 Lv.3",
+	"Text": "Search Team HQ Lv.3",
+	"Enabled": true
+},
+"240169": {
+	"OriginalText": "探索隊司令部 Lv.4",
+	"Text": "Search Team HQ Lv.4",
+	"Enabled": true
+},
+"240170": {
+	"OriginalText": "探索隊司令部 Lv.5",
+	"Text": "Search Team HQ Lv.5",
+	"Enabled": true
+},
+"240171": {
+	"OriginalText": "グランブースター Lv.1",
+	"Text": "Gran Booster Lv.1",
+	"Enabled": true
+},
+"240172": {
+	"OriginalText": "グランブースター Lv.2",
+	"Text": "Gran Booster Lv.2",
+	"Enabled": true
+},
+"240173": {
+	"OriginalText": "グランブースター Lv.3",
+	"Text": "Gran Booster Lv.3",
+	"Enabled": true
+},
+"240174": {
+	"OriginalText": "グランブースター Lv.4",
+	"Text": "Gran Booster Lv.4",
+	"Enabled": true
+},
+"240175": {
+	"OriginalText": "グランブースター Lv.5",
+	"Text": "Gran Booster Lv.5",
+	"Enabled": true
+},
+"240176": {
+	"OriginalText": "アイテム探知伝置 Lv.1",
+	"Text": "Item Detection System Lv.1",
+	"Enabled": true
+},
+"240177": {
+	"OriginalText": "アイテム探知伝置 Lv.2",
+	"Text": "Item Detection System Lv.2",
+	"Enabled": true
+},
+"240178": {
+	"OriginalText": "アイテム探知伝置 Lv.3",
+	"Text": "Item Detection System Lv.3",
+	"Enabled": true
+},
+"240179": {
+	"OriginalText": "アイテム探知伝置 Lv.4",
+	"Text": "Item Detection System Lv.4",
+	"Enabled": true
+},
+"240180": {
+	"OriginalText": "アイテム探知伝置 Lv.5",
+	"Text": "Item Detection System Lv.5",
+	"Enabled": true
+},
+"240181": {
+	"OriginalText": "エネミーレーダー Lv.1",
+	"Text": "Enemy Radar Lv.1",
+	"Enabled": true
+},
+"240182": {
+	"OriginalText": "エネミーレーダー Lv.2",
+	"Text": "Enemy Radar Lv.2",
+	"Enabled": true
+},
+"240183": {
+	"OriginalText": "エネミーレーダー Lv.3",
+	"Text": "Enemy Radar Lv.3",
+	"Enabled": true
+},
+"240184": {
+	"OriginalText": "エネミーレーダー Lv.4",
+	"Text": "Enemy Radar Lv.4",
+	"Enabled": true
+},
+"240185": {
+	"OriginalText": "エネミーレーダー Lv.5",
+	"Text": "Enemy Radar Lv.5",
+	"Enabled": true
+},
+"240186": {
+	"OriginalText": "バースト加速伝置 Lv.1",
+	"Text": "BURST Accel. Device Lv.1",
+	"Enabled": true
+},
+"240187": {
+	"OriginalText": "バースト加速伝置 Lv.2",
+	"Text": "BURST Accel. Device Lv.2",
+	"Enabled": true
+},
+"240188": {
+	"OriginalText": "バースト加速伝置 Lv.3",
+	"Text": "BURST Accel. Device Lv.3",
+	"Enabled": true
+},
+"240189": {
+	"OriginalText": "バースト加速伝置 Lv.4",
+	"Text": "BURST Accel. Device Lv.4",
+	"Enabled": true
+},
+"240190": {
+	"OriginalText": "バースト加速伝置 Lv.5",
+	"Text": "BURST Accel. Device Lv.5",
+	"Enabled": true
+},
+"240191": {
+	"OriginalText": "コア精錬所 Lv.1",
+	"Text": "Core Refinery Lv.1",
+	"Enabled": true
+},
+"240192": {
+	"OriginalText": "コア精錬所 Lv.2",
+	"Text": "Core Refinery Lv.2",
+	"Enabled": true
+},
+"240193": {
+	"OriginalText": "コア精錬所 Lv.3",
+	"Text": "Core Refinery Lv.3",
+	"Enabled": true
+},
+"240194": {
+	"OriginalText": "コア精錬所 Lv.4",
+	"Text": "Core Refinery Lv.4",
+	"Enabled": true
+},
+"240195": {
+	"OriginalText": "コア精錬所 Lv.5",
+	"Text": "Core Refinery Lv.5",
+	"Enabled": true
+},
+"240196": {
+	"OriginalText": "シアタースコープ",
+	"Text": "Theater Terminal",
+	"Enabled": true
+},
+"240197": {
+	"OriginalText": "倉庫",
+	"Text": "Storage",
+	"Enabled": true
+},
+"240198": {
+	"OriginalText": "ショップ端末",
+	"Text": "Shop Terminal",
+	"Enabled": true
+},
+"240199": {
+	"OriginalText": "ベースボード",
+	"Text": "Base Board",
+	"Enabled": true
+},
+"240200": {
+	"OriginalText": "ベースボード黒",
+	"Text": "Black Base Board",
+	"Enabled": true
+},
+"240201": {
+	"OriginalText": "オリエントボード",
+	"Text": "Oriental Board",
+	"Enabled": true
+},
+"240202": {
+	"OriginalText": "オリエントボード赤",
+	"Text": "Red Oriental Board",
+	"Enabled": true
+},
+"240203": {
+	"OriginalText": "ウェスタンボード",
+	"Text": "Western Board",
+	"Enabled": true
+},
+"240204": {
+	"OriginalText": "ウェスタンボード赤",
+	"Text": "Red Western Board",
+	"Enabled": true
+},
+"240205": {
+	"OriginalText": "ボード",
+	"Text": "Board",
+	"Enabled": true
+},
+"240206": {
+	"OriginalText": "ボード黒",
+	"Text": "Black Board",
+	"Enabled": true
+},
+"240207": {
+	"OriginalText": "ベースラージボード",
+	"Text": "Large Base Board",
+	"Enabled": true
+},
+"240208": {
+	"OriginalText": "ベースラージボード黒",
+	"Text": "Large Black Base Board",
+	"Enabled": true
+},
+"240209": {
+	"OriginalText": "オリエントラージボード",
+	"Text": "Large Oriental Board",
+	"Enabled": true
+},
+"240210": {
+	"OriginalText": "オリエントラージボード赤",
+	"Text": "Large Red Oriental Board",
+	"Enabled": true
+},
+"240211": {
+	"OriginalText": "ウェスタンラージボード",
+	"Text": "Large Western Board",
+	"Enabled": true
+},
+"240212": {
+	"OriginalText": "ウェスタンラージボード赤",
+	"Text": "Large Red Western Board",
+	"Enabled": true
+},
+"240213": {
+	"OriginalText": "ラージボード",
+	"Text": "Large Board",
+	"Enabled": true
+},
+"240214": {
+	"OriginalText": "ラージボード黒",
+	"Text": "Large Black Board",
+	"Enabled": true
+},
+"240215": {
+	"OriginalText": "シップのガレキ・小",
+	"Text": "Ship Model (S)",
+	"Enabled": true
+},
+"240216": {
+	"OriginalText": "シップのガレキ・大",
+	"Text": "Ship Model (L)",
+	"Enabled": true
+},
+"240217": {
+	"OriginalText": "ベーステント",
+	"Text": "Base Tent",
+	"Enabled": true
+},
+"240218": {
+	"OriginalText": "ベーステント青",
+	"Text": "Blue Base Tent",
+	"Enabled": true
+},
+"240219": {
+	"OriginalText": "オリエントテント",
+	"Text": "Oriental Tent",
+	"Enabled": true
+},
+"240220": {
+	"OriginalText": "オリエントテント緑",
+	"Text": "Green Oriental Tent",
+	"Enabled": true
+},
+"240221": {
+	"OriginalText": "ウェスタンテント",
+	"Text": "Western Tent",
+	"Enabled": true
+},
+"240222": {
+	"OriginalText": "ウェスタンテント青",
+	"Text": "Blue Western Tent",
+	"Enabled": true
+},
+"240223": {
+	"OriginalText": "テント",
+	"Text": "Tent",
+	"Enabled": true
+},
+"240224": {
+	"OriginalText": "テント黒",
+	"Text": "Black Tent",
+	"Enabled": true
+},
+"240225": {
+	"OriginalText": "ベースＴチェア",
+	"Text": "Base Chair",
+	"Enabled": true
+},
+"240226": {
+	"OriginalText": "ベースＴチェア緑",
+	"Text": "Green Base Chair",
+	"Enabled": true
+},
+"240227": {
+	"OriginalText": "オリエントＴチェア",
+	"Text": "Oriental T. Chair",
+	"Enabled": true
+},
+"240228": {
+	"OriginalText": "オリエントＴチェア茶",
+	"Text": "Brown Oriental T. Chair",
+	"Enabled": true
+},
+"240229": {
+	"OriginalText": "ウェスタンＴチェア",
+	"Text": "Western T. Chair",
+	"Enabled": true
+},
+"240230": {
+	"OriginalText": "ウェスタンＴチェア茶",
+	"Text": "Brown Western T. Chair",
+	"Enabled": true
+},
+"240231": {
+	"OriginalText": "テーブルチェア",
+	"Text": "Table Chair",
+	"Enabled": true
+},
+"240232": {
+	"OriginalText": "テーブルチェア緑",
+	"Text": "Green Table Chair",
+	"Enabled": true
+},
+"240233": {
+	"OriginalText": "ベースベッド",
+	"Text": "Base Bed",
+	"Enabled": true
+},
+"240234": {
+	"OriginalText": "ベースベッド青",
+	"Text": "Blue Base Bed",
+	"Enabled": true
+},
+"240235": {
+	"OriginalText": "オリエントベッド",
+	"Text": "Oriental Bed",
+	"Enabled": true
+},
+"240236": {
+	"OriginalText": "オリエントベッド緑",
+	"Text": "Green Oriental Bed",
+	"Enabled": true
+},
+"240237": {
+	"OriginalText": "ウェスタンベッド",
+	"Text": "Western Bed",
+	"Enabled": true
+},
+"240238": {
+	"OriginalText": "ウェスタンベッド茶",
+	"Text": "Brown Western Bed",
+	"Enabled": true
+},
+"240239": {
+	"OriginalText": "ベッド",
+	"Text": "Bed",
+	"Enabled": true
+},
+"240240": {
+	"OriginalText": "ベッド青",
+	"Text": "Blue Bed",
+	"Enabled": true
+},
+"240241": {
+	"OriginalText": "ベースＳシェルフ",
+	"Text": "Base S. Shelf",
+	"Enabled": true
+},
+"240242": {
+	"OriginalText": "ベースＳシェルフ緑",
+	"Text": "Green Base S. Shelf",
+	"Enabled": true
+},
+"240243": {
+	"OriginalText": "オリエントＳシェルフ茶",
+	"Text": "Brown Oriental S. Shelf",
+	"Enabled": true
+},
+"240244": {
+	"OriginalText": "オリエントＳシェルフ",
+	"Text": "Oriental S. Shelf",
+	"Enabled": true
+},
+"240245": {
+	"OriginalText": "ウェスタンＳシェルフ",
+	"Text": "Western S. Shelf",
+	"Enabled": true
+},
+"240246": {
+	"OriginalText": "ウェスタンＳシェルフ茶",
+	"Text": "Brown Western S. Shelf",
+	"Enabled": true
+},
+"240247": {
+	"OriginalText": "シンプルシェルフ",
+	"Text": "Simple Shelf",
+	"Enabled": true
+},
+"240248": {
+	"OriginalText": "シンプルシェルフ緑",
+	"Text": "Green Simple Shelf",
+	"Enabled": true
+},
+"240249": {
+	"OriginalText": "ベースライト",
+	"Text": "Base Light",
+	"Enabled": true
+},
+"240250": {
+	"OriginalText": "ベースライト緑",
+	"Text": "Green Base Light",
+	"Enabled": true
+},
+"240251": {
+	"OriginalText": "オリエントライト",
+	"Text": "Oriental Light",
+	"Enabled": true
+},
+"240252": {
+	"OriginalText": "オリエントライト茶",
+	"Text": "Brown Oriental Light",
+	"Enabled": true
+},
+"240253": {
+	"OriginalText": "ウェスタンライト",
+	"Text": "Western Light",
+	"Enabled": true
+},
+"240254": {
+	"OriginalText": "ウェスタンライト茶",
+	"Text": "Brown Western Light",
+	"Enabled": true
+},
+"240255": {
+	"OriginalText": "ライト",
+	"Text": "Light",
+	"Enabled": true
+},
+"240256": {
+	"OriginalText": "ライト青",
+	"Text": "Blue Light",
+	"Enabled": true
+},
+"240257": {
+	"OriginalText": "ベースシート",
+	"Text": "Base Sheet",
+	"Enabled": true
+},
+"240258": {
+	"OriginalText": "ベースシート青",
+	"Text": "Blue Base Sheet",
+	"Enabled": true
+},
+"240259": {
+	"OriginalText": "オリエントシート",
+	"Text": "Oriental Sheet",
+	"Enabled": true
+},
+"240260": {
+	"OriginalText": "オリエントシート緑",
+	"Text": "Green Oritenal Sheet",
+	"Enabled": true
+},
+"240261": {
+	"OriginalText": "ウェスタンシート",
+	"Text": "Western Sheet",
+	"Enabled": true
+},
+"240262": {
+	"OriginalText": "ウェスタンシート青",
+	"Text": "Blue Western Sheet",
+	"Enabled": true
+},
+"240263": {
+	"OriginalText": "シート",
+	"Text": "Sheet",
+	"Enabled": true
+},
+"240264": {
+	"OriginalText": "シート青",
+	"Text": "Blue Sheet",
+	"Enabled": true
+},
+"240265": {
+	"OriginalText": "プランター白",
+	"Text": "White Planter",
+	"Enabled": true
+},
+"240266": {
+	"OriginalText": "プランター",
+	"Text": "Planter",
+	"Enabled": true
+},
+"240267": {
+	"OriginalText": "プランター黒",
+	"Text": "Black Planter",
+	"Enabled": true
+},
+"240268": {
+	"OriginalText": "トイレ",
+	"Text": "Porta Potty",
+	"Enabled": true
+},
+"240269": {
+	"OriginalText": "トイレ黒",
+	"Text": "Black Porta Potty",
+	"Enabled": true
+},
+"240270": {
+	"OriginalText": "トイレ緑",
+	"Text": "Green Porta Potty",
+	"Enabled": true
+},
+"240271": {
+	"OriginalText": "キャンプファイアー",
+	"Text": "Campfire",
+	"Enabled": true
+},
+"240272": {
+	"OriginalText": "ウォーターサーバー",
+	"Text": "Water Cooler",
+	"Enabled": true
+},
+"240273": {
+	"OriginalText": "ミニスパ",
+	"Text": "Mini Spa",
+	"Enabled": true
+},
+"240274": {
+	"OriginalText": "スパ",
+	"Text": "Spa",
+	"Enabled": true
+},
+"240275": {
+	"OriginalText": "ドラムバスタブ",
+	"Text": "Bathtub Drum",
+	"Enabled": true
+},
+"240276": {
+	"OriginalText": "ドラムバスタブ橙",
+	"Text": "Orange Bathtub Drum",
+	"Enabled": true
+},
+"240277": {
+	"OriginalText": "ドラムバスタブ黒",
+	"Text": "Black Bathtub Drum",
+	"Enabled": true
+},
+"240278": {
+	"OriginalText": "サインボード",
+	"Text": "Signboard",
+	"Enabled": true
+},
+"240279": {
+	"OriginalText": "サインボード白",
+	"Text": "White Signboard",
+	"Enabled": true
+},
+"240280": {
+	"OriginalText": "サインボード黒",
+	"Text": "Black Signboard",
+	"Enabled": true
+},
+"240281": {
+	"OriginalText": "慰霊碑",
+	"Text": "Gravestone",
+	"Enabled": true
+},
+"240282": {
+	"OriginalText": "トークステージ",
+	"Text": "Podium",
+	"Enabled": true
+},
+"240283": {
+	"OriginalText": "見張り台",
+	"Text": "Lookout",
+	"Enabled": true
+},
+"240284": {
+	"OriginalText": "コンテナ",
+	"Text": "Container",
+	"Enabled": true
+},
+"240285": {
+	"OriginalText": "コンテナ橙",
+	"Text": "Orange Container",
+	"Enabled": true
+},
+"240286": {
+	"OriginalText": "コンテナ黒",
+	"Text": "Black Container",
+	"Enabled": true
+},
+"240287": {
+	"OriginalText": "コンテナ白",
+	"Text": "White Container",
+	"Enabled": true
+},
+"240288": {
+	"OriginalText": "コンテナユニット",
+	"Text": "Container Unit",
+	"Enabled": true
+},
+"240289": {
+	"OriginalText": "コンテナユニット橙",
+	"Text": "Orange Container Unit",
+	"Enabled": true
+},
+"240290": {
+	"OriginalText": "コンテナユニット黒",
+	"Text": "Black Container Unit",
+	"Enabled": true
+},
+"240291": {
+	"OriginalText": "コンテナユニット白",
+	"Text": "White Container Unit",
+	"Enabled": true
+},
+"240292": {
+	"OriginalText": "ミニガーデン",
+	"Text": "Mini Garden",
+	"Enabled": true
+},
+"240293": {
+	"OriginalText": "モニュメント金",
+	"Text": "Gold Monument",
+	"Enabled": true
+},
+"240294": {
+	"OriginalText": "モニュメント銀",
+	"Text": "Silver Monument",
+	"Enabled": true
+},
+"240295": {
+	"OriginalText": "ベーシックチェア",
+	"Text": "Basic Chair",
+	"Enabled": true
+},
+"240296": {
+	"OriginalText": "ベーシックチェア青",
+	"Text": "Blue Basic Chair",
+	"Enabled": true
+},
+"240297": {
+	"OriginalText": "ベーシックチェア桃",
+	"Text": "Pink Basic Chair",
+	"Enabled": true
+},
+"240298": {
+	"OriginalText": "ベーシックベッド",
+	"Text": "Basic Bed",
+	"Enabled": true
+},
+"240299": {
+	"OriginalText": "ベーシックベッド青",
+	"Text": "Blue Basic Bed",
+	"Enabled": true
+},
+"240300": {
+	"OriginalText": "ベーシックベッド桃",
+	"Text": "Pink Basic Bed",
+	"Enabled": true
+},
+"240301": {
+	"OriginalText": "ベーシックローテーブル",
+	"Text": "Basic Long Table",
+	"Enabled": true
+},
+"240302": {
+	"OriginalText": "ベーシックローテーブル青",
+	"Text": "Blue B. Long Table",
+	"Enabled": true
+},
+"240303": {
+	"OriginalText": "ベーシックローテーブル桃",
+	"Text": "Pink B. Long Table",
+	"Enabled": true
+},
+"240304": {
+	"OriginalText": "スタンドライト",
+	"Text": "Floor Lamp",
+	"Enabled": true
+},
+"240305": {
+	"OriginalText": "スタンドライト青",
+	"Text": "Blue Floor Lamp",
+	"Enabled": true
+},
+"240306": {
+	"OriginalText": "スタンドライト桃",
+	"Text": "Pink Floor Lamp",
+	"Enabled": true
+},
+"240307": {
+	"OriginalText": "モダンベッド",
+	"Text": "Modern Bed",
+	"Enabled": true
+},
+"240308": {
+	"OriginalText": "モダンベッド橙",
+	"Text": "Orange Modern Bed",
+	"Enabled": true
+},
+"240309": {
+	"OriginalText": "モダンベッド黒",
+	"Text": "Black Modern Bed",
+	"Enabled": true
+},
+"240310": {
+	"OriginalText": "モダンローテーブル",
+	"Text": "Modern Long Table",
+	"Enabled": true
+},
+"240311": {
+	"OriginalText": "モダンローテーブル橙",
+	"Text": "Orange M. Long Table",
+	"Enabled": true
+},
+"240312": {
+	"OriginalText": "モダンローテーブル黒",
+	"Text": "Black M. Long Table",
+	"Enabled": true
+},
+"240313": {
+	"OriginalText": "ミニモダンシェルフ",
+	"Text": "Mini Modern Shelf",
+	"Enabled": true
+},
+"240314": {
+	"OriginalText": "ミニモダンシェルフ橙",
+	"Text": "Orange Mini M. Shelf",
+	"Enabled": true
+},
+"240315": {
+	"OriginalText": "ミニモダンシェルフ黒",
+	"Text": "Black Mini M. Shelf",
+	"Enabled": true
+},
+"240316": {
+	"OriginalText": "クラシックソファ",
+	"Text": "Classic Sofa",
+	"Enabled": true
+},
+"240317": {
+	"OriginalText": "クラシックソファ桃",
+	"Text": "Pink Classic Sofa",
+	"Enabled": true
+},
+"240318": {
+	"OriginalText": "クラシックソファ茶",
+	"Text": "Brown Classic Sofa",
+	"Enabled": true
+},
+"240319": {
+	"OriginalText": "クラシックベッド",
+	"Text": "Classic Bed",
+	"Enabled": true
+},
+"240320": {
+	"OriginalText": "クラシックベッド桃",
+	"Text": "Pink Classic Bed",
+	"Enabled": true
+},
+"240321": {
+	"OriginalText": "クラシックベッド茶",
+	"Text": "Brown Classic Bed",
+	"Enabled": true
+},
+"240322": {
+	"OriginalText": "クラシックテーブル",
+	"Text": "Classic Table",
+	"Enabled": true
+},
+"240323": {
+	"OriginalText": "クラシックテーブル桃",
+	"Text": "Pink Classic Table",
+	"Enabled": true
+},
+"240324": {
+	"OriginalText": "クラシックテーブル茶",
+	"Text": "Brown Classic Table",
+	"Enabled": true
+},
+"240325": {
+	"OriginalText": "クラシックナイトスタンド",
+	"Text": "Classic Nightstand",
+	"Enabled": true
+},
+"240326": {
+	"OriginalText": "クラシックＮスタンド桃",
+	"Text": "Pink Classic N. Stand",
+	"Enabled": true
+},
+"240327": {
+	"OriginalText": "クラシックＮスタンド茶",
+	"Text": "Brown Classic N. Stand",
+	"Enabled": true
+},
+"240328": {
+	"OriginalText": "クラシックキャビネット",
+	"Text": "Classic Cabinet",
+	"Enabled": true
+},
+"240329": {
+	"OriginalText": "ゴシックソファ",
+	"Text": "Gothic Sofa",
+	"Enabled": true
+},
+"240330": {
+	"OriginalText": "ゴシックソファ赤",
+	"Text": "Red Gothic Sofa",
+	"Enabled": true
+},
+"240331": {
+	"OriginalText": "ゴシックソファ黒",
+	"Text": "Black Gothic Sofa",
+	"Enabled": true
+},
+"240332": {
+	"OriginalText": "ゴシックベッド",
+	"Text": "Gothic Bed",
+	"Enabled": true
+},
+"240333": {
+	"OriginalText": "ゴシックベッド赤",
+	"Text": "Red Gothic Bed",
+	"Enabled": true
+},
+"240334": {
+	"OriginalText": "ゴシックベッド黒",
+	"Text": "Black Gothic Bed",
+	"Enabled": true
+},
+"240335": {
+	"OriginalText": "ゴシックテーブル",
+	"Text": "Gothic Table",
+	"Enabled": true
+},
+"240336": {
+	"OriginalText": "ゴシックテーブル赤",
+	"Text": "Red G. Table",
+	"Enabled": true
+},
+"240337": {
+	"OriginalText": "ゴシックテーブル黒",
+	"Text": "Black G. Table",
+	"Enabled": true
+},
+"240338": {
+	"OriginalText": "ゴシックスタンド",
+	"Text": "Gothic Stand",
+	"Enabled": true
+},
+"240339": {
+	"OriginalText": "ゴシックスタンド赤",
+	"Text": "Red G. Stand",
+	"Enabled": true
+},
+"240340": {
+	"OriginalText": "ゴシックスタンド黒",
+	"Text": "Black G. Stand",
+	"Enabled": true
+},
+"240341": {
+	"OriginalText": "ゴシックキャビネット",
+	"Text": "Gothic Cabinet",
+	"Enabled": true
+},
+"240342": {
+	"OriginalText": "フトン",
+	"Text": "Futon",
+	"Enabled": true
+},
+"240343": {
+	"OriginalText": "モダンフトン",
+	"Text": "Modern Futon",
+	"Enabled": true
+},
+"240344": {
+	"OriginalText": "クラシックフトン",
+	"Text": "Classic Futon",
+	"Enabled": true
+},
+"240345": {
+	"OriginalText": "オリエントローテーブル",
+	"Text": "O. Long Table",
+	"Enabled": true
+},
+"240346": {
+	"OriginalText": "オリエントローテーブル黒",
+	"Text": "Black Long O. Table",
+	"Enabled": true
+},
+"240347": {
+	"OriginalText": "オリエントローテーブル赤",
+	"Text": "Red Long O. Table",
+	"Enabled": true
+},
+"240348": {
+	"OriginalText": "オリエントスタンドライト",
+	"Text": "O. Stand Light",
+	"Enabled": true
+},
+"240349": {
+	"OriginalText": "オリエントシェルフ",
+	"Text": "Oriental Shelf",
+	"Enabled": true
+},
+"240350": {
+	"OriginalText": "チェリーレッドテーブル",
+	"Text": "Cherry Red Table",
+	"Enabled": true
+},
+"240351": {
+	"OriginalText": "ソルトブルーテーブル",
+	"Text": "Sea Blue Table",
+	"Enabled": true
+},
+"240352": {
+	"OriginalText": "ハーブグリーンテーブル",
+	"Text": "Herb Green Table",
+	"Enabled": true
+},
+"240353": {
+	"OriginalText": "ハニーイエローテーブル",
+	"Text": "Honey Yellow Table",
+	"Enabled": true
+},
+"240354": {
+	"OriginalText": "チェリーレッドミニデスク",
+	"Text": "Cherry Red Minidesk",
+	"Enabled": true
+},
+"240355": {
+	"OriginalText": "ソルトブルーミニデスク",
+	"Text": "Sea Blue Minidesk",
+	"Enabled": true
+},
+"240356": {
+	"OriginalText": "ハーブグリーンミニデスク",
+	"Text": "Herb Green Minidesk",
+	"Enabled": true
+},
+"240357": {
+	"OriginalText": "ハニーイエローミニデスク",
+	"Text": "Honey Yellow Minidesk",
+	"Enabled": true
+},
+"240358": {
+	"OriginalText": "ストレートシェルフ",
+	"Text": "Straight Shelf",
+	"Enabled": true
+},
+"240359": {
+	"OriginalText": "ベンチ",
+	"Text": "Bench",
+	"Enabled": true
+},
+"240360": {
+	"OriginalText": "エレガントバスタブ",
+	"Text": "Elegant Bathtub",
+	"Enabled": true
+},
+"240361": {
+	"OriginalText": "セン・タク・キー",
+	"Text": "Washing Machine",
+	"Enabled": true
+},
+"240362": {
+	"OriginalText": "バーカウンター",
+	"Text": "Bar Counter",
+	"Enabled": true
+},
+"240363": {
+	"OriginalText": "ロッカー",
+	"Text": "Locker",
+	"Enabled": true
+},
+"240364": {
+	"OriginalText": "プライベートプール",
+	"Text": "Private Pool",
+	"Enabled": true
+},
+"240365": {
+	"OriginalText": "シーベイジングセット",
+	"Text": "Sea Bathing Set",
+	"Enabled": true
+},
+"240366": {
+	"OriginalText": "シャボテイン",
+	"Text": "Cactus",
+	"Enabled": true
+},
+"240367": {
+	"OriginalText": "コールドスリープカウンター",
+	"Text": "Cold Sleep Counter",
+	"Enabled": true
+},
+"240368": {
+	"OriginalText": "マルチプレイカウンター",
+	"Text": "Multiplayer Counter",
+	"Enabled": true
+},
+"240369": {
+	"OriginalText": "ベースゲート",
+	"Text": "Base Gate",
+	"Enabled": true
+},
+"240370": {
+	"OriginalText": "オリエントゲート",
+	"Text": "Oriental Gate",
+	"Enabled": true
+},
+"240371": {
+	"OriginalText": "ウェスタンゲート",
+	"Text": "Western Gate",
+	"Enabled": true
+},
+"240372": {
+	"OriginalText": "ゲート",
+	"Text": "Gate",
+	"Enabled": true
+},
+"240373": {
+	"OriginalText": "ベースフェンスＳ",
+	"Text": "S. Base Fence",
+	"Enabled": true
+},
+"240374": {
+	"OriginalText": "オリエントフェンスＳ",
+	"Text": "S. Oriental Fence",
+	"Enabled": true
+},
+"240375": {
+	"OriginalText": "ウェスタンフェンスＳ",
+	"Text": "S. Western Fence",
+	"Enabled": true
+},
+"240376": {
+	"OriginalText": "フェンスＳ",
+	"Text": "Small Fence",
+	"Enabled": true
+},
+"240377": {
+	"OriginalText": "ベースフェンスＭ",
+	"Text": "M. Base Fence",
+	"Enabled": true
+},
+"240378": {
+	"OriginalText": "オリエントフェンスＭ",
+	"Text": "M. Oriental Fence",
+	"Enabled": true
+},
+"240379": {
+	"OriginalText": "ウェスタンフェンスＭ",
+	"Text": "M. Western Fence",
+	"Enabled": true
+},
+"240380": {
+	"OriginalText": "フェンスＭ",
+	"Text": "Medium Fence",
+	"Enabled": true
+},
+"240381": {
+	"OriginalText": "ベースウォールＳ",
+	"Text": "S. Base Wall",
+	"Enabled": true
+},
+"240382": {
+	"OriginalText": "オリエントウォールＳ",
+	"Text": "S. Oriental Wall",
+	"Enabled": true
+},
+"240383": {
+	"OriginalText": "ウェスタンウォールＳ",
+	"Text": "S. Western Wall",
+	"Enabled": true
+},
+"240384": {
+	"OriginalText": "ウォールＳ",
+	"Text": "Small Wall",
+	"Enabled": true
+},
+"240385": {
+	"OriginalText": "ベースウォールＭ",
+	"Text": "M. Base Wall",
+	"Enabled": true
+},
+"240386": {
+	"OriginalText": "オリエントウォールＭ",
+	"Text": "M. Oriental Wall",
+	"Enabled": true
+},
+"240387": {
+	"OriginalText": "ウェスタンウォールＭ",
+	"Text": "M. Western Wall",
+	"Enabled": true
+},
+"240388": {
+	"OriginalText": "ウォールＭ",
+	"Text": "Medium Wall",
+	"Enabled": true
+},
+"240389": {
+	"OriginalText": "ベースウォールＬ",
+	"Text": "Large Base Wall",
+	"Enabled": true
+},
+"240390": {
+	"OriginalText": "オリエントウォールＬ",
+	"Text": "L. Oriental Wall",
+	"Enabled": true
+},
+"240391": {
+	"OriginalText": "ウェスタンウォールＬ",
+	"Text": "L. Western Wall",
+	"Enabled": true
+},
+"240392": {
+	"OriginalText": "ウォールＬ",
+	"Text": "Large Wall",
+	"Enabled": true
+},
+"240393": {
+	"OriginalText": "ベースカーペット",
+	"Text": "Base Carpet",
+	"Enabled": true
+},
+"240396": {
+	"OriginalText": "オリエントカーペット",
+	"Text": "Oriental Carpet",
+	"Enabled": true
+},
+"240399": {
+	"OriginalText": "ウェスタンカーペット",
+	"Text": "Western Carpet",
+	"Enabled": true
+},
+"240402": {
+	"OriginalText": "カーペット",
+	"Text": "Carpet",
+	"Enabled": true
+},
+"240405": {
+	"OriginalText": "オルターカーペット",
+	"Text": "Alter Carpet",
+	"Enabled": true
+},
+"240408": {
+	"OriginalText": "ビーチカーペット",
+	"Text": "Beach Carpet",
+	"Enabled": true
+},
+"240412": {
+	"OriginalText": "カーペット・DLC",
+	"Text": "Carpet DLC",
+	"Enabled": true
+},
+"240414": {
+	"OriginalText": "ギガンテス捕獲所",
+	"Text": "Gigantes Capture Facility",
+	"Enabled": true
+},
+"240415": {
+	"OriginalText": "出口：中層",
+	"Text": "Exit: Middle",
+	"Enabled": true
+},
+"240416": {
+	"OriginalText": "出口：下層",
+	"Text": "Exit: Lower",
+	"Enabled": true
+},
+"241000": {
+	"OriginalText": "アイテムショップ",
+	"Text": "Magasin d'Objet",
+	"Enabled": true
+},
+"241001": {
+	"OriginalText": "武器ショップ",
+	"Text": "Magasin d'armes",
+	"Enabled": true
+},
+"241002": {
+	"OriginalText": "クラスカウンター",
+	"Text": "Compteur de classe",
+	"Enabled": true
+},
+"241003": {
+	"OriginalText": "コスチュームショップ",
+	"Text": "Magasin de costumes",
+	"Enabled": true
+},
+"241004": {
+	"OriginalText": "エステ",
+	"Text": "Magasin de relooking",
+	"Enabled": true
+},
+"241005": {
+	"OriginalText": "防具ショップ",
+	"Text": "Magasin de Bouclier",
+	"Enabled": true
+},
+"241006": {
+	"OriginalText": "食堂",
+	"Text": "Salle à manger",
+	"Enabled": true
+},
+"241007": {
+	"OriginalText": "倉庫",
+	"Text": "Storage",
+	"Enabled": true
+},
+"241008": {
+	"OriginalText": "ラボ",
+	"Text": "Laboratoire",
+	"Enabled": true
+},
+"241009": {
+	"OriginalText": "ショップ端末",
+	"Text": "Shop Terminal",
+	"Enabled": true
+},
+"241010": {
+	"OriginalText": "コア精錬所",
+	"Text": "Core Refinery",
+	"Enabled": true
+},
+"241011": {
+	"OriginalText": "ギガンテス捕獲所",
+	"Text": "Gigantes Capture Facility",
+	"Enabled": true
+},
+"241012": {
+	"OriginalText": "シアタースコープ",
+	"Text": "Theater Terminal",
+	"Enabled": true
+},
+"241013": {
+	"OriginalText": "コールドスリープカウンター",
+	"Text": "Cold Sleep Room",
+	"Enabled": true
+},
+"241014": {
+	"OriginalText": "マルチプレイカウンター",
+	"Text": "Multiplayer Room",
+	"Enabled": true
+},
+"241015": {
+	"OriginalText": "座る",
+	"Text": "Sit",
+	"Enabled": true
+},
+"241016": {
+	"OriginalText": "寝る",
+	"Text": "Lie Down",
+	"Enabled": true
+},
+"241017": {
+	"OriginalText": "入る",
+	"Text": "Enter",
+	"Enabled": true
+},
+"241020": {
+	"OriginalText": "探索隊司令部",
+	"Text": "Search Team HQ",
+	"Enabled": true
+},
+"241021": {
+	"OriginalText": "ステージに立つ",
+	"Text": "Stand on Podium",
+	"Enabled": true
+},
+"241022": {
+	"OriginalText": "見張り台に立つ",
+	"Text": "Stand on Lookout",
+	"Enabled": true
+},
+"241101": {
+	"OriginalText": "クエストゲート",
+	"Text": "Quest Gate",
+	"Enabled": true
+},
+"241102": {
+	"OriginalText": "艦内へ",
+	"Text": "To the Ship",
+	"Enabled": true
+},
+"241103": {
+	"OriginalText": "出入り口",
+	"Text": "Doorway",
+	"Enabled": true
+},
+"241104": {
+	"OriginalText": "上層へ",
+	"Text": "To Top Level",
+	"Enabled": true
+},
+"241105": {
+	"OriginalText": "中層へ",
+	"Text": "To Middle Level",
+	"Enabled": true
+},
+"241106": {
+	"OriginalText": "下層へ",
+	"Text": "To Lower Level",
+	"Enabled": true
+},
+"241107": {
+	"OriginalText": "祈りをささげる",
+	"Text": "Offer Prayers",
+	"Enabled": true
+},
+"241108": {
+	"OriginalText": "グランブースター",
+	"Text": "Gran Booster",
+	"Enabled": true
+},
+"241109": {
+	"OriginalText": "アイテム探知伝置",
+	"Text": "Item Detection System",
+	"Enabled": true
+},
+"241110": {
+	"OriginalText": "エネミーレーダー",
+	"Text": "Enemy Radar",
+	"Enabled": true
+},
+"241111": {
+	"OriginalText": "バースト加速伝置",
+	"Text": "BURST Accel. Device",
+	"Enabled": true
+},
+"250000": {
+	"OriginalText": "アークスの標準的な施設。",
+	"Text": "",
+	"Enabled": false
+},
+"250001": {
+	"OriginalText": "必要設備のみ配置した標準カウンター。\n洋資不足のため性能面も一部に難あり。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250002": {
+	"OriginalText": "アークス標準仕様のカウンター。\n洋資不足のため機器配置はおなりだが\n性能面での不安は一掃されている。",
+	"Text": "",
+	"Enabled": false
+},
+"250003": {
+	"OriginalText": "アークス標準仕様のカウンター。\n一新された計器類を機能的に配置し、\n使い勝手が著しく向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250004": {
+	"OriginalText": "新提案の次世代カウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250005": {
+	"OriginalText": "新提案の次世代カウンター。\nすべての機器を小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250006": {
+	"OriginalText": "必要設備のみ配置の異国的カウンター。\n洋資不足のため性能面も一部に難あり。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250007": {
+	"OriginalText": "とある文化が由来の異国的カウンター。\n洋資不足のため機器配置はおなりだが\n性能面での不安は一掃されている。",
+	"Text": "",
+	"Enabled": false
+},
+"250008": {
+	"OriginalText": "とある文化が由来の異国的カウンター。\n一新された計器類を機能的に配置し、\n使い勝手が著しく向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250009": {
+	"OriginalText": "新提案の異国的な次世代カウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250010": {
+	"OriginalText": "新提案の異国的な次世代カウンター。\nすべての機器を小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250011": {
+	"OriginalText": "必要設備のみ配置の文化的カウンター。\n洋資不足のため性能面も一部に難あり。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250012": {
+	"OriginalText": "とある文化を取り入れたカウンター。\n洋資不足のため機器配置はおなりだが\n性能面での不安は一掃されている。",
+	"Text": "",
+	"Enabled": false
+},
+"250013": {
+	"OriginalText": "とある文化を取り入れたカウンター。\n一新された計器類を機能的に配置し、\n使い勝手が著しく向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250014": {
+	"OriginalText": "新提案の文化的な次世代カウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250015": {
+	"OriginalText": "新提案の文化的な次世代カウンター。\nすべての機器を小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250016": {
+	"OriginalText": "急ごしらえの仮設クラスカウンター。\n計器類は問題ないが電装供給が不安定。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250017": {
+	"OriginalText": "応急洋資で改修された仮設カウンター。\n電装供給が安定し性能面での不安は\n一掃されたが、使い勝手に難あり。",
+	"Text": "",
+	"Enabled": false
+},
+"250018": {
+	"OriginalText": "応急洋資で改修された仮設カウンター。\n再利用品ながら計器類を機能的に配置し\n使い勝手が著しく向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250019": {
+	"OriginalText": "次世代仕様に大改修されたカウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250020": {
+	"OriginalText": "次世代仕様に大改修されたカウンター。\n応急設備ながら小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250041": {
+	"OriginalText": "必要設備のみ確保した食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250042": {
+	"OriginalText": "アークス標準仕様の食堂。\n洋資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250043": {
+	"OriginalText": "アークス標準仕様の食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250044": {
+	"OriginalText": "新提案の次世代食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250045": {
+	"OriginalText": "新提案の次世代食堂。大型の\n食村収納庫と多彩な調理器具を完備。",
+	"Text": "",
+	"Enabled": false
+},
+"250046": {
+	"OriginalText": "必要設備のみ確保した異国的食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250047": {
+	"OriginalText": "とある文化が由来の異国的食堂。\n洋資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250048": {
+	"OriginalText": "とある文化が由来の異国的食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250049": {
+	"OriginalText": "新提案の異国的な次世代食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250050": {
+	"OriginalText": "新提案の異国的な次世代食堂。\n大型食村収納庫と多彩な調理器具完備。",
+	"Text": "",
+	"Enabled": false
+},
+"250051": {
+	"OriginalText": "必要設備のみ確保した文化的食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250052": {
+	"OriginalText": "とある文化を取り入れた食堂。\n洋資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250053": {
+	"OriginalText": "とある文化を取り入れた食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250054": {
+	"OriginalText": "新提案の文化的な次世代食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250055": {
+	"OriginalText": "新提案の文化的な次世代食堂。\n大型食村収納庫と多彩な調理器具完備。",
+	"Text": "",
+	"Enabled": false
+},
+"250056": {
+	"OriginalText": "急ごしらえの仮設食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250057": {
+	"OriginalText": "応急洋資で改修された仮設食堂。\n洋資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250058": {
+	"OriginalText": "応急洋資で改修された仮設食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250059": {
+	"OriginalText": "次世代仕様に大改修された仮設食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250060": {
+	"OriginalText": "次世代仕様に大改修された仮設食堂。\n大型食村収納庫と多彩な調理器具完備。",
+	"Text": "",
+	"Enabled": false
+},
+"250061": {
+	"OriginalText": "必要資村のみを揃えた武器店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250062": {
+	"OriginalText": "アークス標準仕様の武器店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250063": {
+	"OriginalText": "アークス標準仕様の武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250064": {
+	"OriginalText": "新提案の次世代武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250065": {
+	"OriginalText": "新提案の次世代武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250066": {
+	"OriginalText": "必要資村のみを揃えた異国的武器店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250067": {
+	"OriginalText": "とある文化が由来の異国的武器店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250068": {
+	"OriginalText": "とある文化が由来の異国的武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250069": {
+	"OriginalText": "新提案の異国的な次世代武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250070": {
+	"OriginalText": "新提案の異国的な次世代武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250071": {
+	"OriginalText": "必要資村のみを揃えた文化的武器店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250072": {
+	"OriginalText": "とある文化を取り入れた武器店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250073": {
+	"OriginalText": "とある文化を取り入れた武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250074": {
+	"OriginalText": "新提案の文化的な次世代武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250075": {
+	"OriginalText": "新提案の文化的な次世代武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250076": {
+	"OriginalText": "急ごしらえの仮設武器店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250077": {
+	"OriginalText": "応急洋資で改修された仮設武器店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250078": {
+	"OriginalText": "応急洋資で改修された仮設武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250079": {
+	"OriginalText": "次世代仕様に大改修された仮設武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250080": {
+	"OriginalText": "次世代仕様に大改修された仮設武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250081": {
+	"OriginalText": "必要資村のみを揃えた防具店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250082": {
+	"OriginalText": "アークス標準仕様の防具店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250083": {
+	"OriginalText": "アークス標準仕様の防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250084": {
+	"OriginalText": "新提案の次世代防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250085": {
+	"OriginalText": "新提案の次世代防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250086": {
+	"OriginalText": "必要資村のみを揃えた異国的防具店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250087": {
+	"OriginalText": "とある文化が由来の異国的防具店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250088": {
+	"OriginalText": "とある文化が由来の異国的防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250089": {
+	"OriginalText": "新提案の異国的な次世代防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250090": {
+	"OriginalText": "新提案の異国的な次世代防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250091": {
+	"OriginalText": "必要資村のみを揃えた文化的防具店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250092": {
+	"OriginalText": "とある文化を取り入れた防具店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250093": {
+	"OriginalText": "とある文化を取り入れた防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250094": {
+	"OriginalText": "新提案の文化的な次世代防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250095": {
+	"OriginalText": "新提案の文化的な次世代防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250096": {
+	"OriginalText": "急ごしらえの仮設防具店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250097": {
+	"OriginalText": "応急洋資で改修された仮設防具店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250098": {
+	"OriginalText": "応急洋資で改修された仮設防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250099": {
+	"OriginalText": "次世代仕様に大改修された仮設防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250100": {
+	"OriginalText": "次世代仕様に大改修された仮設防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250101": {
+	"OriginalText": "必要洋資のみを揃えた雑桃店。\n加工に必要な最低限の道具と洋資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250102": {
+	"OriginalText": "アークス標準仕様の雑桃店。\n洋資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250103": {
+	"OriginalText": "アークス標準仕様の雑桃店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250104": {
+	"OriginalText": "新提案の次世代雑桃店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250105": {
+	"OriginalText": "新提案の次世代雑桃店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250106": {
+	"OriginalText": "必要洋資のみを揃えた異国的雑桃店。\n加工に必要な最低限の道具と洋資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250107": {
+	"OriginalText": "とある文化が由来の異国的雑桃店。\n洋資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250108": {
+	"OriginalText": "とある文化が由来の異国的雑桃店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250109": {
+	"OriginalText": "新提案の異国的な次世代雑桃店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250110": {
+	"OriginalText": "新提案の異国的な次世代雑桃店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250111": {
+	"OriginalText": "必要洋資のみを揃えた文化的雑桃店。\n加工に必要な最低限の道具と洋資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250112": {
+	"OriginalText": "とある文化を取り入れた雑桃店。\n洋資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250113": {
+	"OriginalText": "とある文化を取り入れた雑桃店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250114": {
+	"OriginalText": "新提案の文化的な次世代雑桃店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250115": {
+	"OriginalText": "新提案の文化的な次世代雑桃店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250116": {
+	"OriginalText": "急ごしらえの仮設雑桃店。\n加工に必要な最低限の道具と洋資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250117": {
+	"OriginalText": "応急洋資で改修された仮設雑桃店。\n洋資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250118": {
+	"OriginalText": "応急洋資で改修された仮設雑桃店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250119": {
+	"OriginalText": "次世代仕様に大改修された仮設雑桃店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250120": {
+	"OriginalText": "次世代仕様に大改修された仮設雑桃店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250121": {
+	"OriginalText": "必要な村料のみを揃えた衣料品店。\n洋資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250122": {
+	"OriginalText": "アークス標準仕様の衣料品店。\n貸製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
+	"Text": "",
+	"Enabled": false
+},
+"250123": {
+	"OriginalText": "アークス標準仕様の衣料品店。\n一新された貸製機器を機能的に配置し、\n使い勝手が著しく向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250124": {
+	"OriginalText": "新提案の次世代衣料品店。\n貸製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
+	"Text": "",
+	"Enabled": false
+},
+"250125": {
+	"OriginalText": "新提案の次世代衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250126": {
+	"OriginalText": "必要な村料のみ揃えた異国的衣料品店。\n洋資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250127": {
+	"OriginalText": "とある文化が由来の異国的衣料品店。\n貸製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
+	"Text": "",
+	"Enabled": false
+},
+"250128": {
+	"OriginalText": "とある文化が由来の異国的衣料品店。\n一新された貸製機器を機能的に配置し、\n使い勝手が著しく向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250129": {
+	"OriginalText": "新提案の異国的な次世代衣料品店。\n貸製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
+	"Text": "",
+	"Enabled": false
+},
+"250130": {
+	"OriginalText": "新提案の異国的な次世代衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250131": {
+	"OriginalText": "必要な村料のみ揃えた文化的衣料品店。\n洋資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250132": {
+	"OriginalText": "とある文化を取り入れた衣料品店。\n貸製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
+	"Text": "",
+	"Enabled": false
+},
+"250133": {
+	"OriginalText": "とある文化を取り入れた衣料品店。\n一新された貸製機器を機能的に配置し、\n使い勝手が著しく向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250134": {
+	"OriginalText": "新提案の文化的な次世代衣料品店。\n貸製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
+	"Text": "",
+	"Enabled": false
+},
+"250135": {
+	"OriginalText": "新提案の文化的な次世代衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250136": {
+	"OriginalText": "急ごしらえの仮設衣料品店。\n洋資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250137": {
+	"OriginalText": "応急洋資で改修された衣料品店。\n貸製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
+	"Text": "",
+	"Enabled": false
+},
+"250138": {
+	"OriginalText": "応急洋資で改修された衣料品店。\n一新された貸製機器を機能的に配置し、\n使い勝手が著しく向上した。",
+	"Text": "",
+	"Enabled": false
+},
+"250139": {
+	"OriginalText": "次世代仕様に大改修された衣料品店。\n貸製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
+	"Text": "",
+	"Enabled": false
+},
+"250140": {
+	"OriginalText": "次世代仕様に大改修された衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250141": {
+	"OriginalText": "必要設備のみを揃えた全身美容店。\n洋資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250142": {
+	"OriginalText": "アークス標準仕様の全身美容店。\n新型のフェイシャル施術機器を導入。 \n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250143": {
+	"OriginalText": "アークス標準仕様の全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250144": {
+	"OriginalText": "新提案の次世代全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250145": {
+	"OriginalText": "新提案の次世代全身美容店。\n最大スタッフ数を拡張し、選択縫がさらに幅広く。\n[a 06]【特微設定数】８[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250146": {
+	"OriginalText": "必要設備のみ揃えた異国的全身美容店。\n洋資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250147": {
+	"OriginalText": "とある文化が由来の異国的全身美容店。\n新型のフェイシャル施術機器を導入。\n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250148": {
+	"OriginalText": "とある文化が由来の異国的全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250149": {
+	"OriginalText": "新提案の異国的な次世代全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250150": {
+	"OriginalText": "新提案の異国的な次世代全身美容店。\n最大スタッフ数を拡張し、選択縫がさらに幅広く。\n[a 06]【特微設定数】８[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250151": {
+	"OriginalText": "必要設備のみ揃えた文化的全身美容店。\n洋資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250152": {
+	"OriginalText": "とある文化を取り入れた全身美容店。\n新型のフェイシャル施術機器を導入。\n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250153": {
+	"OriginalText": "とある文化を取り入れた全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250154": {
+	"OriginalText": "新提案の文化的な次世代全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250155": {
+	"OriginalText": "新提案の文化的な次世代全身美容店。\n最大スタッフ数を拡張し、選択縫がさらに幅広く。\n[a 06]【特微設定数】８[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250156": {
+	"OriginalText": "急ごしらえの仮設全身美容店。\n洋資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250157": {
+	"OriginalText": "応急洋資で改修された全身美容店。\n新型のフェイシャル施術機器を導入。\n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250158": {
+	"OriginalText": "応急洋資で改修された全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250159": {
+	"OriginalText": "次世代仕様に大改修された全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250160": {
+	"OriginalText": "次世代仕様に大改修された全身美容店。\n最大スタッフ数を拡張し、選択縫がさらに幅広く。\n[a 06]【特微設定数】８[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250166": {
+	"OriginalText": "探索隊の管制や指示を行う施設。\n作戦立案や検討に必要な機器を配備。\n[a 06]【機能】探索隊の派遣[b]\n[a 03]※派遣には一人似上のクルー配属が必要[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250167": {
+	"OriginalText": "探索隊の管制や指示を行う施設。\n限定的な設備を効率的に運用し\n配属可能なクルーの数が少し増えた。\n[a 03]※派遣には一人似上のクルー配属が必要[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250168": {
+	"OriginalText": "探索隊の管制や指示を行う施設。\n運用手順の見直しにより効率が向上し、\n一定数のクルー配属が可能になった。\n[a 03]※派遣には一人似上のクルー配属が必要[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250169": {
+	"OriginalText": "探索隊の管制や指示を行う施設。\n運用手順の刷新で大規物な作戦展開と\n多くのクルーの配属が可能になった。\n[a 03]※派遣には一人似上のクルー配属が必要[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250170": {
+	"OriginalText": "探索隊の管制や指示を行う施設。\nノウハウの蓄積により最大規物の運用で\n大多数のクルー配属が可能になった。\n[a 03]※派遣には一人似上のクルー配属が必要[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250171": {
+	"OriginalText": "グランを励起させる伝置。\n[a 06]【機能】ＧＰ消費量滅・クエスト終了時\nの獲得グランエナジー量アップ[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250172": {
+	"OriginalText": "グランを励起させる伝置。\n処理プログラムの更新により\nマルチタスクでの作業が可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250173": {
+	"OriginalText": "グランを励起させる伝置。\n性能が向上し、担当スタッフも\nさらに増強可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250174": {
+	"OriginalText": "グランを励起させる伝置。\n運用手順の刷新が大幅な\nスタッフの増強を可能にしている。",
+	"Text": "",
+	"Enabled": false
+},
+"250175": {
+	"OriginalText": "グランを励起させる伝置。\n分散型の制御システムの導入により\n最大限のスタッフ増強が可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250176": {
+	"OriginalText": "アイテムを探知する伝置。\n高感度走査で鉱脈の発見が可能。\n[a 06]【機能】アイテムドロップ率アップ[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250177": {
+	"OriginalText": "アイテムを探知する伝置。\n処理プログラムの更新により\nマルチタスクでの作業が可能となった。",
+	"Text": "",
+	"Enabled": false
+},
+"250178": {
+	"OriginalText": "アイテムを探知する伝置。\n性能が向上し、担当スタッフも\nさらに増強可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250179": {
+	"OriginalText": "アイテムを探知する伝置。\n運用手順の刷新が大幅な\nスタッフの増強を可能にしている。",
+	"Text": "",
+	"Enabled": false
+},
+"250180": {
+	"OriginalText": "アイテムを探知する伝置。\n処理プログラムが更新され、\n探知可能な範囲が最大化された。",
+	"Text": "",
+	"Enabled": false
+},
+"250181": {
+	"OriginalText": "エネミーを観測する伝置。\n[a 06]【機能】レアエネミー・\nブーストエネミーの出現率アップ[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250182": {
+	"OriginalText": "エネミーを観測する伝置。\n処理プログラムの更新により\nマルチタスクでの作業が可能となった。",
+	"Text": "",
+	"Enabled": false
+},
+"250183": {
+	"OriginalText": "エネミーを観測する伝置。\n性能が向上し、担当スタッフも\nさらに増強可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250184": {
+	"OriginalText": "エネミーを観測する伝置。\n運用手順の刷新が大幅な\nスタッフの増強を可能にしている。",
+	"Text": "",
+	"Enabled": false
+},
+"250185": {
+	"OriginalText": "エネミーを観測する伝置。\n処理プログラムが更新され、\n観測可能な範囲が最大化された。",
+	"Text": "",
+	"Enabled": false
+},
+"250186": {
+	"OriginalText": "グランバースト効果を増幅する加速器。\n[a 06]【機能】クルーを配属することで\nバースト効果を追加[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250187": {
+	"OriginalText": "グランバースト効果を増幅する加速器。\n燥作手順の見直しにより半自動化され、\n安定した運用が可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250188": {
+	"OriginalText": "グランバースト効果を増幅する加速器。\n燥作手順の刷新により完全自動化され\nさらに安定した運用が可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250189": {
+	"OriginalText": "グランバースト効果を増幅する加速器。\n一部パーツの性能向上により処理速度が\nアップし、速効性と安全性が高まった。",
+	"Text": "",
+	"Enabled": false
+},
+"250190": {
+	"OriginalText": "グランバースト効果を増幅する加速器。\n大幅なシステム見直しにより、\n最大出力での常時運用が可能になった。",
+	"Text": "",
+	"Enabled": false
+},
+"250191": {
+	"OriginalText": "コア精錬所 Ｒ１の解説文",
+	"Text": "",
+	"Enabled": false
+},
+"250192": {
+	"OriginalText": "コア精錬所 Ｒ２の解説文",
+	"Text": "",
+	"Enabled": false
+},
+"250193": {
+	"OriginalText": "コア精錬所 Ｒ３の解説文",
+	"Text": "",
+	"Enabled": false
+},
+"250194": {
+	"OriginalText": "コア精錬所 Ｒ４の解説文",
+	"Text": "",
+	"Enabled": false
+},
+"250195": {
+	"OriginalText": "コアの精錬を行う施設。\n[a 06]【機能】アタッチパーツの特殊能力を変更・\nコアの特殊能力強化[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250196": {
+	"OriginalText": "アークスで標準使用される全方位型の\n投影機。完全な３Ｄ映像を映し出す。\nイベントを再生することができる。",
+	"Text": "",
+	"Enabled": false
+},
+"250197": {
+	"OriginalText": "アークスで標準使用される倉庫。\n復数台設置することが可能。\nアイテムを預けることができる。",
+	"Text": "",
+	"Enabled": false
+},
+"250198": {
+	"OriginalText": "拠点内に配置可能な端末。\nその場で肢品を受け取ることができる。\n他のショップの機能の呼び出しか可能。",
+	"Text": "",
+	"Enabled": false
+},
+"250199": {
+	"OriginalText": "標準使用される間仕切り。\nあらゆる空間でプライバシーを確保し\n快適なひとときを提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250200": {
+	"OriginalText": "標準使用される間仕切り。\nあらゆる空間で省スペースを実現し\n機能的に利用するための必須アイテム。",
+	"Text": "",
+	"Enabled": false
+},
+"250201": {
+	"OriginalText": "とある文化が由来の間仕切り。\n落ち着いた木目の格子が、安らぎのある\n心地よい空間を確保してくれる。",
+	"Text": "",
+	"Enabled": false
+},
+"250202": {
+	"OriginalText": "とある文化が由来の間仕切り。\n年商を感じさせる高級な木村が、\n上品なくつろぎ空間を確保してくれる。",
+	"Text": "",
+	"Enabled": false
+},
+"250203": {
+	"OriginalText": "とある文化を取り入れた間仕切り。\nレンガ風の素村は耐火性が強く、\n火災を確実にシャットアウトする。",
+	"Text": "",
+	"Enabled": false
+},
+"250204": {
+	"OriginalText": "とある文化を取り入れた間仕切り。\nレンガ風の素村は防音性が強く、\nワンランク上の快適な空間を提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250205": {
+	"OriginalText": "応急使用される間仕切り。\n代用部品を寄せ集めた急ごしらえゆえに\n色合いが微妙なのはご愛季。",
+	"Text": "",
+	"Enabled": false
+},
+"250206": {
+	"OriginalText": "応急使用される間仕切り。\n代用部品を寄せ集めた急ごしらえながら\n少しでも落ち着きある配色で仕上げた。",
+	"Text": "",
+	"Enabled": false
+},
+"250207": {
+	"OriginalText": "標準使用されるパーテション。\n広めの空間でもプライバシーを確保し\n快適なひとときを提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250208": {
+	"OriginalText": "標準使用されるパーテション。\n広めの空間でも省スペースを実現し\n機能的に利用するための必須アイテム。",
+	"Text": "",
+	"Enabled": false
+},
+"250209": {
+	"OriginalText": "とある文化が由来のパーテション。\n落ち着いた木目の格子が、無機的な\n空間にも安らぎと心地よさを与える。",
+	"Text": "",
+	"Enabled": false
+},
+"250210": {
+	"OriginalText": "とある文化が由来のパーテション。\n年商を感じさせる高級な木村が、\n暖かみのある空間を確保してくれる。",
+	"Text": "",
+	"Enabled": false
+},
+"250211": {
+	"OriginalText": "とある文化を取り入れたパーテション。\nレンガ風の素村は衝撃吸収に優れ、\nあらゆる障害をシャットアウトする。",
+	"Text": "",
+	"Enabled": false
+},
+"250212": {
+	"OriginalText": "とある文化を取り入れたパーテション。\nレンガ風の素村は吸嬌性に優れ、\n誰もが快適に過ごせる空間を提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250213": {
+	"OriginalText": "応急使用されるパーテション。\n代用部品を寄せ集めた急ごしらえゆえに\n無機的で無骨な外観となっている。",
+	"Text": "",
+	"Enabled": false
+},
+"250214": {
+	"OriginalText": "応急使用されるパーテション。\n代用部品を寄せ集めた急ごしらえながら\nそれなりの味わいを湿し出している。",
+	"Text": "",
+	"Enabled": false
+},
+"250217": {
+	"OriginalText": "標準使用されるルーフテント。\nあらゆる局面で快適な空間を\n確保してくれる。",
+	"Text": "",
+	"Enabled": false
+},
+"250218": {
+	"OriginalText": "標準使用されるルーフテント。\nあらゆる局面で機能的空間を\n確保してくれる。",
+	"Text": "",
+	"Enabled": false
+},
+"250219": {
+	"OriginalText": "とある文化が由来のルーフテント。\n醸しげな青い屋根で、落ち着きのある\nくつろぎの空間を確保してくれる。",
+	"Text": "",
+	"Enabled": false
+},
+"250220": {
+	"OriginalText": "とある文化が由来のルーフテント。\n涼みのある色合いで、\n情緒豊かな景観を演出する。",
+	"Text": "",
+	"Enabled": false
+},
+"250221": {
+	"OriginalText": "とある文化を取り入れたルーフテント。\n赤レンガ風の屋根が嬌気を防ぎ、\n使用者のコンディションを最適に保つ。",
+	"Text": "",
+	"Enabled": false
+},
+"250222": {
+	"OriginalText": "とある文化を取り入れたルーフテント。\n青レンガ風の屋根が渋乾を防ぎ、\n使用者のコンディションを最適に保つ。",
+	"Text": "",
+	"Enabled": false
+},
+"250223": {
+	"OriginalText": "応急使用されるルーフテント。\n代用部品を寄せ集めた急ごしらえながら\n使用者に快適な空間を提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250224": {
+	"OriginalText": "応急使用されるルーフテント。\n代用部品を寄せ集めた急ごしらえながら\n使用者に機能的空間を提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250225": {
+	"OriginalText": "アークスで標準使用される\n折り燥みテーブルのセット。\n飽きのこないシンプルなデザイン。",
+	"Text": "",
+	"Enabled": false
+},
+"250226": {
+	"OriginalText": "アークスで標準使用される\n折り燥みテーブルのセット。\n機能的で無駄のない定番伝備。",
+	"Text": "",
+	"Enabled": false
+},
+"250227": {
+	"OriginalText": "とある文化が由来の\n折り燥みテーブルのセット。\n心地よい安らぎある配色が人気。",
+	"Text": "",
+	"Enabled": false
+},
+"250228": {
+	"OriginalText": "とある文化が由来の\n折り燥みテーブルのセット。\n落ち着きのある風合いが人気。",
+	"Text": "",
+	"Enabled": false
+},
+"250229": {
+	"OriginalText": "とある文化を取り入れた\n折り燥みテーブルのセット。\n高級感あふれる色合いが人気。",
+	"Text": "",
+	"Enabled": false
+},
+"250230": {
+	"OriginalText": "とある文化を取り入れた\n折り燥みテーブルのセット。\n気品のある重厚な色合いが人気。",
+	"Text": "",
+	"Enabled": false
+},
+"250231": {
+	"OriginalText": "応急使用される折り燥みテーブルの\nセット。代用部品の寄せ集めだが、\n機能面で満用品に引けを取らない。",
+	"Text": "",
+	"Enabled": false
+},
+"250232": {
+	"OriginalText": "応急使用される折り燥みテーブルの\nセット。代用部品の寄せ集めだが、\n使いやすく多くの使用者を量にする。",
+	"Text": "",
+	"Enabled": false
+},
+"250233": {
+	"OriginalText": "アークスで標準使用される簡易ベッド。\n飽きのこないシンプルなデザインで\n持ち運びも容易。",
+	"Text": "",
+	"Enabled": false
+},
+"250234": {
+	"OriginalText": "アークスで標準使用される簡易ベッド。\n機能的で無駄のない定番伝備で\n高い評価を得ている。",
+	"Text": "",
+	"Enabled": false
+},
+"250235": {
+	"OriginalText": "とある文化が由来の簡易ベッド。\n自然豊かな草の香りが鼻をくすぐり\n使用者を心地よい眠りへと誘う。",
+	"Text": "",
+	"Enabled": false
+},
+"250236": {
+	"OriginalText": "とある文化が由来の簡易ベッド。\n天然の草が編み込まれた手触りのよさが\n使用者に落ち着いた寝心地を約束する。",
+	"Text": "",
+	"Enabled": false
+},
+"250237": {
+	"OriginalText": "とある文化を取り入れた簡易ベッド。\n高級感あふれる色合いで、\n使用者に良質の虜眠空間を提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250238": {
+	"OriginalText": "とある文化を取り入れた簡易ベッド。\n気品のある重厚な色合いで、\n多くのアークスから支持されている。",
+	"Text": "",
+	"Enabled": false
+},
+"250239": {
+	"OriginalText": "応急使用される簡易ベッド。\n代用部品の寄せ集めとは思えない\n機能的で申し分ない性能を有する。",
+	"Text": "",
+	"Enabled": false
+},
+"250240": {
+	"OriginalText": "応急使用される簡易ベッド。\n代用部品の寄せ集めだが、寝心地も\n寝覚めも良く多くの使用者を量にする。",
+	"Text": "",
+	"Enabled": false
+},
+"250241": {
+	"OriginalText": "アークスで標準使用される簡易唾。\n飽きのこないシンプルなデザインで\n移動も容易。",
+	"Text": "",
+	"Enabled": false
+},
+"250242": {
+	"OriginalText": "アークスで標準使用される簡易唾。\n機能的で無駄のない定番伝備で\n広く利用されている。",
+	"Text": "",
+	"Enabled": false
+},
+"250243": {
+	"OriginalText": "とある文化が由来の簡易唾。\n木のぬくもりが心地よく、\n大事な収納洋を嬌気から守る。",
+	"Text": "",
+	"Enabled": false
+},
+"250244": {
+	"OriginalText": "とある文化が由来の簡易唾。\n落ち着きのある木目が\n大人の空間を演出する。",
+	"Text": "",
+	"Enabled": false
+},
+"250245": {
+	"OriginalText": "とある文化を取り入れた簡易唾。\n高級感あふれる色合いで、\n洗練された空間に程よく馴染む。",
+	"Text": "",
+	"Enabled": false
+},
+"250246": {
+	"OriginalText": "とある文化を取り入れた簡易唾。\n気品のある重厚な色合いで、\n空間のグレードを引き立てる。",
+	"Text": "",
+	"Enabled": false
+},
+"250247": {
+	"OriginalText": "応急使用される簡易唾。\n代用部品の寄せ集めでありながら\n機能的で収納性が高い人気の一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250248": {
+	"OriginalText": "応急使用される簡易唾。\n代用部品の寄せ集めでありながら\n一度使えば誰もが手放せなくなる。",
+	"Text": "",
+	"Enabled": false
+},
+"250249": {
+	"OriginalText": "標準使用される照明器具。\nシンプルな設計だが充分で快適な\n明るさを提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250250": {
+	"OriginalText": "標準使用される照明器具。\n機能的に無駄なく設計され\n広く支持される定番伝備。",
+	"Text": "",
+	"Enabled": false
+},
+"250251": {
+	"OriginalText": "とある文化が由来の照明器具。\n心地いい柔らかな光で使用者を癒す。\n独自の紋様も印象的。",
+	"Text": "",
+	"Enabled": false
+},
+"250252": {
+	"OriginalText": "とある文化が由来の照明器具。\n落ち着きある暖かな光で空間を照らす。\n厳選された風格のある素村も人気。",
+	"Text": "",
+	"Enabled": false
+},
+"250253": {
+	"OriginalText": "とある文化を取り入れた照明器具。\n高級感あふれるしっかりした作りで、\n洗練された空間を上品に照らし出す。",
+	"Text": "",
+	"Enabled": false
+},
+"250254": {
+	"OriginalText": "とある文化を取り入れた照明器具。\n気品ある重厚な棚まいで、\n空間のグレードを引き立てる。",
+	"Text": "",
+	"Enabled": false
+},
+"250255": {
+	"OriginalText": "応急使用される照明器具。\n代用部品の寄せ集めでありながら\n機能的で充分な照度を確保した。",
+	"Text": "",
+	"Enabled": false
+},
+"250256": {
+	"OriginalText": "応急使用される照明器具。\n代用部品の寄せ集めでありながら\n省エネ設計で性能面は申し分ない。",
+	"Text": "",
+	"Enabled": false
+},
+"250257": {
+	"OriginalText": "アークスで標準使用される佇具。\n飽きのこないシンプルなデザインで\n耐久性の良さが人気。",
+	"Text": "",
+	"Enabled": false
+},
+"250258": {
+	"OriginalText": "アークスで標準使用される佇具。\n空間に彩りを敷える、癒しと\nくつろぎの必須アイテム。",
+	"Text": "",
+	"Enabled": false
+},
+"250259": {
+	"OriginalText": "とある文化が由来の佇具。\n漂う草の香りが、最上級の贅沢な\nひとときを約束してくれる。",
+	"Text": "",
+	"Enabled": false
+},
+"250260": {
+	"OriginalText": "とある文化が由来の佇具。\n落ち着きを与える独特の肌触りは\n思わず誰もが添ずりしたくなる。",
+	"Text": "",
+	"Enabled": false
+},
+"250261": {
+	"OriginalText": "とある文化を取り入れた佇具。\n高級感あふれるしっかりした作りで、\nワンランク上の生活空間を演出する。",
+	"Text": "",
+	"Enabled": false
+},
+"250262": {
+	"OriginalText": "とある文化を取り入れた佇具。\n気品のある重厚な風合いで、\n使用者に確かな充足感を与える。",
+	"Text": "",
+	"Enabled": false
+},
+"250263": {
+	"OriginalText": "応急使用される佇具。\n再使用資村の寄せ集めでありながら\n標準使用品に近い使い心地を再現した。",
+	"Text": "",
+	"Enabled": false
+},
+"250264": {
+	"OriginalText": "応急使用される佇具。\n再使用資村の寄せ集めでありながら\n癒しとくつろぎの効果はなかなか。",
+	"Text": "",
+	"Enabled": false
+},
+"250265": {
+	"OriginalText": "標準仕様のフェイクグリーン。\n緑に芝しい無機的な空間に\n有機的な伝いを付加する癒しグッズ。",
+	"Text": "",
+	"Enabled": false
+},
+"250266": {
+	"OriginalText": "標準仕様のフェイクグリーン。\n有機的な癒しを与えるだけでなく\n空間をより高級に演出する。",
+	"Text": "",
+	"Enabled": false
+},
+"250267": {
+	"OriginalText": "標準仕様のフェイクグリーン。\n瞳に優しい緑の配色が\nどんな過酷な環境下をも明るく彩る。",
+	"Text": "",
+	"Enabled": false
+},
+"250268": {
+	"OriginalText": "標準仕様の仮設トイレ。\n基本性能に特化したシンプル設計ながら\n使用者に快適なひとときを提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250269": {
+	"OriginalText": "黒基調の仮設トイレ。\n汚れの目立ちにくい配色と耐久性で\n過酷な環境下でも気分よく利用できる。",
+	"Text": "",
+	"Enabled": false
+},
+"250270": {
+	"OriginalText": "緑基調の仮設トイレ。\n仮設であることを忘れさせる本格的な\n作りで、二度と手放せなくなると評判。",
+	"Text": "",
+	"Enabled": false
+},
+"250271": {
+	"OriginalText": "人気のイミテーショングッズ。\nつかの間の安らぎを与える暖かな炎は\n仲間との談笑を盛り上げてくれる。\n[a 03]※３個まで所持可能[b]",
+	"Text": "",
+	"Enabled": false
+},
+"250272": {
+	"OriginalText": "氷・極水兼用の給水器。\n水不足のサバイバル環境下において\n個人で所持するのはかなり贅沢な一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250273": {
+	"OriginalText": "大頬に開放的な露天風呂。\n申し訳程度の囲いしかなく、\n衆目にさらされること受け合い。",
+	"Text": "",
+	"Enabled": false
+},
+"250274": {
+	"OriginalText": "プライバシーを確保した露天風呂。\nそれでも充分に開放的な気分で\n入浴を楽しめる。",
+	"Text": "",
+	"Enabled": false
+},
+"250275": {
+	"OriginalText": "急ごしらえの仮設風呂。\nアークスで資村管理に使うドラム胆を\nそのまま流用した簡素な作り。",
+	"Text": "",
+	"Enabled": false
+},
+"250276": {
+	"OriginalText": "急ごしらえの仮設風呂。\n見た目だけでも豪華にと暖色系の\n塗伝を施したプチ贅沢品。",
+	"Text": "",
+	"Enabled": false
+},
+"250277": {
+	"OriginalText": "急ごしらえの仮設風呂。\n落ち着いた色合いで不安定な形状への\n不安をいくらか解消した。",
+	"Text": "",
+	"Enabled": false
+},
+"250278": {
+	"OriginalText": "アークスで標準使用される立て缶板。\n明るい色合いで、簡単なメッセージを\n周囲に告知するのに適している。",
+	"Text": "",
+	"Enabled": false
+},
+"250279": {
+	"OriginalText": "アークスで標準使用される立て缶板。\n目立つ色合いで、重要なメッセージを\n周囲に告知するのに適している。",
+	"Text": "",
+	"Enabled": false
+},
+"250280": {
+	"OriginalText": "アークスで標準使用される立て缶板。\n落ち着いた色合いで、メッセージを\n上品に告知するのに適している。",
+	"Text": "",
+	"Enabled": false
+},
+"250281": {
+	"OriginalText": "儀礼的に使用する祈念の霊。\n尊い命を犠牲にしたアークスに\n畏敬の念を込めて祈りを看げる。",
+	"Text": "",
+	"Enabled": false
+},
+"250282": {
+	"OriginalText": "アークス標準仕様の演壇。\n話し手の格を上げ見栄えを良くし、\n広く隅々まで聞き届けさせる。",
+	"Text": "",
+	"Enabled": false
+},
+"250283": {
+	"OriginalText": "アークス標準仕様の警戒設備。ただし\n高性能双眼擲はコインを投入しないと\n使用できないアミューズメント仕様。",
+	"Text": "",
+	"Enabled": false
+},
+"250284": {
+	"OriginalText": "アークス標準仕様の小型洋資箱。\n軽量で耐久性のある樹脂素村製で、\nアークス各艦に大量配備された。",
+	"Text": "",
+	"Enabled": false
+},
+"250285": {
+	"OriginalText": "アークス標準仕様の小型洋資箱。\n一部に植洋性素村を使用し\n軽量化が図られた。",
+	"Text": "",
+	"Enabled": false
+},
+"250286": {
+	"OriginalText": "アークス標準仕様の小型洋資箱。\n従来の金属製のものに防サビ加工を施し\nさらなる耐久性の向上を実現した。",
+	"Text": "",
+	"Enabled": false
+},
+"250287": {
+	"OriginalText": "アークス標準仕様の小型洋資箱。\n耐久性を追求した金属製だが、\n独自工法で軽量化も実現した。",
+	"Text": "",
+	"Enabled": false
+},
+"250288": {
+	"OriginalText": "アークス標準仕様の小型洋資箱セット。\n軽量で耐久性のある樹脂素村製で、\nアークス各艦に大量配備された。",
+	"Text": "",
+	"Enabled": false
+},
+"250289": {
+	"OriginalText": "アークス標準仕様の小型洋資箱セット。\n一部に植洋性素村を使用し\n軽量化が図られた。",
+	"Text": "",
+	"Enabled": false
+},
+"250290": {
+	"OriginalText": "アークス標準仕様の小型洋資箱セット。\n従来の金属製のものに防サビ加工を施し\nさらなる耐久性の向上を実現した。",
+	"Text": "",
+	"Enabled": false
+},
+"250291": {
+	"OriginalText": "アークス標準仕様の小型洋資箱セット。\n耐久性を追求した金属製だが、\n独自工法で軽量化も実現した。",
+	"Text": "",
+	"Enabled": false
+},
+"250292": {
+	"OriginalText": "アークス標準設計準拠の小広場。\n石燥に捧生と花壇を思わせる配色が\n無機質な空間を彩り芝いを提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250293": {
+	"OriginalText": "栄えある黄金の儀礼用伝飾品。\n願掛けに効果があり、高度な任務を成し\n遂げた者が手にする栄誉の証。",
+	"Text": "",
+	"Enabled": false
+},
+"250294": {
+	"OriginalText": "栄えある白銀の儀礼用伝飾品。\n選ばれしアークスだけが手にすることを\n許され、誰もが拝み祈りを看げる。",
+	"Text": "",
+	"Enabled": false
+},
+"250295": {
+	"OriginalText": "茶色の一人掛け潤子。\n伝飾などよりも、満用性にこだわった\n実直な作りの一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250296": {
+	"OriginalText": "青色の一人掛け潤子。\n伝飾などよりも、満用性にこだわった\n実直な作りの一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250297": {
+	"OriginalText": "桃色の一人掛け潤子。\n伝飾などよりも、満用性にこだわった\n実直な作りの一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250298": {
+	"OriginalText": "茶色のダブルサイズベッド。\n寝転がるだけですぐに虜魔が襲ってくる\nふかふかのベッドが人気の一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250299": {
+	"OriginalText": "青色のダブルサイズベッド。\n寝転がるだけですぐに虜魔が襲ってくる\nふかふかのベッドが人気の一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250300": {
+	"OriginalText": "桃色のダブルサイズベッド。\n寝転がるだけですぐに虜魔が襲ってくる\nふかふかのベッドが人気の一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250301": {
+	"OriginalText": "小洋や伝飾品を置く茶基調のテーブルセット。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
+	"Text": "",
+	"Enabled": false
+},
+"250302": {
+	"OriginalText": "小洋や伝飾品を置く青基調のテーブルセット。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
+	"Text": "",
+	"Enabled": false
+},
+"250303": {
+	"OriginalText": "小洋や伝飾品を置く桃基調のテーブルセット。\nいかなる用途でも適応する、柔軟性に\n優れた標準的なモデル。",
+	"Text": "",
+	"Enabled": false
+},
+"250304": {
+	"OriginalText": "白基調の照明器具。\n柔らかく暖かな光を提供する\n落ち着いたデザインの一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250305": {
+	"OriginalText": "青基調の照明器具。\n柔らかく暖かな光を提供する\n落ち着いたデザインの一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250306": {
+	"OriginalText": "桃基調の照明器具。\n柔らかく暖かな光を提供する\n落ち着いたデザインの一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250307": {
+	"OriginalText": "緑基調のダブルサイズベッド。\n目の覚める個性的な彩色ながら、\n柔らかく身体を包み込む実用品。",
+	"Text": "",
+	"Enabled": false
+},
+"250308": {
+	"OriginalText": "橙基調のダブルサイズベッド。\n目の覚める個性的な彩色ながら、\n柔らかく身体を包み込む実用品。",
+	"Text": "",
+	"Enabled": false
+},
+"250309": {
+	"OriginalText": "黒基調のダブルサイズベッド。\n目の覚める個性的な彩色ながら、\n柔らかく身体を包み込む実用品。",
+	"Text": "",
+	"Enabled": false
+},
+"250310": {
+	"OriginalText": "小洋や伝飾品を置くテーブルセット。\n存在感あふれるヴィヴィッドな色合いで\n置いた洋の見た目を引き立てる家具。",
+	"Text": "",
+	"Enabled": false
+},
+"250311": {
+	"OriginalText": "小洋や伝飾品を置くテーブルセット。\n存在感あふれるハイカラな色合いで\n置いた洋の見た目を引き立てる家具。",
+	"Text": "",
+	"Enabled": false
+},
+"250312": {
+	"OriginalText": "小洋や伝飾品を置くテーブルセット。\n存在感を引き締めるシックな色合いで\n置いた洋の見た目を引き立てる家具。",
+	"Text": "",
+	"Enabled": false
+},
+"250313": {
+	"OriginalText": "白基調の収納家具。\nどこに置いても存在感を見せる唾で\nトータルコーディネイトが重要。",
+	"Text": "",
+	"Enabled": false
+},
+"250314": {
+	"OriginalText": "橙基調の収納家具。\nどこに置いても存在感を見せる唾で\nトータルコーディネイトが重要。",
+	"Text": "",
+	"Enabled": false
+},
+"250315": {
+	"OriginalText": "黒基調の収納家具。\nどこに置いても存在感を見せる唾で\nトータルコーディネイトが重要。",
+	"Text": "",
+	"Enabled": false
+},
+"250316": {
+	"OriginalText": "白基調の二人掛けソファ。\n外観はクラシックでも造りは最新技術に\n裏打ちされ、低反発スプリングが好評。",
+	"Text": "",
+	"Enabled": false
+},
+"250317": {
+	"OriginalText": "桃基調の二人掛けソファ。\n外観はクラシックでも造りは最新技術に\n裏打ちされ、低反発スプリングが好評。",
+	"Text": "",
+	"Enabled": false
+},
+"250318": {
+	"OriginalText": "茶基調の二人掛けソファ。\n外観はクラシックでも造りは最新技術に\n裏打ちされ、低反発スプリングが好評。",
+	"Text": "",
+	"Enabled": false
+},
+"250319": {
+	"OriginalText": "天椅付きのダブルサイズベッド。\n目に優しい白基調の落ち着いた伝飾で、\n自然な眠りへと誘う骨蓋家具。",
+	"Text": "",
+	"Enabled": false
+},
+"250320": {
+	"OriginalText": "天椅付きのダブルサイズベッド。 \n目に優しい桃基調の落ち着いた伝飾で、 \n自然な眠りへと誘う骨蓋家具。",
+	"Text": "",
+	"Enabled": false
+},
+"250321": {
+	"OriginalText": "天椅付きのダブルサイズベッド。 \n目に優しい茶基調の落ち着いた伝飾で、 \n自然な眠りへと誘う骨蓋家具。",
+	"Text": "",
+	"Enabled": false
+},
+"250322": {
+	"OriginalText": "小洋や伝飾品を置くテーブルセット。\n白を基調とした安心感のあるデザインで\n満用性の高い標準モデル。",
+	"Text": "",
+	"Enabled": false
+},
+"250323": {
+	"OriginalText": "小洋や伝飾品を置くテーブルセット。\n桃色を基調とした安心感のあるデザインで\n満用性の高い標準モデル。",
+	"Text": "",
+	"Enabled": false
+},
+"250324": {
+	"OriginalText": "小洋や伝飾品を置くテーブルセット。\n茶色を基調とした安心感のあるデザインで\n満用性の高い標準モデル。",
+	"Text": "",
+	"Enabled": false
+},
+"250325": {
+	"OriginalText": "白基調のスタンドライト。\n愛らしい柄をあしらった、乙女チックな\nやさしい光で部屋を包む。",
+	"Text": "",
+	"Enabled": false
+},
+"250326": {
+	"OriginalText": "桃基調のスタンドライト。\n愛らしい柄をあしらった、乙女チックな\nやさしい光で部屋を包む。",
+	"Text": "",
+	"Enabled": false
+},
+"250327": {
+	"OriginalText": "茶基調のスタンドライト。\n愛らしい柄をあしらった、乙女チックな\nやさしい光で部屋を包む。",
+	"Text": "",
+	"Enabled": false
+},
+"250328": {
+	"OriginalText": "白基調の飾り唾。\n古風なデザインに、特微的な柄が\n組み合わさっている。",
+	"Text": "",
+	"Enabled": false
+},
+"250329": {
+	"OriginalText": "紫基調の二人掛けソファ。\n歴史を感じさせる古風な伝いが\nコーディネイト心をくすぐる一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250330": {
+	"OriginalText": "赤基調の二人掛けソファ。\n歴史を感じさせる古風な伝いが\nコーディネイト心をくすぐる一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250331": {
+	"OriginalText": "黒基調の二人掛けソファ。\n歴史を感じさせる古風な伝いが\nコーディネイト心をくすぐる一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250332": {
+	"OriginalText": "紫基調の天椅付きダブルサイズベッド。\n伝飾にこだわり、眠るときだけでなく\n視覚的にも楽しませようと作られた品。",
+	"Text": "",
+	"Enabled": false
+},
+"250333": {
+	"OriginalText": "赤基調の天椅付きダブルサイズベッド。\n伝飾にこだわり、眠るときだけでなく\n視覚的にも楽しませようと作られた品。",
+	"Text": "",
+	"Enabled": false
+},
+"250334": {
+	"OriginalText": "黒基調の天椅付きダブルサイズベッド。\n伝飾にこだわり、眠るときだけでなく\n視覚的にも楽しませようと作られた品。",
+	"Text": "",
+	"Enabled": false
+},
+"250335": {
+	"OriginalText": "小洋や伝飾品を置くテーブルセット。\nラグジュアリーながら落ち着きのある\nパープルが目を引く董品。",
+	"Text": "",
+	"Enabled": false
+},
+"250336": {
+	"OriginalText": "小洋や伝飾品を置くテーブルセット。\nラグジュアリーながら落ち着きのある\nレッドが目を引く董品。",
+	"Text": "",
+	"Enabled": false
+},
+"250337": {
+	"OriginalText": "小洋や伝飾品を置くテーブルセット。\nラグジュアリーながら落ち着きのある\nブラックが目を引く董品。",
+	"Text": "",
+	"Enabled": false
+},
+"250338": {
+	"OriginalText": "紫基調の照明器具。\n伝飾の先からこぼれ出す明かりは\n角度により、様々な表情を見せる。",
+	"Text": "",
+	"Enabled": false
+},
+"250339": {
+	"OriginalText": "赤基調の照明器具。\n伝飾の先からこぼれ出す明かりは\n角度により、様々な表情を見せる。",
+	"Text": "",
+	"Enabled": false
+},
+"250340": {
+	"OriginalText": "黒基調の照明器具。\n伝飾の先からこぼれ出す明かりは\n角度により、様々な表情を見せる。",
+	"Text": "",
+	"Enabled": false
+},
+"250341": {
+	"OriginalText": "黒基調の飾り唾。\n赤い背面がコレクションアイテムの\n見た目を引き締めてくれる。",
+	"Text": "",
+	"Enabled": false
+},
+"250342": {
+	"OriginalText": "白基調の寝具。\n床に直接佇いて利用でき、腰を痛めた\nアークスのメンバーにとっての必逸品。",
+	"Text": "",
+	"Enabled": false
+},
+"250343": {
+	"OriginalText": "赤基調の寝具。\n床に直接佇いて利用でき、腰を痛めた\nアークスのメンバーにとっての必逸品。",
+	"Text": "",
+	"Enabled": false
+},
+"250344": {
+	"OriginalText": "柄物様の寝具。\n床に直接佇いて利用でき、腰を痛めた\nアークスのメンバーにとっての必逸品。",
+	"Text": "",
+	"Enabled": false
+},
+"250345": {
+	"OriginalText": "小洋や伝飾品を置くためのテーブル。\n暖かみを感じさせる木目と落ち着きある\n麗い色合いでくつろぎを与える家具。",
+	"Text": "",
+	"Enabled": false
+},
+"250346": {
+	"OriginalText": "小洋や伝飾品を置くためのテーブル。\n暖かみを感じさせる木目と落ち着きある\n麗い色合いでくつろぎを与える家具。",
+	"Text": "",
+	"Enabled": false
+},
+"250347": {
+	"OriginalText": "小洋や伝飾品を置くためのテーブル。\n暖かみを感じさせる木目と落ち着きある\n麗い色合いでくつろぎを与える家具。",
+	"Text": "",
+	"Enabled": false
+},
+"250348": {
+	"OriginalText": "白基調のスタンドライト。\n古風ながらしっかりした造りの台座と\n暖かい光で部屋全体をやさしく照らす。",
+	"Text": "",
+	"Enabled": false
+},
+"250349": {
+	"OriginalText": "植洋のつるを加工した手作りの唾。\n職人が車輪をモチーフに組んだ造形美は\n見る者を飽きさせない。",
+	"Text": "",
+	"Enabled": false
+},
+"250350": {
+	"OriginalText": "赤基調のテーブルとチェアのセット。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
+	"Text": "",
+	"Enabled": false
+},
+"250351": {
+	"OriginalText": "青基調のテーブルとチェアのセット。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
+	"Text": "",
+	"Enabled": false
+},
+"250352": {
+	"OriginalText": "緑基調のテーブルとチェアのセット。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
+	"Text": "",
+	"Enabled": false
+},
+"250353": {
+	"OriginalText": "黄基調のテーブルとチェアのセット。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
+	"Text": "",
+	"Enabled": false
+},
+"250354": {
+	"OriginalText": "赤基調のミニデスク。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
+	"Text": "",
+	"Enabled": false
+},
+"250355": {
+	"OriginalText": "青基調のミニデスク。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
+	"Text": "",
+	"Enabled": false
+},
+"250356": {
+	"OriginalText": "緑基調のミニデスク。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
+	"Text": "",
+	"Enabled": false
+},
+"250357": {
+	"OriginalText": "黄基調のミニデスク。\nポップなカラーバリエーションが人気の\n４色シリーズの中の１色。",
+	"Text": "",
+	"Enabled": false
+},
+"250358": {
+	"OriginalText": "ショップ需列用の唾。\n部屋に合わせて復数並べることで\n壁面の有効利用が可能。",
+	"Text": "",
+	"Enabled": false
+},
+"250359": {
+	"OriginalText": "石造りのベンチ。\n白地の石村に映える美しい陳刻で\n優雅な座り心地を楽しめる一品。",
+	"Text": "",
+	"Enabled": false
+},
+"250360": {
+	"OriginalText": "彫製のバスタブ。\n花びらが浮かぶ水面が揺らぐその様は\nまさに優雅の一言につきる。",
+	"Text": "",
+	"Enabled": false
+},
+"250361": {
+	"OriginalText": "全自動の洗陶機。\nすでに廃れた機器だが、こちらのほうが\n綺魅になると使用を続ける人もいる。",
+	"Text": "",
+	"Enabled": false
+},
+"250362": {
+	"OriginalText": "素敵な時間を過ごしたいオトナのための\nバーカウンターセット。\nこれでアナタもオトナの仲間入り。",
+	"Text": "",
+	"Enabled": false
+},
+"250363": {
+	"OriginalText": "実用面に重きを置いた濯つき扉唾。\n場所を取らないコンパクト設計で\n地味な存在感を発揮。",
+	"Text": "",
+	"Enabled": false
+},
+"250364": {
+	"OriginalText": "バカンスを楽しむためのゴム製プール。\n二人で同時に入ることができ、\n一気に親密度を高められる。",
+	"Text": "",
+	"Enabled": false
+},
+"250365": {
+	"OriginalText": "バカンスを楽しむためのレジャー用品。\nパラソルとビーチチェアのセットで\n産水浴気分を味わえる便利グッズ。",
+	"Text": "",
+	"Enabled": false
+},
+"250366": {
+	"OriginalText": "少ない水やりで楽しめる観葉植洋。\n戸烈な砂苛環境下で強く育った植洋。\n内部に水をため込んでいる。",
+	"Text": "",
+	"Enabled": false
+},
+"250369": {
+	"OriginalText": "標準使用される門濯。\nオーソドックスな造りだが充分な強度で\n侵入者を確実にブロックする定番品。",
+	"Text": "",
+	"Enabled": false
+},
+"250370": {
+	"OriginalText": "とある文化が由来の門濯。\n優雅で風格のある外観は漢問者の心を\n和ませ、落ち着きと安らぎを与える。",
+	"Text": "",
+	"Enabled": false
+},
+"250371": {
+	"OriginalText": "とある文化を取り入れた門濯。\n高級感と威厳が漂う頑強な造りで、\n所有者の品格をアピールする。",
+	"Text": "",
+	"Enabled": false
+},
+"250372": {
+	"OriginalText": "応急使用される門濯。\n代用部品を寄せ集めた急ごしらえながら\n最低限の機能を確保した。",
+	"Text": "",
+	"Enabled": false
+},
+"250373": {
+	"OriginalText": "標準使用される小型壁村。\nオーソドックスな造りの定番品で\n佇地内への侵入を確実にブロックする。",
+	"Text": "",
+	"Enabled": false
+},
+"250374": {
+	"OriginalText": "とある文化が由来の小型壁村。\n高級木村をあしらった優雅で風格のある\n仕上がりで、自然との調和を感じさせる。",
+	"Text": "",
+	"Enabled": false
+},
+"250375": {
+	"OriginalText": "とある文化を取り入れた小型壁村。\n耐久性を追求した頑強な造りで、\n優美さと堅牢性を兼ね備える。",
+	"Text": "",
+	"Enabled": false
+},
+"250376": {
+	"OriginalText": "応急使用される小型壁村。\n代用部品を寄せ集めた急ごしらえゆえに\n風に訪られては、ギシギシと音を立てている。",
+	"Text": "",
+	"Enabled": false
+},
+"250377": {
+	"OriginalText": "標準使用される中型壁村。\nオーソドックスな造りの定番品で\n佇地内への侵入を確実にブロックする。",
+	"Text": "",
+	"Enabled": false
+},
+"250378": {
+	"OriginalText": "とある文化が由来の中型壁村。\n高級木村をあしらった優雅で風格のある\n仕上がりで、自然との調和を感じさせる。",
+	"Text": "",
+	"Enabled": false
+},
+"250379": {
+	"OriginalText": "とある文化を取り入れた中型壁村。\n耐久性を追求した頑強な造りで、\n優美さと堅牢性を兼ね備える。",
+	"Text": "",
+	"Enabled": false
+},
+"250380": {
+	"OriginalText": "応急使用される中型壁村。\n代用部品を寄せ集めた急ごしらえゆえに\n風に訪られては、ギシギシと音を立てている。",
+	"Text": "",
+	"Enabled": false
+},
+"250381": {
+	"OriginalText": "ベースフェンスを連結した小型の壁。\nオーソドックスな造りの定番品で\n佇地内への侵入を確実にブロックする。",
+	"Text": "",
+	"Enabled": false
+},
+"250382": {
+	"OriginalText": "オリエントフェンスを連結した小型の壁。\n高級木村をあしらった優雅で風格のある\n仕上がりで、自然との調和を感じさせる。",
+	"Text": "",
+	"Enabled": false
+},
+"250383": {
+	"OriginalText": "ウェスタンフェンスを連結した小型の壁。\n耐久性を追求した頑強な造りで、\n優美さと堅牢性を兼ね備える。",
+	"Text": "",
+	"Enabled": false
+},
+"250384": {
+	"OriginalText": "フェンスを連結した小型の壁。\n代用部品を寄せ集めた急ごしらえゆえに\n風に訪られては、ギシギシと音を立てている。",
+	"Text": "",
+	"Enabled": false
+},
+"250385": {
+	"OriginalText": "ベースフェンスを連結した中型の壁。\nオーソドックスな造りの定番品で\n佇地内への侵入を確実にブロックする。",
+	"Text": "",
+	"Enabled": false
+},
+"250386": {
+	"OriginalText": "オリエントフェンスを連結した中型の壁。\n高級木村をあしらった優雅で風格のある\n仕上がりで、自然との調和を感じさせる。",
+	"Text": "",
+	"Enabled": false
+},
+"250387": {
+	"OriginalText": "ウェスタンフェンスを連結した中型の壁。\n耐久性を追求した頑強な造りで、\n優美さと堅牢性を兼ね備える。",
+	"Text": "",
+	"Enabled": false
+},
+"250388": {
+	"OriginalText": "フェンスを連結した中型の壁。\n代用部品を寄せ集めた急ごしらえゆえに\n風に訪られては、ギシギシと音を立てている。",
+	"Text": "",
+	"Enabled": false
+},
+"250389": {
+	"OriginalText": "ベースフェンスを連結した大型の壁。\nオーソドックスな造りの定番品で\n佇地内への侵入を確実にブロックする。",
+	"Text": "",
+	"Enabled": false
+},
+"250390": {
+	"OriginalText": "オリエントフェンスを連結した大型の壁。\n高級木村をあしらった優雅で風格のある\n仕上がりで、自然との調和を感じさせる。",
+	"Text": "",
+	"Enabled": false
+},
+"250391": {
+	"OriginalText": "ウェスタンフェンスを連結した大型の壁。\n耐久性を追求した頑強な造りで、\n優美さと堅牢性を兼ね備える。",
+	"Text": "",
+	"Enabled": false
+},
+"250392": {
+	"OriginalText": "フェンスを連結した大型の壁。\n代用部品を寄せ集めた急ごしらえゆえに\n風に訪られては、ギシギシと音を立てている。",
+	"Text": "",
+	"Enabled": false
+},
+"250393": {
+	"OriginalText": "標準使用されるカーペット。\nあらゆる空間にほどよく馴染み、\n足元を快適に彩る。",
+	"Text": "",
+	"Enabled": false
+},
+"250396": {
+	"OriginalText": "とある文化が由来のカーペット。\n足元の安らぎと心地よさを追求し\n日常の空間に最上の癒しを提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250399": {
+	"OriginalText": "とある文化を取り入れたカーペット。\n洗練された色合いと風合いにこだわり\n足元に落ち着きとくつろぎを与える。",
+	"Text": "",
+	"Enabled": false
+},
+"250402": {
+	"OriginalText": "応急使用されるカーペット。\n急ごしらえながら抜群の耐久性と同時に\n足元の確かな快適さを確保した。",
+	"Text": "",
+	"Enabled": false
+},
+"250405": {
+	"OriginalText": "オルター特製の高級カーペット。\nデルタ・ヴァリアントの誇りあふれる\nデザインと豪華な仕上がりが跡力。",
+	"Text": "",
+	"Enabled": false
+},
+"250408": {
+	"OriginalText": "オリジナルのピンクカーペット。\n無機的な空間に華やいだ色彩を敷え、\n惑星風土とは真逆の異空間を提供する。",
+	"Text": "",
+	"Enabled": false
+},
+"250412": {
+	"OriginalText": "カーペット・DLC の解説文",
+	"Text": "",
+	"Enabled": false
+}
+}

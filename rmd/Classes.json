@@ -1,0 +1,47 @@
+{
+"10201": {
+	"OriginalText": "ハンター",
+	"Text": "Hunter",
+	"Enabled": true
+},
+"10202": {
+	"OriginalText": "レンジャー",
+	"Text": "Ranger",
+	"Enabled": true
+},
+"10203": {
+	"OriginalText": "フォース",
+	"Text": "Force",
+	"Enabled": true
+},
+"10204": {
+	"OriginalText": "バスター",
+	"Text": "Buster",
+	"Enabled": true
+},
+"660000": {
+	"OriginalText": "",
+	"Text": "",
+	"Enabled": false
+},
+"660001": {
+	"OriginalText": "近距離での戦闘に真価を発揮するクラス。\n高いHPと防御力を持ち、単独での戦闘能力に\n優れる。",
+	"Text": "Une classe qui démontre la vraie valeur du combat au corp a corp.\navec des HP plus élevé et une puissance défensive.\npour une capacité de combat supérieure.",
+	"Enabled": true
+},
+"660002": {
+	"OriginalText": "射撃武器による攻撃を主とし、中距離での\n戦闘を得意とするクラス。\n射撃に必要な能力が軒並み高く、精密な\n射撃での攻撃が可能。",
+	"Text": "Une classe qui gère principalement des attaques a distance moyenne\nLes compétences nécessaires à la prise de vue sont élevées\net il est possible d'attaquer par un tir\nprécis.",
+	"Enabled": true
+},
+"660003": {
+	"OriginalText": "フォトンを用いたテクニックの使用に長けた\n遠距離戦闘向きのクラス。\n使用可能なテクニックは強力かつ多彩で\n法撃武器を用いることでさらに強化される。",
+	"Text": "Une classe qui utilise des technique a base de photons a longue distance\nLes techniques sont puissantes et polyvalentes\n et sont renforcées par l'utilisation de\nLaw Fighter.",
+	"Enabled": true
+},
+"660004": {
+	"OriginalText": "対ギガンテス戦を想定し創設された新クラス。\n打撃、射撃、法撃ともに汰等な能力を備え、\n特殊武器パイルを含む、あらゆる武器を\n伝備でき、ダイブロールによる回避が可能。",
+	"Text": "Classe creer pour affronter les Gigantes\nÉquipé de capacités telles que frapper, tirer et technique\nToutes les armes sont utilisable\nincluant les specials.",
+	"Enabled": true
+}
+}

@@ -1,0 +1,177 @@
+{
+"670000": {
+	"OriginalText": "",
+	"Text": "",
+	"Enabled": false
+},
+"670001": {
+	"OriginalText": "アグリオス",
+	"Text": "Agrios",
+	"Enabled": true
+},
+"670002": {
+	"OriginalText": "グレイオス",
+	"Text": "Grayos",
+	"Enabled": true
+},
+"670003": {
+	"OriginalText": "アルテイオス",
+	"Text": "Alteios",
+	"Enabled": true
+},
+"670004": {
+	"OriginalText": "ガラティオン",
+	"Text": "Galation",
+	"Enabled": true
+},
+"670005": {
+	"OriginalText": "ギガティオン",
+	"Text": "Gigation",
+	"Enabled": true
+},
+"670006": {
+	"OriginalText": "グラヴディオン",
+	"Text": "Graviodion",
+	"Enabled": true
+},
+"670007": {
+	"OriginalText": "エウリュード",
+	"Text": "Euryd",
+	"Enabled": true
+},
+"670008": {
+	"OriginalText": "ヴィヴリュード",
+	"Text": "Viveude",
+	"Enabled": true
+},
+"670009": {
+	"OriginalText": "アルキュオネ",
+	"Text": "Arcione",
+	"Enabled": true
+},
+"670010": {
+	"OriginalText": "デェフキュオネ",
+	"Text": "De Ke Keone",
+	"Enabled": true
+},
+"680000": {
+	"OriginalText": "",
+	"Text": "",
+	"Enabled": false
+},
+"680001": {
+	"OriginalText": "アグリカノーネ",
+	"Text": "Agricione",
+	"Enabled": true
+},
+"680002": {
+	"OriginalText": "エウルスタンプ",
+	"Text": "Eurstamp",
+	"Enabled": true
+},
+"680003": {
+	"OriginalText": "ガラテエーレ",
+	"Text": "Garatiele",
+	"Enabled": true
+},
+"680004": {
+	"OriginalText": "アルキインフェアノ",
+	"Text": "Alkininfairno",
+	"Enabled": true
+},
+"680005": {
+	"OriginalText": "グレイホルン",
+	"Text": "Corne grise",
+	"Enabled": true
+},
+"680006": {
+	"OriginalText": "ヴィヴシュラック",
+	"Text": "Vive Shrock",
+	"Enabled": true
+},
+"680007": {
+	"OriginalText": "ギガテシュトルム",
+	"Text": "Gigatestrum",
+	"Enabled": true
+},
+"680008": {
+	"OriginalText": "デェフヴォルカン",
+	"Text": "Davevorcan",
+	"Enabled": true
+},
+"680009": {
+	"OriginalText": "アルトカノーネ",
+	"Text": "Alto Canone",
+	"Enabled": true
+},
+"680010": {
+	"OriginalText": "グラヴシュトルム",
+	"Text": "Graubestrum",
+	"Enabled": true
+},
+"680011": {
+	"OriginalText": "イグニッション",
+	"Text": "initié",
+	"Enabled": true
+},
+"690000": {
+	"OriginalText": "",
+	"Text": "",
+	"Enabled": false
+},
+"690001": {
+	"OriginalText": "上空に発射したアグリオスの主砲が\n広範囲に降り注ぎ、散開する敵に\n中規物のダメージを与える。",
+	"Text": "L'arme principale d'Agrios lancée dans le ciel\nest extrêmement puissante et inflige des dégâts\nintermédiaires aux ennemis dans la zone.",
+	"Enabled": true
+},
+"690002": {
+	"OriginalText": "践直に賜ね飛ぶエウリュードが着地時に\n衝撃波を発し、周囲の敵をなぎ払い\n大ダメージを与える。",
+	"Text": "Euryd grimpe dans les  aire pour\nredescendre a toute vitesse pour donner un puissant onde de choc\nafin d'infigez de gros dégâts au alentour.",
+	"Enabled": true
+},
+"690003": {
+	"OriginalText": "ガラティオンからエネルギーが放射され、\n仲間全体に蘇生・HP・状態異常回復と\nパワーアップをもたらす。",
+	"Text": "L'énergie est émise par Galation,\nce qui amène la réanimation, les HP, la récupération d'anomalies\nd'état et la mise sous tension de l'ensemble du groupe.",
+	"Enabled": true
+},
+"690004": {
+	"OriginalText": "アルキュオネの触腕から正面方向に\n特大の火炎弾を発射し、\n標的に大ダメージを与える。",
+	"Text": "Lancez une balle de feu surdimensionnée dans\nla direction frontale à partir des tentacules Arcione\net faites beaucoup de dégâts à la cible.",
+	"Enabled": true
+},
+"690005": {
+	"OriginalText": "グレイオスが前足にため込んだ\n力を周囲に放電させて広い範囲に\n余波攻撃を与える。",
+	"Text": "Grayos décharge sa forces qui ont été placées à l’avant-pied dans l’environnement et provoquent des attaques sur une large zone.",
+	"Enabled": true
+},
+"690006": {
+	"OriginalText": "ヴィヴリュードが両足で上空に\n向かって、多弾頭ミサイルを発射し\n全方位に攻撃する。",
+	"Text": "Viveude s'elance vers le ciel,\ntirant un missile à têtes multiples\nattaquant dans toutes les directions.",
+	"Enabled": true
+},
+"690007": {
+	"OriginalText": "ギガティオンが翼の１０本の\nチェーンソーを大きく振り上げ、\n周辺の敵を切り裂く。",
+	"Text": "Gigantion soulève 10 tronçonneuses\nà ailes et coupe les\nennemis à proximité.",
+	"Enabled": false
+},
+"690008": {
+	"OriginalText": "デェフキュオネが回転しながら\n周囲に縞幕弾を投下させ、\n敵をブラインド状態にする。",
+	"Text": "De Ke Keone tourne et laisse tomber des balles rayées et aveugle l'ennemi.",
+	"Enabled": false
+},
+"690009": {
+	"OriginalText": "上空に発射したアルテイオスの主砲が\n広範囲に降り注ぎ、周辺のエネミーに\n中規物のダメージを与える。",
+	"Text": "Le fusil principal d'Alteios abattu\ndans le ciel distribue des objets\nintermédiaires à l'ennemi des environs.",
+	"Enabled": false
+},
+"690010": {
+	"OriginalText": "グラヴディオンが翼の１０本の\nチェーンソーを大きく振り上げ、\n周辺の敵を切り裂く。",
+	"Text": "Graviodion soulève 10 tronçonneuses\nà ailes et coupe les\nennemis à proximité.",
+	"Enabled": false
+},
+"690011": {
+	"OriginalText": "刺した杭を爆発させて、ギガンテスと\nグランリンクするためのスキル。\n杭の数が多いほど大ダメージを与えられる。",
+	"Text": "Une compétence pour tout faire exploser avec Gigantes.\nPlus le nombre de piles est important,\nplus les dégâts sont importants.",
+	"Enabled": true
+}
+}

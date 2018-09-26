@@ -1,0 +1,2827 @@
+{
+"440000": {
+	"OriginalText": "---",
+	"Text": "",
+	"Enabled": false
+},
+"440001": {
+	"OriginalText": "ヒューマン男性顔ベースＡ",
+	"Text": "Base Human Male Face A",
+	"Enabled": true
+},
+"440002": {
+	"OriginalText": "ヒューマン男性顔ベースＤ",
+	"Text": "Base Human Male Face D",
+	"Enabled": true
+},
+"440003": {
+	"OriginalText": "ヒューマン男性顔ベースＥ",
+	"Text": "Base Human Male Face E",
+	"Enabled": true
+},
+"440004": {
+	"OriginalText": "ヒューマン男性顔ベースＢ",
+	"Text": "Base Human Male Face B",
+	"Enabled": true
+},
+"440005": {
+	"OriginalText": "ヒューマン男性顔ベースＣ",
+	"Text": "Base Human Male Face C",
+	"Enabled": true
+},
+"440006": {
+	"OriginalText": "ニューマン男性顔ベースＡ",
+	"Text": "Base Newman Male Face A",
+	"Enabled": true
+},
+"440007": {
+	"OriginalText": "ニューマン男性顔ベースＢ",
+	"Text": "Base Newman Male Face B",
+	"Enabled": true
+},
+"440008": {
+	"OriginalText": "ニューマン男性顔ベースＣ",
+	"Text": "Base Newman Male Face C",
+	"Enabled": true
+},
+"440009": {
+	"OriginalText": "ニューマン男性顔ベースＤ",
+	"Text": "Base Newman Male Face D",
+	"Enabled": true
+},
+"440010": {
+	"OriginalText": "ニューマン男性顔ベースＥ",
+	"Text": "Base Newman Male Face E",
+	"Enabled": true
+},
+"440011": {
+	"OriginalText": "ニューマン男性顔ベースＦ",
+	"Text": "Base Newman Male Face F",
+	"Enabled": true
+},
+"440012": {
+	"OriginalText": "ニューマン男性顔ベースＧ",
+	"Text": "Base Newman Male Face G",
+	"Enabled": true
+},
+"440013": {
+	"OriginalText": "ニューマン男性顔ベースＨ",
+	"Text": "Base Newman Male Face H",
+	"Enabled": true
+},
+"440014": {
+	"OriginalText": "ニューマン男性顔ベースＩ",
+	"Text": "Base Newman Male Face I",
+	"Enabled": true
+},
+"440015": {
+	"OriginalText": "ニューマン男性顔ベースＪ",
+	"Text": "Base Newman Male Face J",
+	"Enabled": true
+},
+"440016": {
+	"OriginalText": "キャスト男性顔ベースＡ",
+	"Text": "Base CAST Male Face A",
+	"Enabled": true
+},
+"440017": {
+	"OriginalText": "キャスト男性顔ベースＢ",
+	"Text": "Base CAST Male Face B",
+	"Enabled": true
+},
+"440018": {
+	"OriginalText": "キャスト男性顔ベースＣ",
+	"Text": "Base CAST Male Face C",
+	"Enabled": true
+},
+"440019": {
+	"OriginalText": "キャスト男性顔ベースＤ",
+	"Text": "Base CAST Male Face D",
+	"Enabled": true
+},
+"440020": {
+	"OriginalText": "キャスト男性顔ベースＥ",
+	"Text": "Base CAST Male Face E",
+	"Enabled": true
+},
+"440021": {
+	"OriginalText": "ヒューマン男性顔ベースＦ",
+	"Text": "Base Human Male Face F",
+	"Enabled": true
+},
+"440022": {
+	"OriginalText": "ニューマン男性顔ベースＫ",
+	"Text": "Base Newman Male Face K",
+	"Enabled": true
+},
+"440023": {
+	"OriginalText": "ニューマン男性顔ベースＬ",
+	"Text": "Base Newman Male Face L",
+	"Enabled": true
+},
+"440024": {
+	"OriginalText": "キャスト男性顔ベースＦ",
+	"Text": "Base CAST Male Face F",
+	"Enabled": true
+},
+"440025": {
+	"OriginalText": "ロニア・ヘッド破",
+	"Text": "Ronia Head (Damaged)",
+	"Enabled": true
+},
+"440026": {
+	"OriginalText": "ディスタ・ヘッド破",
+	"Text": "Dista Head (Damaged)",
+	"Enabled": true
+},
+"440027": {
+	"OriginalText": "ファウマ・ヘッド破",
+	"Text": "Fauma Head (Damaged)",
+	"Enabled": true
+},
+"440028": {
+	"OriginalText": "アングリフ・ヘッド破",
+	"Text": "Angriff Head (Damaged)",
+	"Enabled": true
+},
+"440029": {
+	"OriginalText": "コロッサス・ヘッド",
+	"Text": "Colossus Head",
+	"Enabled": true
+},
+"440030": {
+	"OriginalText": "マギウス・ヘッド破",
+	"Text": "Magius Head (Damaged)",
+	"Enabled": true
+},
+"440031": {
+	"OriginalText": "シェリフ・ヘッド破",
+	"Text": "Sheriff Head (Damaged)",
+	"Enabled": true
+},
+"440032": {
+	"OriginalText": "バルドル・ヘッド",
+	"Text": "Baldur Head",
+	"Enabled": true
+},
+"440033": {
+	"OriginalText": "ジョーカ・ヘッド",
+	"Text": "Joker Head",
+	"Enabled": true
+},
+"440034": {
+	"OriginalText": "フィルフ・ヘッド破",
+	"Text": "Fliph Head (Damaged)",
+	"Enabled": true
+},
+"440035": {
+	"OriginalText": "ヒュリオン・ヘッド破",
+	"Text": "Hurion Head (Damaged)",
+	"Enabled": true
+},
+"440036": {
+	"OriginalText": "メルダー・ヘッド破",
+	"Text": "Melder Head (Damaged)",
+	"Enabled": true
+},
+"440037": {
+	"OriginalText": "アラオ・ヘッド破",
+	"Text": "Arao Head (Damaged)",
+	"Enabled": true
+},
+"440038": {
+	"OriginalText": "ゴルドオム・ヘッド",
+	"Text": "Goldoom Head",
+	"Enabled": true
+},
+"440039": {
+	"OriginalText": "アグリ・ヘッド",
+	"Text": "Agri Head",
+	"Enabled": true
+},
+"440040": {
+	"OriginalText": "ギオス・ヘッド",
+	"Text": "Gios Head",
+	"Enabled": true
+},
+"440041": {
+	"OriginalText": "クリスト・ヘッド",
+	"Text": "Christo Head",
+	"Enabled": true
+},
+"440042": {
+	"OriginalText": "ノヴァオム・ヘッド",
+	"Text": "Novaom Head",
+	"Enabled": true
+},
+"440043": {
+	"OriginalText": "リヴェン・ヘッド",
+	"Text": "Riven Head",
+	"Enabled": true
+},
+"440044": {
+	"OriginalText": "ヒューマン女性顔ベースＡ",
+	"Text": "Base Human Female Face A",
+	"Enabled": true
+},
+"440045": {
+	"OriginalText": "ヒューマン女性顔ベースＢ",
+	"Text": "Base Human Female Face B",
+	"Enabled": true
+},
+"440046": {
+	"OriginalText": "ヒューマン女性顔ベースＣ",
+	"Text": "Base Human Female Face C",
+	"Enabled": true
+},
+"440047": {
+	"OriginalText": "ニューマン女性顔ベースＡ",
+	"Text": "Base Newman Female Face A",
+	"Enabled": true
+},
+"440048": {
+	"OriginalText": "ニューマン女性顔ベースＢ",
+	"Text": "Base Newman Female Face B",
+	"Enabled": true
+},
+"440049": {
+	"OriginalText": "ニューマン女性顔ベースＣ",
+	"Text": "Base Newman Female Face C",
+	"Enabled": true
+},
+"440050": {
+	"OriginalText": "ニューマン女性顔ベースＤ",
+	"Text": "Base Newman Female Face D",
+	"Enabled": true
+},
+"440051": {
+	"OriginalText": "ニューマン女性顔ベースＥ",
+	"Text": "Base Newman Female Face E",
+	"Enabled": true
+},
+"440052": {
+	"OriginalText": "ニューマン女性顔ベースＦ",
+	"Text": "Base Newman Female Face F",
+	"Enabled": true
+},
+"440053": {
+	"OriginalText": "キャスト女性顔ベースＡ",
+	"Text": "Base CAST Female Face A",
+	"Enabled": true
+},
+"440054": {
+	"OriginalText": "キャスト女性顔ベースＢ",
+	"Text": "Base CAST Female Face B",
+	"Enabled": true
+},
+"440055": {
+	"OriginalText": "キャスト女性顔ベースＣ",
+	"Text": "Base CAST Female Face C",
+	"Enabled": true
+},
+"440056": {
+	"OriginalText": "キャスト女性顔ベースＤ",
+	"Text": "Base CAST Female Face D",
+	"Enabled": true
+},
+"440057": {
+	"OriginalText": "ヒューマン女性顔ベースＤ",
+	"Text": "Base Human Female Face D",
+	"Enabled": true
+},
+"440058": {
+	"OriginalText": "ニューマン女性顔ベースＧ",
+	"Text": "Base Newman Female Face G",
+	"Enabled": true
+},
+"440059": {
+	"OriginalText": "ニューマン女性顔ベースＨ",
+	"Text": "Base Newman Female Face H",
+	"Enabled": true
+},
+"440060": {
+	"OriginalText": "キャスト女性顔ベースＥ",
+	"Text": "Base CAST Female Face E",
+	"Enabled": true
+},
+"440061": {
+	"OriginalText": "ヒューマン女性用アニメ系",
+	"Text": "Human Female Animation System",
+	"Enabled": true
+},
+"440062": {
+	"OriginalText": "ニューマン（耳長）女性用アニメ系",
+	"Text": "",
+	"Enabled": false
+},
+"440063": {
+	"OriginalText": "ニューマン（耳短）女性用アニメ系",
+	"Text": "",
+	"Enabled": false
+},
+"440064": {
+	"OriginalText": "キャスト女性用アニメ系",
+	"Text": "CAST Female Animation System",
+	"Enabled": true
+},
+"440065": {
+	"OriginalText": "ヒューマン女性顔ベースＥ",
+	"Text": "Base Human Female Face E",
+	"Enabled": true
+},
+"440066": {
+	"OriginalText": "ニューマン女性顔ベースＩ",
+	"Text": "Base Newman Female Face I",
+	"Enabled": true
+},
+"440067": {
+	"OriginalText": "ニューマン女性顔ベースＪ",
+	"Text": "Base Newman Female Face J",
+	"Enabled": true
+},
+"440068": {
+	"OriginalText": "キャスト女性顔ベースＦ",
+	"Text": "Base CAST Female Face F",
+	"Enabled": true
+},
+"440069": {
+	"OriginalText": "セイル",
+	"Text": "Sail",
+	"Enabled": true
+},
+"440070": {
+	"OriginalText": "レイヴァン",
+	"Text": "Raven",
+	"Enabled": true
+},
+"440071": {
+	"OriginalText": "カリスト",
+	"Text": "Callisto",
+	"Enabled": true
+},
+"440072": {
+	"OriginalText": "ヨミ",
+	"Text": "Yomi",
+	"Enabled": true
+},
+"440073": {
+	"OriginalText": "オルクス",
+	"Text": "Orcus",
+	"Enabled": true
+},
+"440074": {
+	"OriginalText": "ルティナ",
+	"Text": "Lutina",
+	"Enabled": true
+},
+"440075": {
+	"OriginalText": "イズナ",
+	"Text": "Izuna",
+	"Enabled": true
+},
+"440076": {
+	"OriginalText": "ユノ",
+	"Text": "Juno",
+	"Enabled": true
+},
+"440077": {
+	"OriginalText": "ユノ：ホログラム",
+	"Text": "Juno: Hologram",
+	"Enabled": true
+},
+"440078": {
+	"OriginalText": "ユノ：グランリンク状態",
+	"Text": "Juno: Gran Link State",
+	"Enabled": true
+},
+"440079": {
+	"OriginalText": "フィルディア",
+	"Text": "Fildia",
+	"Enabled": true
+},
+"440080": {
+	"OriginalText": "キサラ",
+	"Text": "Kisara",
+	"Enabled": true
+},
+"440081": {
+	"OriginalText": "リーティア",
+	"Text": "Rietheia",
+	"Enabled": true
+},
+"440082": {
+	"OriginalText": "ヒュペリオン・ヘッド",
+	"Text": "Hyperion Head",
+	"Enabled": true
+},
+"440083": {
+	"OriginalText": "シャロン用フェイス",
+	"Text": "Sharon Face",
+	"Enabled": true
+},
+"440084": {
+	"OriginalText": "人型用 タイプＡ 大",
+	"Text": "",
+	"Enabled": false
+},
+"440085": {
+	"OriginalText": "人型用 タイプＡ 中",
+	"Text": "",
+	"Enabled": false
+},
+"440086": {
+	"OriginalText": "人型用 タイプＡ 小",
+	"Text": "",
+	"Enabled": false
+},
+"440087": {
+	"OriginalText": "人型用 タイプＢ 大",
+	"Text": "",
+	"Enabled": false
+},
+"440088": {
+	"OriginalText": "人型用 タイプＢ 中",
+	"Text": "",
+	"Enabled": false
+},
+"440089": {
+	"OriginalText": "人型用 タイプＢ 小",
+	"Text": "",
+	"Enabled": false
+},
+"440090": {
+	"OriginalText": "人型用 タイプＣ 大",
+	"Text": "",
+	"Enabled": false
+},
+"440091": {
+	"OriginalText": "人型用 タイプＣ 中",
+	"Text": "",
+	"Enabled": false
+},
+"440092": {
+	"OriginalText": "人型用 タイプＣ 小",
+	"Text": "",
+	"Enabled": false
+},
+"440093": {
+	"OriginalText": "キャスト用 タイプＡ 大",
+	"Text": "",
+	"Enabled": false
+},
+"440094": {
+	"OriginalText": "キャスト用 タイプＡ 中",
+	"Text": "",
+	"Enabled": false
+},
+"440095": {
+	"OriginalText": "キャスト用 タイプＡ 小",
+	"Text": "",
+	"Enabled": false
+},
+"440096": {
+	"OriginalText": "キャスト用 タイプＢ 大",
+	"Text": "",
+	"Enabled": false
+},
+"440097": {
+	"OriginalText": "キャスト用 タイプＢ 中",
+	"Text": "",
+	"Enabled": false
+},
+"440098": {
+	"OriginalText": "キャスト用 タイプＢ 小",
+	"Text": "",
+	"Enabled": false
+},
+"440099": {
+	"OriginalText": "まゆなし",
+	"Text": "No Eyebrows",
+	"Enabled": true
+},
+"440100": {
+	"OriginalText": "タイプＡ",
+	"Text": "Type A",
+	"Enabled": true
+},
+"440101": {
+	"OriginalText": "タイプＢ",
+	"Text": "Type B",
+	"Enabled": true
+},
+"440102": {
+	"OriginalText": "タイプＣ",
+	"Text": "Type C",
+	"Enabled": true
+},
+"440103": {
+	"OriginalText": "タイプＤ",
+	"Text": "Type D",
+	"Enabled": true
+},
+"440104": {
+	"OriginalText": "タイプＥ",
+	"Text": "Type E",
+	"Enabled": true
+},
+"440105": {
+	"OriginalText": "タイプＦ",
+	"Text": "Type F",
+	"Enabled": true
+},
+"440106": {
+	"OriginalText": "タイプＧ",
+	"Text": "Type G",
+	"Enabled": true
+},
+"440107": {
+	"OriginalText": "タイプＨ",
+	"Text": "Type H",
+	"Enabled": true
+},
+"440108": {
+	"OriginalText": "タイプＩ",
+	"Text": "Type I",
+	"Enabled": true
+},
+"440109": {
+	"OriginalText": "タイプＪ",
+	"Text": "Type J",
+	"Enabled": true
+},
+"440110": {
+	"OriginalText": "タイプＫ",
+	"Text": "Type K",
+	"Enabled": true
+},
+"440111": {
+	"OriginalText": "タイプＬ",
+	"Text": "Type L",
+	"Enabled": true
+},
+"440112": {
+	"OriginalText": "タイプＭ",
+	"Text": "Type M",
+	"Enabled": true
+},
+"440113": {
+	"OriginalText": "タイプＮ",
+	"Text": "Type N",
+	"Enabled": true
+},
+"440114": {
+	"OriginalText": "タイプＯ",
+	"Text": "Type O",
+	"Enabled": true
+},
+"440115": {
+	"OriginalText": "タイプＰ",
+	"Text": "Type P",
+	"Enabled": true
+},
+"440116": {
+	"OriginalText": "太眉",
+	"Text": "",
+	"Enabled": false
+},
+"440117": {
+	"OriginalText": "太眉（△型）",
+	"Text": "",
+	"Enabled": false
+},
+"440118": {
+	"OriginalText": "人型用 タイプＡ",
+	"Text": "Type A",
+	"Enabled": true
+},
+"440119": {
+	"OriginalText": "人型用 タイプＢ",
+	"Text": "Type B",
+	"Enabled": true
+},
+"440120": {
+	"OriginalText": "人型用 タイプＣ",
+	"Text": "Type C",
+	"Enabled": true
+},
+"440121": {
+	"OriginalText": "人型用 タイプＤ",
+	"Text": "Type D",
+	"Enabled": true
+},
+"440122": {
+	"OriginalText": "人型用 タイプＥ",
+	"Text": "Type E",
+	"Enabled": true
+},
+"440123": {
+	"OriginalText": "人型用 タイプＦ",
+	"Text": "Type F",
+	"Enabled": true
+},
+"440124": {
+	"OriginalText": "人型用 タイプＧ",
+	"Text": "Type G",
+	"Enabled": true
+},
+"440125": {
+	"OriginalText": "人型用 タイプＨ",
+	"Text": "Type H",
+	"Enabled": true
+},
+"440126": {
+	"OriginalText": "人型用 タイプＩ",
+	"Text": "Type I",
+	"Enabled": true
+},
+"440127": {
+	"OriginalText": "人型用 タイプＪ",
+	"Text": "Type J",
+	"Enabled": true
+},
+"440128": {
+	"OriginalText": "人型用 タイプＫ",
+	"Text": "Type K",
+	"Enabled": true
+},
+"440129": {
+	"OriginalText": "人型用 タイプＬ",
+	"Text": "Type L",
+	"Enabled": true
+},
+"440130": {
+	"OriginalText": "人型用 タイプＭ",
+	"Text": "Type M",
+	"Enabled": true
+},
+"440131": {
+	"OriginalText": "人型用 タイプＮ",
+	"Text": "Type N",
+	"Enabled": true
+},
+"440132": {
+	"OriginalText": "キャスト用 タイプＡ",
+	"Text": "Type A",
+	"Enabled": true
+},
+"440133": {
+	"OriginalText": "キャスト用 タイプＢ",
+	"Text": "Type B",
+	"Enabled": true
+},
+"440134": {
+	"OriginalText": "キャスト用 タイプＣ",
+	"Text": "Type C",
+	"Enabled": true
+},
+"440135": {
+	"OriginalText": "キャスト用 タイプＤ",
+	"Text": "Type D",
+	"Enabled": true
+},
+"440136": {
+	"OriginalText": "キャスト用 タイプＥ",
+	"Text": "Type E",
+	"Enabled": true
+},
+"440137": {
+	"OriginalText": "ローズ・ヘッド破",
+	"Text": "Rose Head (Damaged)",
+	"Enabled": true
+},
+"440138": {
+	"OriginalText": "ディール・ヘッド破",
+	"Text": "Deal Head (Damaged)",
+	"Enabled": true
+},
+"440139": {
+	"OriginalText": "ファーネン・ヘッド破",
+	"Text": "Fanen Head (Damaged)",
+	"Enabled": true
+},
+"440140": {
+	"OriginalText": "イオニア・ヘッド破",
+	"Text": "Ionia Head (Damaged)",
+	"Enabled": true
+},
+"440141": {
+	"OriginalText": "ランクス・ヘッド",
+	"Text": "Ranks Head",
+	"Enabled": true
+},
+"440142": {
+	"OriginalText": "イルシオン・ヘッド",
+	"Text": "Illusion Head",
+	"Enabled": true
+},
+"440143": {
+	"OriginalText": "ワスプ・ヘッド破ＣＶ",
+	"Text": "Wasp Head CV (Damaged)",
+	"Enabled": true
+},
+"440144": {
+	"OriginalText": "フリーゲン・ヘッド破",
+	"Text": "Fliegen Head (Damaged)",
+	"Enabled": true
+},
+"440145": {
+	"OriginalText": "ラミア・ヘッド破",
+	"Text": "Lamia Head (Damaged)",
+	"Enabled": true
+},
+"440146": {
+	"OriginalText": "グリース・ヘッド破",
+	"Text": "Griss Head (Damaged)",
+	"Enabled": true
+},
+"440147": {
+	"OriginalText": "ケルビナ・ヘッド破",
+	"Text": "Cherubina Head (Damaged)",
+	"Enabled": true
+},
+"440148": {
+	"OriginalText": "メディウム・ヘッド",
+	"Text": "Medium Head",
+	"Enabled": true
+},
+"440149": {
+	"OriginalText": "ヘルマ・ヘッド破",
+	"Text": "Helma Head (Damaged)",
+	"Enabled": true
+},
+"440150": {
+	"OriginalText": "ゴルドファム・ヘッド",
+	"Text": "Gold Fam Head",
+	"Enabled": true
+},
+"440151": {
+	"OriginalText": "ガラテ・ヘッド",
+	"Text": "Garate Head",
+	"Enabled": true
+},
+"440152": {
+	"OriginalText": "アルキ・ヘッド",
+	"Text": "Alki Head",
+	"Enabled": true
+},
+"440153": {
+	"OriginalText": "ラビーソ・ヘッド",
+	"Text": "Rabiso Head",
+	"Enabled": true
+},
+"440154": {
+	"OriginalText": "マーヴ・ヘッド",
+	"Text": "Marv Head",
+	"Enabled": true
+},
+"440155": {
+	"OriginalText": "ノヴァファム・ヘッド",
+	"Text": "Nova Fam Head",
+	"Enabled": true
+},
+"440156": {
+	"OriginalText": "シャロン・ヘッド",
+	"Text": "Sharon Head",
+	"Enabled": true
+},
+"440157": {
+	"OriginalText": "ベリーショート",
+	"Text": "Very Short",
+	"Enabled": true
+},
+"440158": {
+	"OriginalText": "ショートマッシュ",
+	"Text": "Short Mash",
+	"Enabled": true
+},
+"440159": {
+	"OriginalText": "スパイキーウルフ",
+	"Text": "Spiky Wolf",
+	"Enabled": true
+},
+"440160": {
+	"OriginalText": "カジュアル",
+	"Text": "Casual",
+	"Enabled": true
+},
+"440161": {
+	"OriginalText": "ショートウルフ",
+	"Text": "Short Wolf",
+	"Enabled": true
+},
+"440162": {
+	"OriginalText": "ミディアムレイヤー",
+	"Text": "Medium Layer",
+	"Enabled": true
+},
+"440163": {
+	"OriginalText": "ブレイズ",
+	"Text": "Blaze",
+	"Enabled": true
+},
+"440164": {
+	"OriginalText": "クラシックショート",
+	"Text": "Classic Short",
+	"Enabled": true
+},
+"440165": {
+	"OriginalText": "スパイク",
+	"Text": "Spike",
+	"Enabled": true
+},
+"440166": {
+	"OriginalText": "サムライポニー",
+	"Text": "Samurai Pony",
+	"Enabled": true
+},
+"440167": {
+	"OriginalText": "シャープストレート",
+	"Text": "Sharp Straight",
+	"Enabled": true
+},
+"440168": {
+	"OriginalText": "ビグテール",
+	"Text": "Big Tail",
+	"Enabled": true
+},
+"440169": {
+	"OriginalText": "ウェーブ",
+	"Text": "Wave",
+	"Enabled": true
+},
+"440170": {
+	"OriginalText": "リーゼント",
+	"Text": "Resent",
+	"Enabled": true
+},
+"440171": {
+	"OriginalText": "ショートストレート",
+	"Text": "Short Straight",
+	"Enabled": true
+},
+"440172": {
+	"OriginalText": "カジュアルレイヤー",
+	"Text": "Casual Layer",
+	"Enabled": true
+},
+"440173": {
+	"OriginalText": "ストレートロング",
+	"Text": "Straight Long",
+	"Enabled": true
+},
+"440174": {
+	"OriginalText": "ミディアムマッシュ",
+	"Text": "Medium Mash",
+	"Enabled": true
+},
+"440175": {
+	"OriginalText": "ショートボブ",
+	"Text": "Short Bob",
+	"Enabled": true
+},
+"440176": {
+	"OriginalText": "レトロガーリー",
+	"Text": "Retro Girly",
+	"Enabled": true
+},
+"440177": {
+	"OriginalText": "オールバック",
+	"Text": "All Back",
+	"Enabled": true
+},
+"440178": {
+	"OriginalText": "ふんわりアフロ",
+	"Text": "Fluffy Afro",
+	"Enabled": true
+},
+"440179": {
+	"OriginalText": "モヒカン",
+	"Text": "Mohawk",
+	"Enabled": true
+},
+"440180": {
+	"OriginalText": "中分けショートボブ",
+	"Text": "Middle-Parted Short Bob",
+	"Enabled": true
+},
+"440181": {
+	"OriginalText": "ワイルドポニー",
+	"Text": "Wild Pony",
+	"Enabled": true
+},
+"440182": {
+	"OriginalText": "ショートリーゼント",
+	"Text": "Short Resent",
+	"Enabled": true
+},
+"440183": {
+	"OriginalText": "スキンヘッド",
+	"Text": "Skinhead",
+	"Enabled": true
+},
+"440184": {
+	"OriginalText": "ミディアムクール",
+	"Text": "Medium Cool",
+	"Enabled": true
+},
+"440185": {
+	"OriginalText": "ミディアムエッジ",
+	"Text": "Medium Edge",
+	"Enabled": true
+},
+"440186": {
+	"OriginalText": "クラシックオールバック",
+	"Text": "Classic All Back",
+	"Enabled": true
+},
+"440187": {
+	"OriginalText": "外ハネセミロング",
+	"Text": "Outward Combed Semi-Long",
+	"Enabled": true
+},
+"440188": {
+	"OriginalText": "ヘリパイロットヘルメット",
+	"Text": "Heli Pilot Helmet",
+	"Enabled": true
+},
+"440189": {
+	"OriginalText": "ヘリＰヘルメットＮＶ",
+	"Text": "Heli Pilot Helmet NV",
+	"Enabled": true
+},
+"440190": {
+	"OriginalText": "リリーパヘアー",
+	"Text": "Lilipa Hair",
+	"Enabled": true
+},
+"440191": {
+	"OriginalText": "ツインテール",
+	"Text": "Twin Tails",
+	"Enabled": true
+},
+"440192": {
+	"OriginalText": "ナチュラルロング",
+	"Text": "Natural Long",
+	"Enabled": true
+},
+"440193": {
+	"OriginalText": "アップスタイル",
+	"Text": "Up Style",
+	"Enabled": true
+},
+"440194": {
+	"OriginalText": "サイドアップ",
+	"Text": "Side Up",
+	"Enabled": true
+},
+"440195": {
+	"OriginalText": "ミディアムツインテール１",
+	"Text": "Medium Twin Tails 1",
+	"Enabled": true
+},
+"440196": {
+	"OriginalText": "ミディアムツインテール２",
+	"Text": "Medium Twin Tails 2",
+	"Enabled": true
+},
+"440197": {
+	"OriginalText": "ポニーテール１",
+	"Text": "Ponytail 1",
+	"Enabled": true
+},
+"440198": {
+	"OriginalText": "ポニーテール２",
+	"Text": "Ponytail 2",
+	"Enabled": true
+},
+"440199": {
+	"OriginalText": "ポニーテール３",
+	"Text": "Ponytail 3",
+	"Enabled": true
+},
+"440200": {
+	"OriginalText": "ミディアムストレート１",
+	"Text": "Medium Straight 1",
+	"Enabled": true
+},
+"440201": {
+	"OriginalText": "ミディアムストレート２",
+	"Text": "Medium Straight 2",
+	"Enabled": true
+},
+"440202": {
+	"OriginalText": "ミディアムストレート３",
+	"Text": "Medium Straight 3",
+	"Enabled": true
+},
+"440203": {
+	"OriginalText": "ゆる三つ編み",
+	"Text": "",
+	"Enabled": false
+},
+"440204": {
+	"OriginalText": "ゆる三つ編み 前",
+	"Text": "",
+	"Enabled": false
+},
+"440205": {
+	"OriginalText": "ツインアップ",
+	"Text": "Twin Up",
+	"Enabled": true
+},
+"440206": {
+	"OriginalText": "編みこみアップスタイル",
+	"Text": "",
+	"Enabled": false
+},
+"440207": {
+	"OriginalText": "ロングツインテール",
+	"Text": "Long Twin Tails",
+	"Enabled": true
+},
+"440208": {
+	"OriginalText": "たれツインテ",
+	"Text": "Low Twin Tails",
+	"Enabled": true
+},
+"440209": {
+	"OriginalText": "イーリスビーハイブ",
+	"Text": "Iris Beehive",
+	"Enabled": true
+},
+"440210": {
+	"OriginalText": "姫カットロング",
+	"Text": "Hime Cut Long",
+	"Enabled": true
+},
+"440211": {
+	"OriginalText": "スーパーパイナップル",
+	"Text": "Super Pineapple",
+	"Enabled": true
+},
+"440212": {
+	"OriginalText": "セブンスリーヘア",
+	"Text": "Seven Three Hair",
+	"Enabled": true
+},
+"440213": {
+	"OriginalText": "ヤワフアミディアム",
+	"Text": "Yawafua Medium",
+	"Enabled": true
+},
+"440214": {
+	"OriginalText": "ビジネスマッシュボブ",
+	"Text": "Business Mash Bob",
+	"Enabled": true
+},
+"440215": {
+	"OriginalText": "ニュアンスストレート",
+	"Text": "Nuance Straight",
+	"Enabled": true
+},
+"440216": {
+	"OriginalText": "ドレスアップヘア",
+	"Text": "Dress Up Hair",
+	"Enabled": true
+},
+"440217": {
+	"OriginalText": "フェミニンロング",
+	"Text": "Feminine Long",
+	"Enabled": true
+},
+"440218": {
+	"OriginalText": "フェミニンロングブライド",
+	"Text": "Feminine Long Bright",
+	"Enabled": true
+},
+"440219": {
+	"OriginalText": "クイーンズロング",
+	"Text": "Queens Long",
+	"Enabled": true
+},
+"440220": {
+	"OriginalText": "トロピカルストレート",
+	"Text": "Tropical Straight",
+	"Enabled": true
+},
+"440221": {
+	"OriginalText": "スパイスタイルオールバック",
+	"Text": "Spy Style All Back",
+	"Enabled": true
+},
+"440222": {
+	"OriginalText": "ロングパイルスタイル",
+	"Text": "Long Pile Style",
+	"Enabled": true
+},
+"440223": {
+	"OriginalText": "ショートモヒカンスタイル",
+	"Text": "Short Mohawk Style",
+	"Enabled": true
+},
+"440224": {
+	"OriginalText": "カジュアルパーティスタイル",
+	"Text": "Casual Party Style",
+	"Enabled": true
+},
+"440225": {
+	"OriginalText": "ナイトパーティスタイル",
+	"Text": "Night Party Style",
+	"Enabled": true
+},
+"440241": {
+	"OriginalText": "なし",
+	"Text": "None",
+	"Enabled": true
+},
+"440242": {
+	"OriginalText": "フェイスガード 白",
+	"Text": "White Face Guard",
+	"Enabled": true
+},
+"440243": {
+	"OriginalText": "フェイスガード グレー",
+	"Text": "Grey Face Guard",
+	"Enabled": true
+},
+"440244": {
+	"OriginalText": "フェイスガード ブラック",
+	"Text": "Black Face Guard",
+	"Enabled": true
+},
+"440245": {
+	"OriginalText": "鼻ばんそうこう",
+	"Text": "",
+	"Enabled": false
+},
+"440246": {
+	"OriginalText": "タトゥー",
+	"Text": "Tattoo",
+	"Enabled": true
+},
+"440247": {
+	"OriginalText": "ヒゲ１",
+	"Text": "Beard 1",
+	"Enabled": true
+},
+"440248": {
+	"OriginalText": "ヒゲ２",
+	"Text": "Beard 2",
+	"Enabled": true
+},
+"440249": {
+	"OriginalText": "無精ひげ",
+	"Text": "Stubble",
+	"Enabled": true
+},
+"440250": {
+	"OriginalText": "隈取",
+	"Text": "",
+	"Enabled": false
+},
+"440251": {
+	"OriginalText": "カモフラージュペイント",
+	"Text": "Camouflage Paint",
+	"Enabled": true
+},
+"440252": {
+	"OriginalText": "ドクロペイント",
+	"Text": "Skull Paint",
+	"Enabled": true
+},
+"440253": {
+	"OriginalText": "プリティフラワー",
+	"Text": "Pretty Flower",
+	"Enabled": true
+},
+"440254": {
+	"OriginalText": "傷跡１",
+	"Text": "Scar 1",
+	"Enabled": true
+},
+"440255": {
+	"OriginalText": "傷跡２",
+	"Text": "Scar 2",
+	"Enabled": true
+},
+"440256": {
+	"OriginalText": "傷跡３",
+	"Text": "Scar 3",
+	"Enabled": true
+},
+"440257": {
+	"OriginalText": "傷跡４",
+	"Text": "Scar 4",
+	"Enabled": true
+},
+"440258": {
+	"OriginalText": "傷跡５",
+	"Text": "Scar 5",
+	"Enabled": true
+},
+"440259": {
+	"OriginalText": "傷跡６",
+	"Text": "Scar 6",
+	"Enabled": true
+},
+"440260": {
+	"OriginalText": "ソバカス",
+	"Text": "Freckles",
+	"Enabled": true
+},
+"440261": {
+	"OriginalText": "ナチュラルメイク",
+	"Text": "Natural Makeup",
+	"Enabled": true
+},
+"440262": {
+	"OriginalText": "モデルメイク",
+	"Text": "Model Makeup",
+	"Enabled": true
+},
+"440263": {
+	"OriginalText": "濃いメイク",
+	"Text": "Thick Makeup",
+	"Enabled": true
+},
+"440264": {
+	"OriginalText": "リップカラー 赤",
+	"Text": "Red Lip Color",
+	"Enabled": true
+},
+"440265": {
+	"OriginalText": "リップカラー 紅",
+	"Text": "Thick Red Lip Color",
+	"Enabled": true
+},
+"440266": {
+	"OriginalText": "リップカラー 薄紅",
+	"Text": "Thin Red Lip Color",
+	"Enabled": true
+},
+"440267": {
+	"OriginalText": "リップカラー 橙",
+	"Text": "Orange Lip Color",
+	"Enabled": true
+},
+"440268": {
+	"OriginalText": "リップカラー 緑",
+	"Text": "Green Lip Color",
+	"Enabled": true
+},
+"440269": {
+	"OriginalText": "リップカラー 青",
+	"Text": "Blue Lip Color",
+	"Enabled": true
+},
+"440270": {
+	"OriginalText": "リップカラー 紫",
+	"Text": "Purple Lip Color",
+	"Enabled": true
+},
+"440271": {
+	"OriginalText": "リップカラー 黒",
+	"Text": "Black Lip Color",
+	"Enabled": true
+},
+"440272": {
+	"OriginalText": "口ひげ",
+	"Text": "Moustasche",
+	"Enabled": true
+},
+"440273": {
+	"OriginalText": "デスメタル",
+	"Text": "Death Metal",
+	"Enabled": true
+},
+"440274": {
+	"OriginalText": "ひび（クラック）",
+	"Text": "",
+	"Enabled": false
+},
+"440275": {
+	"OriginalText": "ツギハギ",
+	"Text": "",
+	"Enabled": false
+},
+"440276": {
+	"OriginalText": "キャスト用 ラインタイプＡ",
+	"Text": "Line Type A",
+	"Enabled": true
+},
+"440277": {
+	"OriginalText": "キャスト用 ラインタイプＢ",
+	"Text": "Line Type B",
+	"Enabled": true
+},
+"440278": {
+	"OriginalText": "キャスト用 ラインタイプＣ",
+	"Text": "Line Type C",
+	"Enabled": true
+},
+"440279": {
+	"OriginalText": "絆創膏：セイル",
+	"Text": "",
+	"Enabled": false
+},
+"440280": {
+	"OriginalText": "なし",
+	"Text": "None",
+	"Enabled": true
+},
+"440281": {
+	"OriginalText": "胸毛",
+	"Text": "",
+	"Enabled": false
+},
+"440282": {
+	"OriginalText": "タトゥー１",
+	"Text": "Tattoo 1",
+	"Enabled": true
+},
+"440283": {
+	"OriginalText": "胸のキズ",
+	"Text": "Chest Wound",
+	"Enabled": true
+},
+"440284": {
+	"OriginalText": "男性用アンダーアーマー",
+	"Text": "Under Armor M",
+	"Enabled": true
+},
+"440285": {
+	"OriginalText": "手のバンテージ",
+	"Text": "Hand Bandages",
+	"Enabled": true
+},
+"440286": {
+	"OriginalText": "日焼跡",
+	"Text": "",
+	"Enabled": false
+},
+"440287": {
+	"OriginalText": "ニーソックス",
+	"Text": "Knee Socks",
+	"Enabled": true
+},
+"440288": {
+	"OriginalText": "女性用アンダーアーマー",
+	"Text": "Under Armor F",
+	"Enabled": true
+},
+"440289": {
+	"OriginalText": "タトゥー",
+	"Text": "Tattoo",
+	"Enabled": true
+},
+"440290": {
+	"OriginalText": "ガーターベルト＆ストッキング",
+	"Text": "Garter Belt & Stockings",
+	"Enabled": true
+},
+"440291": {
+	"OriginalText": "ベレー帽",
+	"Text": "Beret Cap",
+	"Enabled": true
+},
+"440292": {
+	"OriginalText": "ベレー帽 月",
+	"Text": "Beret Cap Moon",
+	"Enabled": true
+},
+"440293": {
+	"OriginalText": "ベレー帽 夜",
+	"Text": "Beret Cap Night",
+	"Enabled": true
+},
+"440294": {
+	"OriginalText": "ベレー帽 葉",
+	"Text": "Beret Cap Leaf",
+	"Enabled": true
+},
+"440295": {
+	"OriginalText": "ベレー帽 陽",
+	"Text": "Beret Cap Sun",
+	"Enabled": true
+},
+"440296": {
+	"OriginalText": "ヘッドギア",
+	"Text": "Headgear",
+	"Enabled": true
+},
+"440297": {
+	"OriginalText": "ヘッドギア葉",
+	"Text": "Headgear Leaf",
+	"Enabled": true
+},
+"440298": {
+	"OriginalText": "ヘッドギア紅",
+	"Text": "Headgear Crimson",
+	"Enabled": true
+},
+"440299": {
+	"OriginalText": "ヘッドギア影",
+	"Text": "Headgear Shadow",
+	"Enabled": true
+},
+"440300": {
+	"OriginalText": "ヘッドギア月",
+	"Text": "Headgear Moon",
+	"Enabled": true
+},
+"440301": {
+	"OriginalText": "アイハット",
+	"Text": "Eye Hat",
+	"Enabled": true
+},
+"440302": {
+	"OriginalText": "アイハット月",
+	"Text": "Eye Hat Moon",
+	"Enabled": true
+},
+"440303": {
+	"OriginalText": "アイハット銀",
+	"Text": "Eye Hat Silver",
+	"Enabled": true
+},
+"440304": {
+	"OriginalText": "アイハット影",
+	"Text": "Eye Hat Shadow",
+	"Enabled": true
+},
+"440305": {
+	"OriginalText": "アイハット鋼",
+	"Text": "",
+	"Enabled": false
+},
+"440306": {
+	"OriginalText": "ウィオラキャップ",
+	"Text": "Viola Cap",
+	"Enabled": true
+},
+"440307": {
+	"OriginalText": "ウィオラキャップ夜",
+	"Text": "Viola Cap Night",
+	"Enabled": true
+},
+"440308": {
+	"OriginalText": "ウィオラキャップ影",
+	"Text": "Viola Cap Shadow",
+	"Enabled": true
+},
+"440309": {
+	"OriginalText": "ウィオラキャップ紅",
+	"Text": "Viola Cap Crimson",
+	"Enabled": true
+},
+"440310": {
+	"OriginalText": "ウィオラキャップ鋼",
+	"Text": "Viola Cap Steel",
+	"Enabled": true
+},
+"440311": {
+	"OriginalText": "背高帽",
+	"Text": "Tall Hat",
+	"Enabled": true
+},
+"440312": {
+	"OriginalText": "背高帽 桜",
+	"Text": "Tall Hat Cherry",
+	"Enabled": true
+},
+"440313": {
+	"OriginalText": "背高帽 海",
+	"Text": "Tall Hat Sea",
+	"Enabled": true
+},
+"440314": {
+	"OriginalText": "背高帽 葉",
+	"Text": "Tall Hat Leaf",
+	"Enabled": true
+},
+"440315": {
+	"OriginalText": "背高帽 陽",
+	"Text": "Tall Hat Sun",
+	"Enabled": true
+},
+"440316": {
+	"OriginalText": "クルーンハット",
+	"Text": "Croon Hat",
+	"Enabled": true
+},
+"440317": {
+	"OriginalText": "クルーンハット影",
+	"Text": "Croon Hat Shadow",
+	"Enabled": true
+},
+"440318": {
+	"OriginalText": "クルーンハット銀",
+	"Text": "Croon Hat Silver",
+	"Enabled": true
+},
+"440319": {
+	"OriginalText": "クルーンハット雅",
+	"Text": "Croon Hat Elegance",
+	"Enabled": true
+},
+"440320": {
+	"OriginalText": "クルーンハット月",
+	"Text": "Croon Hat Moon",
+	"Enabled": true
+},
+"440321": {
+	"OriginalText": "ヘッドセット",
+	"Text": "Headset",
+	"Enabled": true
+},
+"440322": {
+	"OriginalText": "ヘッドアクセサリー",
+	"Text": "Head Accessory",
+	"Enabled": true
+},
+"440323": {
+	"OriginalText": "トーク帽",
+	"Text": "Toque Hat",
+	"Enabled": true
+},
+"440324": {
+	"OriginalText": "略帽",
+	"Text": "Ordinary Cap",
+	"Enabled": true
+},
+"440325": {
+	"OriginalText": "メイドカチューシャ",
+	"Text": "Maid Headband",
+	"Enabled": true
+},
+"440326": {
+	"OriginalText": "ナースキャップＡ",
+	"Text": "Nurse Cap A",
+	"Enabled": true
+},
+"440327": {
+	"OriginalText": "シュノーケル",
+	"Text": "Snorkel",
+	"Enabled": true
+},
+"440328": {
+	"OriginalText": "ヘイズハット",
+	"Text": "Haze Hat",
+	"Enabled": true
+},
+"440329": {
+	"OriginalText": "キャンディーヘッドギア",
+	"Text": "Candy Headgear",
+	"Enabled": true
+},
+"440330": {
+	"OriginalText": "月桂樹の冠",
+	"Text": "Laurel Wreath",
+	"Enabled": true
+},
+"440331": {
+	"OriginalText": "ブラックテンガロンハット",
+	"Text": "Black Ten Gallon Hat",
+	"Enabled": true
+},
+"440332": {
+	"OriginalText": "レッドテンガロンハット",
+	"Text": "Red Ten Gallon Hat",
+	"Enabled": true
+},
+"440333": {
+	"OriginalText": "ホルスタインＴハット",
+	"Text": "Holstein T Hat",
+	"Enabled": true
+},
+"440334": {
+	"OriginalText": "ブラウンテンガロンハット",
+	"Text": "Brown Ten Gallon Hat",
+	"Enabled": true
+},
+"440335": {
+	"OriginalText": "ホワイトテンガロンハット",
+	"Text": "White Ten Gallon Hat",
+	"Enabled": true
+},
+"440336": {
+	"OriginalText": "ブラウンキャスケット帽",
+	"Text": "Casquette Hat Brown",
+	"Enabled": true
+},
+"440337": {
+	"OriginalText": "ホワイトキャスケット帽",
+	"Text": "Casquette Hat White",
+	"Enabled": true
+},
+"440338": {
+	"OriginalText": "ピンクキャスケット帽",
+	"Text": "Casquette Hat Pink",
+	"Enabled": true
+},
+"440339": {
+	"OriginalText": "ブラックキャスケット帽",
+	"Text": "Casquette Hat Black",
+	"Enabled": true
+},
+"440340": {
+	"OriginalText": "イエローキャスケット帽",
+	"Text": "Casquette Hat Yellow",
+	"Enabled": true
+},
+"440341": {
+	"OriginalText": "プリムヘッドフォン",
+	"Text": "Prim Headphones",
+	"Enabled": true
+},
+"440342": {
+	"OriginalText": "ブリッツガーダー",
+	"Text": "Blitz Guarder",
+	"Enabled": true
+},
+"440343": {
+	"OriginalText": "ヘッドゴーグル",
+	"Text": "Head Goggles",
+	"Enabled": true
+},
+"440344": {
+	"OriginalText": "白ハチマキ",
+	"Text": "White Headband",
+	"Enabled": true
+},
+"440345": {
+	"OriginalText": "赤ハチマキ",
+	"Text": "Red Headband",
+	"Enabled": true
+},
+"440346": {
+	"OriginalText": "ファニーリボン",
+	"Text": "Funny Ribbon",
+	"Enabled": true
+},
+"440347": {
+	"OriginalText": "シニヨン飾り",
+	"Text": "Chignon Decoration",
+	"Enabled": true
+},
+"440348": {
+	"OriginalText": "カンカン帽Ａ",
+	"Text": "Boater A",
+	"Enabled": true
+},
+"440349": {
+	"OriginalText": "カンカン帽Ｂ",
+	"Text": "Boater B",
+	"Enabled": true
+},
+"440350": {
+	"OriginalText": "ナースキャップＢ",
+	"Text": "Nurse Cap B",
+	"Enabled": true
+},
+"440351": {
+	"OriginalText": "フランケンのネジ",
+	"Text": "Frankenscrew",
+	"Enabled": true
+},
+"440352": {
+	"OriginalText": "魔女の付け鼻",
+	"Text": "Witch Nose",
+	"Enabled": true
+},
+"440353": {
+	"OriginalText": "マロンキャップ",
+	"Text": "Maron Cap",
+	"Enabled": true
+},
+"440354": {
+	"OriginalText": "ラッピー耳あて",
+	"Text": "Rappy Earmuffs",
+	"Enabled": true
+},
+"440355": {
+	"OriginalText": "アークス土官帽Ａ",
+	"Text": "ARKS Officer Cap A",
+	"Enabled": true
+},
+"440356": {
+	"OriginalText": "アークス土官帽Ｂ",
+	"Text": "ARKS Officer Cap B",
+	"Enabled": true
+},
+"440357": {
+	"OriginalText": "フリューヘッド",
+	"Text": "Furieux Head",
+	"Enabled": true
+},
+"440358": {
+	"OriginalText": "ファームイヤーマフ",
+	"Text": "Firm Earmuffs",
+	"Enabled": true
+},
+"440359": {
+	"OriginalText": "チェックミニハット",
+	"Text": "Checkered Mini Hat",
+	"Enabled": true
+},
+"440360": {
+	"OriginalText": "モノクロミニハット",
+	"Text": "Monochrome Mini Hat",
+	"Enabled": true
+},
+"440361": {
+	"OriginalText": "ブレイカーズヘアバンド",
+	"Text": "Breakers Hairband",
+	"Enabled": true
+},
+"440362": {
+	"OriginalText": "ブリンクバイザー",
+	"Text": "Blink Visor",
+	"Enabled": true
+},
+"440363": {
+	"OriginalText": "アルフマスク",
+	"Text": "Alph Mask",
+	"Enabled": true
+},
+"440364": {
+	"OriginalText": "ラッピーのたまご",
+	"Text": "Rappy Egg",
+	"Enabled": true
+},
+"440365": {
+	"OriginalText": "ラッピーのヒナ",
+	"Text": "Rappy Chick",
+	"Enabled": true
+},
+"440366": {
+	"OriginalText": "大きなリボン",
+	"Text": "Big Ribbon",
+	"Enabled": true
+},
+"440367": {
+	"OriginalText": "ツインリボン",
+	"Text": "Twin Ribbons",
+	"Enabled": true
+},
+"440368": {
+	"OriginalText": "レッドオリエンタルリボン",
+	"Text": "Red Oriental Ribbon",
+	"Enabled": true
+},
+"440369": {
+	"OriginalText": "イヤータイプＡ",
+	"Text": "Ear Type A",
+	"Enabled": true
+},
+"440370": {
+	"OriginalText": "イヤータイプＢ",
+	"Text": "Ear Type B",
+	"Enabled": true
+},
+"440371": {
+	"OriginalText": "イヤータイプＣ",
+	"Text": "Ear Type C",
+	"Enabled": true
+},
+"440372": {
+	"OriginalText": "アホ毛Ａ",
+	"Text": "Ahoge A",
+	"Enabled": true
+},
+"440373": {
+	"OriginalText": "アホ毛Ｂ",
+	"Text": "Ahoge B",
+	"Enabled": true
+},
+"440374": {
+	"OriginalText": "ふわふわ毛 小",
+	"Text": "Fluffy Hair Small",
+	"Enabled": true
+},
+"440375": {
+	"OriginalText": "ふわふわ毛 中",
+	"Text": "Fluffy Hair Medium",
+	"Enabled": true
+},
+"440376": {
+	"OriginalText": "ふわふわ毛 大",
+	"Text": "Fluffy Hair Large",
+	"Enabled": true
+},
+"440377": {
+	"OriginalText": "ネコ耳",
+	"Text": "Cat Ears",
+	"Enabled": true
+},
+"440378": {
+	"OriginalText": "きつね耳",
+	"Text": "Fox Ears",
+	"Enabled": true
+},
+"440379": {
+	"OriginalText": "たれきつね耳",
+	"Text": "",
+	"Enabled": false
+},
+"440380": {
+	"OriginalText": "立ちうさ耳",
+	"Text": "",
+	"Enabled": false
+},
+"440381": {
+	"OriginalText": "垂れうさ耳",
+	"Text": "",
+	"Enabled": false
+},
+"440382": {
+	"OriginalText": "クマ耳",
+	"Text": "Bear Ears",
+	"Enabled": true
+},
+"440383": {
+	"OriginalText": "スコティッシュ耳",
+	"Text": "Scottish Ears",
+	"Enabled": true
+},
+"440384": {
+	"OriginalText": "きつねのおめんＢ",
+	"Text": "Fox Mask B",
+	"Enabled": true
+},
+"440385": {
+	"OriginalText": "きつねのおめんＡ",
+	"Text": "Fox Mask A",
+	"Enabled": true
+},
+"440386": {
+	"OriginalText": "ラッピーおめんＢ",
+	"Text": "Rappy Mask B",
+	"Enabled": true
+},
+"440387": {
+	"OriginalText": "ラッピーおめんＡ",
+	"Text": "Rappy Mask A",
+	"Enabled": true
+},
+"440388": {
+	"OriginalText": "ザウーダンおめんＢ",
+	"Text": "Za Oodan Mask B",
+	"Enabled": true
+},
+"440389": {
+	"OriginalText": "ザウーダンおめんＡ",
+	"Text": "Za Oodan Mask A",
+	"Enabled": true
+},
+"440390": {
+	"OriginalText": "ホッケーマスク",
+	"Text": "Hockey Mask",
+	"Enabled": true
+},
+"440391": {
+	"OriginalText": "ラウンドメガネ",
+	"Text": "Round Glasses",
+	"Enabled": true
+},
+"440392": {
+	"OriginalText": "ラージラウンドメガネ",
+	"Text": "Large Round Glasses",
+	"Enabled": true
+},
+"440393": {
+	"OriginalText": "オーバルフチありメガネ",
+	"Text": "Oval Rimmed Glasses",
+	"Enabled": true
+},
+"440394": {
+	"OriginalText": "スクエアメガネ",
+	"Text": "Square Glasses",
+	"Enabled": true
+},
+"440395": {
+	"OriginalText": "ウェリントンメガネ",
+	"Text": "Wellington Glasses",
+	"Enabled": true
+},
+"440396": {
+	"OriginalText": "楕円メガネ",
+	"Text": "Oval Glasses",
+	"Enabled": true
+},
+"440397": {
+	"OriginalText": "赤緑メガネ",
+	"Text": "Red-rimmed Glasses",
+	"Enabled": true
+},
+"440398": {
+	"OriginalText": "スポーツサングラス",
+	"Text": "Sports Sunglasses",
+	"Enabled": true
+},
+"440399": {
+	"OriginalText": "サイバーグラス",
+	"Text": "Cyber Glasses",
+	"Enabled": true
+},
+"440400": {
+	"OriginalText": "ラウンドサングラス",
+	"Text": "Round Sunglasses",
+	"Enabled": true
+},
+"440401": {
+	"OriginalText": "ラウンドサングラス 頭の上",
+	"Text": "Round Sunglasses on Head",
+	"Enabled": true
+},
+"440402": {
+	"OriginalText": "ゴーグル",
+	"Text": "Goggles",
+	"Enabled": true
+},
+"440403": {
+	"OriginalText": "アイディスプレイ",
+	"Text": "Eye Display",
+	"Enabled": true
+},
+"440404": {
+	"OriginalText": "ハートメガネ",
+	"Text": "Heart Glasses",
+	"Enabled": true
+},
+"440405": {
+	"OriginalText": "スターメガネ",
+	"Text": "Star Glasses",
+	"Enabled": true
+},
+"440406": {
+	"OriginalText": "ぐるぐるメガネ",
+	"Text": "Swirly Swirly Glasses",
+	"Enabled": true
+},
+"440407": {
+	"OriginalText": "ホワイトフェザーピアス",
+	"Text": "White Feather Earrings",
+	"Enabled": true
+},
+"440408": {
+	"OriginalText": "ブルーフェザーピアス",
+	"Text": "Blue Feather Earrings",
+	"Enabled": true
+},
+"440409": {
+	"OriginalText": "ピンクフェザーピアス",
+	"Text": "Pink Feather Earrings",
+	"Enabled": true
+},
+"440410": {
+	"OriginalText": "金メダル",
+	"Text": "Gold Medal",
+	"Enabled": true
+},
+"440411": {
+	"OriginalText": "銀メダル",
+	"Text": "Silver Medal",
+	"Enabled": true
+},
+"440412": {
+	"OriginalText": "鋼メダル",
+	"Text": "Bronze Medal",
+	"Enabled": true
+},
+"440413": {
+	"OriginalText": "錠前ネックレス",
+	"Text": "Lock Necklace",
+	"Enabled": true
+},
+"440414": {
+	"OriginalText": "ドクロネックレス",
+	"Text": "Skull Necklace",
+	"Enabled": true
+},
+"440415": {
+	"OriginalText": "腕章",
+	"Text": "Armband",
+	"Enabled": true
+},
+"440416": {
+	"OriginalText": "腕章ピンク",
+	"Text": "Pink Armband",
+	"Enabled": true
+},
+"440417": {
+	"OriginalText": "腕章ナース",
+	"Text": "Nurse Armband",
+	"Enabled": true
+},
+"440418": {
+	"OriginalText": "腕章ブルー",
+	"Text": "Blue Armband",
+	"Enabled": true
+},
+"440419": {
+	"OriginalText": "ピンクシュシュ",
+	"Text": "Pink Chouchou",
+	"Enabled": true
+},
+"440420": {
+	"OriginalText": "ブルーシュシュ",
+	"Text": "Blue Chouchou",
+	"Enabled": true
+},
+"440421": {
+	"OriginalText": "パープルシュシュ",
+	"Text": "Purple Chouchou",
+	"Enabled": true
+},
+"440422": {
+	"OriginalText": "トゲトゲのリストバンド",
+	"Text": "Spiked Wristband",
+	"Enabled": true
+},
+"440423": {
+	"OriginalText": "ウサギの尻尾",
+	"Text": "",
+	"Enabled": false
+},
+"440424": {
+	"OriginalText": "悪魔のしっぽ",
+	"Text": "",
+	"Enabled": false
+},
+"440425": {
+	"OriginalText": "ホワイトテイル",
+	"Text": "White Tail",
+	"Enabled": true
+},
+"440426": {
+	"OriginalText": "イエローテイル",
+	"Text": "Yellow Tail",
+	"Enabled": true
+},
+"440427": {
+	"OriginalText": "茶リスのしっぽ",
+	"Text": "Brown Squirrel Tail",
+	"Enabled": true
+},
+"440428": {
+	"OriginalText": "黄リスのしっぽ",
+	"Text": "Yellow Squirrel Tail",
+	"Enabled": true
+},
+"440429": {
+	"OriginalText": "ブラウンフォックステイル",
+	"Text": "Brown Fox Tail",
+	"Enabled": true
+},
+"440430": {
+	"OriginalText": "イエローフォックステイル",
+	"Text": "Yellow Fox Tail",
+	"Enabled": true
+},
+"440431": {
+	"OriginalText": "ホワイトフォックステイル",
+	"Text": "White Fox Tail",
+	"Enabled": true
+},
+"440432": {
+	"OriginalText": "ウォレットチェーン",
+	"Text": "Wallet Chain",
+	"Enabled": true
+},
+"440433": {
+	"OriginalText": "背中のネジ",
+	"Text": "Back Screw",
+	"Enabled": true
+},
+"440434": {
+	"OriginalText": "ラッピーリュック",
+	"Text": "Rappy Backpack",
+	"Enabled": true
+},
+"440435": {
+	"OriginalText": "リリーパザック",
+	"Text": "Lilipa Sack",
+	"Enabled": true
+},
+"440436": {
+	"OriginalText": "リリーパリュック",
+	"Text": "Lilipa Backpack",
+	"Enabled": true
+},
+"440437": {
+	"OriginalText": "リリーパボトル",
+	"Text": "Lilipa Bottle",
+	"Enabled": true
+},
+"440438": {
+	"OriginalText": "サーキュエンデ",
+	"Text": "Circuende",
+	"Enabled": true
+},
+"440439": {
+	"OriginalText": "サーキュエッジ",
+	"Text": "Circuedge",
+	"Enabled": true
+},
+"440440": {
+	"OriginalText": "サーキュホーン",
+	"Text": "Circuhorn",
+	"Enabled": true
+},
+"440441": {
+	"OriginalText": "ティルトウィン",
+	"Text": "Tiltwin",
+	"Enabled": true
+},
+"440442": {
+	"OriginalText": "ティラフラブ",
+	"Text": "Tiraflove",
+	"Enabled": true
+},
+"440443": {
+	"OriginalText": "ティレイギア",
+	"Text": "Tireigear",
+	"Enabled": true
+},
+"440444": {
+	"OriginalText": "ブロストル",
+	"Text": "Brostol",
+	"Enabled": true
+},
+"440445": {
+	"OriginalText": "ブロダング",
+	"Text": "Brodang",
+	"Enabled": true
+},
+"440446": {
+	"OriginalText": "ブロワイル",
+	"Text": "Browile",
+	"Enabled": true
+},
+"440447": {
+	"OriginalText": "ファンブレア",
+	"Text": "Fan Blair",
+	"Enabled": true
+},
+"440448": {
+	"OriginalText": "フェニバイル",
+	"Text": "Fen Ibiel",
+	"Enabled": true
+},
+"440449": {
+	"OriginalText": "ブルブリュート",
+	"Text": "Bulb Lute",
+	"Enabled": true
+},
+"440450": {
+	"OriginalText": "ブルブヘッグス",
+	"Text": "Bulb Heggs",
+	"Enabled": true
+},
+"440451": {
+	"OriginalText": "バーウィン",
+	"Text": "Berwyn",
+	"Enabled": true
+},
+"440452": {
+	"OriginalText": "バーティウィア",
+	"Text": "Bertiwea",
+	"Enabled": true
+},
+"440453": {
+	"OriginalText": "バーゴストゥ",
+	"Text": "Bergost",
+	"Enabled": true
+},
+"440454": {
+	"OriginalText": "サイマリス",
+	"Text": "Psymalice",
+	"Enabled": true
+},
+"440455": {
+	"OriginalText": "サイボルド",
+	"Text": "Psyboard",
+	"Enabled": true
+},
+"440456": {
+	"OriginalText": "サイテグラル",
+	"Text": "Psytegral",
+	"Enabled": true
+},
+"440457": {
+	"OriginalText": "ショルドット",
+	"Text": "Shouldot",
+	"Enabled": true
+},
+"440458": {
+	"OriginalText": "ショルディクター",
+	"Text": "Shouldicter",
+	"Enabled": true
+},
+"440459": {
+	"OriginalText": "ショルバキュドア",
+	"Text": "Shoulbacudol",
+	"Enabled": true
+},
+"440460": {
+	"OriginalText": "クロスゲイナー",
+	"Text": "Crossgainer",
+	"Enabled": true
+},
+"440461": {
+	"OriginalText": "クロスドメイン",
+	"Text": "Crossdomain",
+	"Enabled": true
+},
+"440462": {
+	"OriginalText": "クロサリアン",
+	"Text": "Crossarian",
+	"Enabled": true
+},
+"440463": {
+	"OriginalText": "ライザック",
+	"Text": "Lyzac",
+	"Enabled": true
+},
+"440464": {
+	"OriginalText": "ラジルザック",
+	"Text": "Lazilzac",
+	"Enabled": true
+},
+"440465": {
+	"OriginalText": "ラズリアザック",
+	"Text": "Lazuliazac",
+	"Enabled": true
+},
+"440466": {
+	"OriginalText": "カルバリアウィング",
+	"Text": "Calvaria Wing",
+	"Enabled": true
+},
+"440467": {
+	"OriginalText": "ヘラストゥラ",
+	"Text": "Hera Sutra",
+	"Enabled": true
+},
+"440468": {
+	"OriginalText": "ブルームフェザー",
+	"Text": "Bloom Feather",
+	"Enabled": true
+},
+"440469": {
+	"OriginalText": "フェガリカット",
+	"Text": "Fegari Cut",
+	"Enabled": true
+},
+"440470": {
+	"OriginalText": "ブリッツシンボル",
+	"Text": "Blitz Symbol",
+	"Enabled": true
+},
+"440471": {
+	"OriginalText": "ミンストフォン",
+	"Text": "Minst Phon",
+	"Enabled": true
+},
+"440472": {
+	"OriginalText": "ミンストブラン",
+	"Text": "Minst Blan",
+	"Enabled": true
+},
+"440473": {
+	"OriginalText": "リュクスエール",
+	"Text": "Luxe Ale",
+	"Enabled": true
+},
+"440474": {
+	"OriginalText": "リュクスソワール",
+	"Text": "Luxe Soir",
+	"Enabled": true
+},
+"440475": {
+	"OriginalText": "ヤークトフェル",
+	"Text": "Jagd Fell",
+	"Enabled": true
+},
+"440476": {
+	"OriginalText": "スロートフェル",
+	"Text": "Schlacht Fell",
+	"Enabled": true
+},
+"440477": {
+	"OriginalText": "ヴォルウィング",
+	"Text": "Vol Wing",
+	"Enabled": true
+},
+"440478": {
+	"OriginalText": "ラグネスイル",
+	"Text": "Ragne Suile",
+	"Enabled": true
+},
+"440479": {
+	"OriginalText": "ヴァーダーパック",
+	"Text": "Vardha Pack",
+	"Enabled": true
+},
+"440480": {
+	"OriginalText": "クォーツウィング",
+	"Text": "Quartz Wing",
+	"Enabled": true
+},
+"440481": {
+	"OriginalText": "フリードアウトローアイパッチ",
+	"Text": "Freed Outlaw Eyepatch",
+	"Enabled": true
+},
+"440482": {
+	"OriginalText": "フリードアウトローＲハット",
+	"Text": "Freed Outlaw R Hat",
+	"Enabled": true
+},
+"440483": {
+	"OriginalText": "レスペタンクバイオレット",
+	"Text": "Lespetank Violet",
+	"Enabled": true
+},
+"440484": {
+	"OriginalText": "削除",
+	"Text": "",
+	"Enabled": false
+},
+"440485": {
+	"OriginalText": "アルキピューレＢバレッタ",
+	"Text": "Alki Pure B Barette",
+	"Enabled": true
+},
+"440486": {
+	"OriginalText": "リンデンドレスＧイヤーフック",
+	"Text": "Rinden Dress G Earmuff",
+	"Enabled": true
+},
+"440487": {
+	"OriginalText": "ラッピーミミクリキャップ",
+	"Text": "Rappy Mimicry Cap",
+	"Enabled": true
+},
+"440488": {
+	"OriginalText": "エイゲトグリーフイヤーフック",
+	"Text": "Eigeto Grief Earhook",
+	"Enabled": true
+},
+"440489": {
+	"OriginalText": "アグリフォルスＷフォン",
+	"Text": "Agri Fors W Headphone",
+	"Enabled": true
+},
+"440490": {
+	"OriginalText": "エウリュードテイル",
+	"Text": "Eurude Tail",
+	"Enabled": true
+},
+"440491": {
+	"OriginalText": "ガラティオンテイル",
+	"Text": "Garation Tail",
+	"Enabled": true
+},
+"440492": {
+	"OriginalText": "アルキファナティックスリーテイル",
+	"Text": "Alki Fanatic Threetail",
+	"Enabled": true
+},
+"440493": {
+	"OriginalText": "アグリオスバレル",
+	"Text": "Agrios Barrel",
+	"Enabled": true
+},
+"440494": {
+	"OriginalText": "クリトロキャップ",
+	"Text": "Crittro Cap",
+	"Enabled": true
+},
+"440495": {
+	"OriginalText": "エウリュードシェル",
+	"Text": "Eurude Shell",
+	"Enabled": true
+},
+"440496": {
+	"OriginalText": "冒険ラッピーバックパック",
+	"Text": "Adventure Rappy Backpack",
+	"Enabled": true
+},
+"440497": {
+	"OriginalText": "ガラティオンウイング",
+	"Text": "Garation Wings",
+	"Enabled": true
+},
+"440498": {
+	"OriginalText": "削除",
+	"Text": "",
+	"Enabled": false
+},
+"440499": {
+	"OriginalText": "ゴルドスバックパック",
+	"Text": "Goldos Backpack",
+	"Enabled": true
+},
+"440500": {
+	"OriginalText": "癒しのベアー",
+	"Text": "Healing Bear",
+	"Enabled": true
+},
+"440501": {
+	"OriginalText": "ノヴァトレートルＷウイング",
+	"Text": "Nova Traitor W Wings",
+	"Enabled": true
+},
+"440502": {
+	"OriginalText": "ノヴァトレートルＷマント",
+	"Text": "Nova Traitor W Cloak",
+	"Enabled": true
+},
+"440503": {
+	"OriginalText": "ギガンテスフラップ",
+	"Text": "Gigantes Flap",
+	"Enabled": true
+},
+"440504": {
+	"OriginalText": "クロスタイ",
+	"Text": "Cross Tie",
+	"Enabled": true
+},
+"440505": {
+	"OriginalText": "ギガンテスベント",
+	"Text": "Gigantes Vent",
+	"Enabled": true
+},
+"440506": {
+	"OriginalText": "リンデンドレスツインテール",
+	"Text": "Rinden Dress Twin Tail",
+	"Enabled": true
+},
+"440507": {
+	"OriginalText": "アフォルバックパック",
+	"Text": "Afol Backpack",
+	"Enabled": true
+},
+"440508": {
+	"OriginalText": "エイゲトリュゼウイング",
+	"Text": "Eigeto Ryuze Wings",
+	"Enabled": true
+},
+"440509": {
+	"OriginalText": "ソフトクリームシャンプーハット",
+	"Text": "Soft Cream Shampoo Hat",
+	"Enabled": true
+},
+"440510": {
+	"OriginalText": "ファンタシーの翼",
+	"Text": "",
+	"Enabled": false
+},
+"440511": {
+	"OriginalText": "ファンタシーの筒",
+	"Text": "",
+	"Enabled": false
+},
+"440512": {
+	"OriginalText": "フローティングスフィア",
+	"Text": "Floating Sphere",
+	"Enabled": true
+},
+"440513": {
+	"OriginalText": "ＤＬＣ用",
+	"Text": "",
+	"Enabled": false
+},
+"440514": {
+	"OriginalText": "ヘッドセット：リーティア",
+	"Text": "Rietheia Headset",
+	"Enabled": true
+},
+"440515": {
+	"OriginalText": "メガネ：レイヴァン",
+	"Text": "Raven Glasses",
+	"Enabled": true
+},
+"440516": {
+	"OriginalText": "メガネ：キサラ",
+	"Text": "Kisara Glasses",
+	"Enabled": true
+},
+"440517": {
+	"OriginalText": "メガネ：シャロン",
+	"Text": "Sharon Glasses",
+	"Enabled": true
+},
+"440518": {
+	"OriginalText": "艦長の帽子",
+	"Text": "Captain's Hat",
+	"Enabled": true
+},
+"440519": {
+	"OriginalText": "艦長の腕章",
+	"Text": "Captain's Armband",
+	"Enabled": true
+},
+"440520": {
+	"OriginalText": "電子カルテ",
+	"Text": "Electronic Medical Record",
+	"Enabled": true
+},
+"440521": {
+	"OriginalText": "カリストのスパナ",
+	"Text": "Callisto Spanner",
+	"Enabled": true
+},
+"440522": {
+	"OriginalText": "腰スカートアーマー：ルティナ１",
+	"Text": "Waist Skirt Armor: Lutina 1",
+	"Enabled": true
+},
+"440523": {
+	"OriginalText": "腰スカートアーマー：ルティナ１リペア",
+	"Text": "Waist Skirt Armor: Lutina 1 Repair",
+	"Enabled": true
+},
+"440524": {
+	"OriginalText": "腰スカートアーマー：ルティナ２\nフィルディアバージョン",
+	"Text": "Waist Skirt Armor: Lutina 2 - Fildia Ver.",
+	"Enabled": true
+},
+"440525": {
+	"OriginalText": "腰スカートアーマー：フィルディア",
+	"Text": "Waist Skirt Armor: Fildia",
+	"Enabled": true
+},
+"440526": {
+	"OriginalText": "腰スカートアーマー：フィルディアリペア",
+	"Text": "Waist Skirt Armor: Fildia Repair",
+	"Enabled": true
+},
+"440527": {
+	"OriginalText": "グラン発生装置：ユノ",
+	"Text": "Gran Generator: Juno",
+	"Enabled": true
+},
+"440528": {
+	"OriginalText": "ジョーカ・ヘッド破",
+	"Text": "Joker Head (Damaged)",
+	"Enabled": true
+},
+"440529": {
+	"OriginalText": "コロッサス・ヘッド破",
+	"Text": "Colossus Head (Damaged)",
+	"Enabled": true
+},
+"440530": {
+	"OriginalText": "バルドル・ヘッド破",
+	"Text": "Baldur Head (Damaged)",
+	"Enabled": true
+},
+"440531": {
+	"OriginalText": "ランクス・ヘッド破",
+	"Text": "Ranks Head (Damaged)",
+	"Enabled": true
+},
+"440532": {
+	"OriginalText": "イルシオン・ヘッド破",
+	"Text": "Illusion Head (Damaged)",
+	"Enabled": true
+},
+"440533": {
+	"OriginalText": "メディウム・ヘッド破",
+	"Text": "Medium Head (Damaged)",
+	"Enabled": true
+},
+"440534": {
+	"OriginalText": "ヴィテスシュタルクＫメット",
+	"Text": "Vites Schtark K Helmet",
+	"Enabled": true
+},
+"440535": {
+	"OriginalText": "ヴィテスシュタルクＲメット",
+	"Text": "Vites Schtark R Helmet",
+	"Enabled": true
+},
+"440536": {
+	"OriginalText": "ヴィテスシュタルクＹメット",
+	"Text": "Vites Schtark Y Helmet",
+	"Enabled": true
+},
+"440537": {
+	"OriginalText": "ヴィテスシュタルクＢメット",
+	"Text": "Vites Schtark B Helmet",
+	"Enabled": true
+},
+"440538": {
+	"OriginalText": "ヴィテスシュタルクＧメット",
+	"Text": "Vites Schtark G Helmet",
+	"Enabled": true
+},
+"440539": {
+	"OriginalText": "フリードアウトローＲハット",
+	"Text": "Freed Outlaw R Hat",
+	"Enabled": true
+},
+"440540": {
+	"OriginalText": "フリードアウトローＧハット",
+	"Text": "Freed Outlaw G Hat",
+	"Enabled": true
+},
+"440541": {
+	"OriginalText": "フリードアウトローＯハット",
+	"Text": "Freed Outlaw O Hat",
+	"Enabled": true
+},
+"440542": {
+	"OriginalText": "フリードアウトローＹハット",
+	"Text": "Freed Outlaw Y Hat",
+	"Enabled": true
+},
+"440543": {
+	"OriginalText": "フリードアウトローＢハット",
+	"Text": "Freed Outlaw B Hat",
+	"Enabled": true
+},
+"440544": {
+	"OriginalText": "アルキピューレＢバレッタ",
+	"Text": "Alki Pure B Barette",
+	"Enabled": true
+},
+"440545": {
+	"OriginalText": "アルキピューレＶバレッタ",
+	"Text": "Alki Pure V Barette",
+	"Enabled": true
+},
+"440546": {
+	"OriginalText": "アルキピューレＹバレッタ",
+	"Text": "Alki Pure Y Barette",
+	"Enabled": true
+},
+"440547": {
+	"OriginalText": "アルキピューレＧバレッタ",
+	"Text": "Alki Pure G Barette",
+	"Enabled": true
+},
+"440548": {
+	"OriginalText": "アルキピューレＯバレッタ",
+	"Text": "Alki Pure O Barette",
+	"Enabled": true
+},
+"440549": {
+	"OriginalText": "アグリフォルスＷフォン",
+	"Text": "Agri Fors W Headphone",
+	"Enabled": true
+},
+"440550": {
+	"OriginalText": "アグリフォルスＲフォン",
+	"Text": "Agri Fors R Headphone",
+	"Enabled": true
+},
+"440551": {
+	"OriginalText": "アグリフォルスＫフォン",
+	"Text": "Agri Fors K Headphone",
+	"Enabled": true
+},
+"440552": {
+	"OriginalText": "アグリフォルスＢフォン",
+	"Text": "Agri Fors B Headphone",
+	"Enabled": true
+},
+"440553": {
+	"OriginalText": "アグリフォルスＧフォン",
+	"Text": "Agri Fors G Headphone",
+	"Enabled": true
+},
+"440554": {
+	"OriginalText": "リンデンドレスＧイヤーフック",
+	"Text": "Rinden Dress G Earmuff",
+	"Enabled": true
+},
+"440555": {
+	"OriginalText": "リンデンドレスＶイヤーフック",
+	"Text": "Rinden Dress V Earmuff",
+	"Enabled": true
+},
+"440556": {
+	"OriginalText": "リンデンドレスＢイヤーフック",
+	"Text": "Rinden Dress B Earmuff",
+	"Enabled": true
+},
+"440557": {
+	"OriginalText": "リンデンドレスＲイヤーフック",
+	"Text": "Rinden Dress R Earmuff",
+	"Enabled": true
+},
+"440558": {
+	"OriginalText": "リンデンドレスＹイヤーフック",
+	"Text": "Rinden Dress Y Earmuff",
+	"Enabled": true
+},
+"440559": {
+	"OriginalText": "ノヴァトレートルＷウイング",
+	"Text": "Nova Traitor W Wing",
+	"Enabled": true
+},
+"440560": {
+	"OriginalText": "ノヴァトレートルＲウイング",
+	"Text": "Nova Traitor R Wing",
+	"Enabled": true
+},
+"440561": {
+	"OriginalText": "ノヴァトレートルＢウイング",
+	"Text": "Nova Traitor B Wing",
+	"Enabled": true
+},
+"440562": {
+	"OriginalText": "ノヴァトレートルＫウイング",
+	"Text": "Nova Traitor K Wing",
+	"Enabled": true
+},
+"440563": {
+	"OriginalText": "ノヴァトレートルＹウイング",
+	"Text": "Nova Traitor Y Wing",
+	"Enabled": true
+},
+"440564": {
+	"OriginalText": "ノヴァトレートルＷマント",
+	"Text": "Nova Traitor W Cloak",
+	"Enabled": true
+},
+"440565": {
+	"OriginalText": "ノヴァトレートルＲマント",
+	"Text": "Nova Traitor R Cloak",
+	"Enabled": true
+},
+"440566": {
+	"OriginalText": "ノヴァトレートルＢマント",
+	"Text": "Nova Traitor B Cloak",
+	"Enabled": true
+},
+"440567": {
+	"OriginalText": "ノヴァトレートルＫマント",
+	"Text": "Nova Traitor K Cloak",
+	"Enabled": true
+},
+"440568": {
+	"OriginalText": "ノヴァトレートルＹマント",
+	"Text": "Nova Traitor Y Cloak",
+	"Enabled": true
+},
+"440569": {
+	"OriginalText": "ヴィテスシュタルクＷメット",
+	"Text": "Vites Schtark W Helmet",
+	"Enabled": true
+},
+"440570": {
+	"OriginalText": "ダイヤモンドネイヴＫハット",
+	"Text": "Diamond Nave K Hat",
+	"Enabled": true
+},
+"440571": {
+	"OriginalText": "ダイヤモンドネイヴＷハット",
+	"Text": "Diamond Nave W Hat",
+	"Enabled": true
+},
+"440572": {
+	"OriginalText": "ダイヤモンドクイーンＫリボン",
+	"Text": "Diamond Queen K Ribbon",
+	"Enabled": true
+},
+"440573": {
+	"OriginalText": "ダイヤモンドクイーンＷリボン",
+	"Text": "Diamond Queen W Ribbon",
+	"Enabled": true
+},
+"440574": {
+	"OriginalText": "ダイヤモンドネイヴＲハット",
+	"Text": "Diamond Nave R Hat",
+	"Enabled": true
+},
+"440575": {
+	"OriginalText": "ダイヤモンドネイヴＹハット",
+	"Text": "Diamond Nave Y Hat",
+	"Enabled": true
+},
+"440576": {
+	"OriginalText": "ダイヤモンドネイヴＢハット",
+	"Text": "Diamond Nave B Hat",
+	"Enabled": true
+},
+"440577": {
+	"OriginalText": "ダイヤモンドクイーンＢリボン",
+	"Text": "Diamond Queen B Ribbon",
+	"Enabled": true
+},
+"440578": {
+	"OriginalText": "ダイヤモンドクイーンＲリボン",
+	"Text": "Diamond Queen R Ribbon",
+	"Enabled": true
+},
+"440579": {
+	"OriginalText": "ダイヤモンドクイーンＹリボン",
+	"Text": "Diamond Queen Y Ribbon",
+	"Enabled": true
+}
+}
