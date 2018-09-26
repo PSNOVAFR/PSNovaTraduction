@@ -77,7 +77,7 @@ Voici quelques informations de base sur RMD, le format utilisé par le jeu pour 
 
 ### ID Ranges
 
-Vous pouvez vous référer à NovaParse's [Export JSON](https://github.com/Arks-Layer/Nova-Tools/blob/master/NovaParse/Export.json) fichier pour une référence des plages d'ID RMD.
+Vous pouvez vous référer à NovaParse's [Export JSON](https://github.com/PSNOVAFR/Outils-NOVA/blob/master/NovaParse/Export.json) fichier pour une référence des plages d'ID RMD.
 
 ### Régions de texte
 
