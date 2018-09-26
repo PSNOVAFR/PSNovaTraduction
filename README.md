@@ -4,60 +4,59 @@
   <img src="https://github.com/Arks-Layer/PSNovaTranslations/blob/master/resources/Phantasy-Star-Nova-Logo.png" alt="PS Nova Logo"/>
 </p>
 
-[Build status](https://travis-ci.org/Arks-Layer/PSNovaTranslations.svg?branch=master)
+[Build status](https://travis-ci.org/PSNOVAFR/PSNovaTraduction.svg?branch=master)
 
-# PS: Nova Translations
+# PSNova Traduction
 
-Welcome to the PS: Nova Translations Github Repository.
+Bienvenue dans le repertoir Github PSNova Traducions.
 
-This repository is dedicated to translating PS: Nova game texts from Japanese to English. We hope our disclosing of game texts and opening this repository will pave a quicker way for non-Japanese speaking ARKS to enjoy the game in their native languages in the future.
+Ce dépôt est dédié à la traduction de textes de jeu PS: Nova du japonais vers le francais. Nous espérons que la publication de nos textes de jeu et l’ouverture de ce repertoir permettront aux ARKS non-japonais de profiter du jeu dans leur langue maternelle.
 
-<i>While we appreciate the efforts of those who don't speak Japanese (through Google translate and the like), we would like for only those who have a grasp of the Japanese language to submit edits to those. ありがとう～ (*＾▽＾)／</i>
+<i>Bien que nous apprécions les efforts de ceux qui ne parlent pas japonais (à travers Google traduction et similaires), nous aimerions que seuls ceux qui maîtrisent la langue japonaise soumettent des modifications à ces. ありがとう～ (*＾▽＾)／</i>
 
 ## Contributions
 
-1. Click the file you want to edit
-2. Click the pencil icon
-3. Edit the file to your heart's content!
-4. Write a brief summary of the changes at the bottom of the page
-5. Hit "Create a new branch for this commit and start a pull request." (<b>DO NOT COMMIT DIRECTLY TO MASTER.</b>)
-6. Your PR request will be reviewed and accepted or denied. (Your changes will also be posted to the discord chat.)
+1. Cliquez sur le fichier que vous souhaitez modifier
+2. Cliquez sur l'icône représentant un crayon
+3. Modifier le fichier au contenu de votre choix !
+4. Écrivez un bref résumé des modifications au bas de la page
+5. Appuyez sur "Create a new branch for this commit and start a pull request." (<b>NE PAS ENREGISTRER DIRECTEMENT DANS MAITRE.</b>)
+6. Votre demande de RP sera examinée et acceptée ou refusée.
 
-## Editing Process
+## Processus d'édition
 
-Please put your translation in the "Text" field like so:
+S'il vous plaît mettez votre traduction dans le champ "Texte" comme ça:
   
 ```
   "310040": {
     "OriginalText": "ポストアタック",
-    "Text": "Post Attack",
+    "Text": "Post-attaque",
     "Enabled": false
   },
 ```
 
-Then, change the false to true, so it ends up like this:
+Ensuite, changez le false to true, donc ça finit comme ça:
 
 ```
   "310040": {
     "OriginalText": "ポストアタック",
-    "Text": "Post Attack",
+    "Text": "Post-attaque",
     "Enabled": true
   },
 ```
 
-Please note that there may be "weird" things in the text! For example, `\n`. These will be detailed below.
+S'il vous plaît noter qu'il peut y avoir des choses "bizarres" dans le texte! Par exemple, `\n`. Ceux-ci seront détaillés ci-dessous.
 
-We welcome your contributions in the form of pull requests. You may create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
 
 ![3]
 
-## Don't know Japanese but still want to contribute?
+## Tu ne connais pas le japonais mais tu veux quand même contribuer ?
 
-If you don't understand Japanese, but still want to help out, you can look over the translated lines and make sure all grammar and spelling is correct. (US English, please!)
+Si vous ne comprenez pas le japonais, mais que vous voulez quand même aider, vous pouvez regarder les lignes traduites et vous assurer que toute la grammaire et l'orthographe sont correctes..
 
-## Entry Sizes
+## Tailles d'entrée
 
-Here is a list of sizes a region will accept before it starts to resize. These should be kept as close to as possible so that text doesn't appear too small due to the automatic resizing.
+Voici une liste des tailles qu'une région accepte avant de commencer à redimensionner. Celles-ci doivent rester aussi proches que possible pour que le texte n'apparaisse pas trop petit à cause du redimensionnement automatique.
 
 ```
 Affix Descriptions - 40 Characters, 4 Lines
@@ -72,21 +71,21 @@ Effects - 20 Characters
           15-18 Characters if it's a numeric effect to make room for the maximum potential number/percentage
 ```
 
-## Message (RMD) System
+## Système de message (RMD)
 
-The following is some basic information about RMD, the format the game uses to store and handle its string entries and string table.
+Voici quelques informations de base sur RMD, le format utilisé par le jeu pour stocker et gérer ses entrées de chaîne et sa table de chaînes.
 
 ### ID Ranges
 
-You can refer to NovaParse's [Export JSON](https://github.com/Arks-Layer/Nova-Tools/blob/master/NovaParse/Export.json) file for a reference of RMD ID ranges. If you find any that seem incorrect or that need investigating, feel free to point them out in an issue or in the Discord channel.
+Vous pouvez vous référer à NovaParse's [Export JSON](https://github.com/Arks-Layer/Nova-Tools/blob/master/NovaParse/Export.json) fichier pour une référence des plages d'ID RMD.
 
-### Text Regions
+### Régions de texte
 
-Nova's GUI system uses the concept of regions to align and contain UI and text elements. The system is smart enough to attempt to automatically fit controls inside of its containing region. This can be taken advantage of to fit in larger amounts of text than is immediately obvious. Keep in mind though that there is no restriction to this rule, so care must be taken to make sure that you do not stretch text vertically or horizontally to the point where individual glyphs become unreadable.
+Nova's GUI utilise le concept de régions pour aligner et contenir des éléments d'interface utilisateur et de texte. Le système est suffisamment intelligent pour tenter d'ajuster automatiquement les contrôles à l'intérieur de sa région contenant. Cela peut être utilisé pour tenir dans de plus grandes quantités de texte que ce qui est immédiatement évident. N'oubliez pas qu'il n'y a pas de restriction à cette règle, il faut donc veiller à ne pas étirer le texte verticalement ou horizontalement au point où les glyphes individuels deviennent illisibles.
 
 ### Control Codes
 
-These control codes are used to do various things, such as change the text color or insert images.
+Ces codes de contrôle sont utilisés pour faire diverses choses, comme changer la couleur du texte ou insérer des images..
 
 #### Basic
 
@@ -96,34 +95,34 @@ These control codes are used to do various things, such as change the text color
 
 #### Ruby
 
-Ruby is a special control code with special handling. Ruby control codes place the specified text on top of the surrounding text. It begins with `[ruby ` and then is proceeded with the text to place over top of the surrounding text and then a closing `]`. Use `[/ruby]` to close the Ruby block. An example:
+Ruby est un code de contrôle spécial avec traitement spécial. Les codes de contrôle Ruby placent le texte spécifié sur le texte environnant. Ça commence par `[ruby ` et est ensuite procédé avec le texte à placer sur le dessus du texte environnant, puis une fermeture `]`. utilise `[/ruby]` fermer le bloc Ruby. Un exemple:
 
 ```
 msg_100000010010013.rmd:
 お願い……わたしの[ruby ほし]惑星[/ruby]を……助けて。
 ```
 
-will show up as:
+apparaîtra comme ca:
 
 ```
                ほし
 お願い……わたしの惑星を……助けて。
 ```
 
-#### Colors
+#### Couleurs
 
-These control codes will change the surrounding text's color. You must prefix the text you wish to color with a color control code, then, after the text, append the color close control code.
+Ces codes de contrôle changeront la couleur du texte environnant. Vous devez préfixer le texte que vous souhaitez colorer avec un code de contrôle de couleur, puis, après le texte, ajoutez le code de contrôle de fermeture de couleur.
 
 ```
 [a 03] - Orange
-[a 06] - Blue
-[a 07] - Yellow
-[b] - Color Close
+[a 06] - Bleu
+[a 07] - Jaune
+[b] - Couleur Close
 ```
 
 #### Variables
 
-There are 4 variable control codes. The meaning of these variables will change depending on the context of the message they are contained within. Therefore, <b>they are very specific and should only be used within the proper messages to prevent potential issues occurring in the game!</b>
+Il y a 4 codes de contrôle variables. La signification de ces variables changera en fonction du contexte du message qui les contient. Donc, <b>ils sont très spécifiques et ne devraient être utilisés que dans les messages appropriés pour éviter des problèmes potentiels dans le jeu !</b>
 
 ```
 [e 00 00] - Variable 1
@@ -134,7 +133,7 @@ There are 4 variable control codes. The meaning of these variables will change d
 
 #### Images
 
-These control codes can be used to insert button and icon images into the text.
+Ces codes de contrôle peuvent être utilisés pour insérer des images de boutons et d’icônes dans le texte..
 
 ```
 [f 01] - X
